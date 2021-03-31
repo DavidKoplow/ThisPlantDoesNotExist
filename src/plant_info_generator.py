@@ -12,10 +12,12 @@ def plant_info_generator(filename):
     data = read_file["Accepted Symbol"]
     all_plant_symbols = pd.Series.tolist(data)
     print('\n'.join(all_plant_symbols))
+    return all_plant_symbols
+
 
     # can repeat process for other features; (ex) Fruit color
-    data = read_file["Fruit Color"]
-    all_fruit_colors = pd.Series.tolist(data)  # a lot of NaN's
+    # data = read_file["Fruit Color"]
+    # all_fruit_colors = pd.Series.tolist(data)  # a lot of NaN's
 
 
 # plant_info_generator(r'data\plants_usda_selected_features.txt')

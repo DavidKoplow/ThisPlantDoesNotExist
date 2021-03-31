@@ -6,6 +6,8 @@ import requests
 import io
 from PIL import Image
 import hashlib
+from plant_info_generator import plant_info_generator
+
 
 # Image Scraper for the USDA plants database
 # Made by Dylan Walker 3/31/2021
@@ -13,7 +15,7 @@ import hashlib
 # Link to ChromeDriver download(also in github): https://chromedriver.chromium.org/downloads 
 
 # Specify your path to your ChromeDriver exe here
-DRIVER_PATH = 'C:/Users/dwsco/Documents/Python/P&A/Image TEst/chromedriver.exe'
+DRIVER_PATH = 'Image Scraper/chromedriver.exe'
 
 # Gets each image url from the website by first navigating to the images tab and then clicking on each image. Also sorts out non-plant (specifically non gallery urls) images.
 def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
@@ -66,7 +68,7 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
     return image_urls
 
 # Specify your desired save path here (the program will automatically create a folder and put all of the images inside of it)
-path = 'C:/Users/dwsco/Documents/Python/P&A/Image TEst'
+path = 'Image Scraper'
 
 # Downloads each image using the image urls found by fetch_image_urls as a jpg
 def persist_image(folder_path,url):
@@ -100,4 +102,6 @@ def search_and_download(search_term,driver_path=DRIVER_PATH,target_path=path,num
         persist_image(target_folder,elem)
 
 # Change the argument here to whatever plant ID that you want to search
-search_and_download('ABGR')
+plant_names = plant_info_generator(r'data\plants_usda_selected_features.txt')
+for name in plant_names[1:10]: # just for testing
+    search_and_download(name)
