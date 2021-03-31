@@ -4,16 +4,19 @@ import time
 import os
 import requests
 import io
-from PIL import Image
+from PIL import Image, ImageChops
 import hashlib
+import numpy as np
 
 # Image Scraper for the USDA plants database
 # Made by Dylan Walker 3/31/2021
 # All of the above Python modules required as well as chrome driver corresponding to your chrome version (found in About Google Chrome in the top right dropdown under help)
 # Link to ChromeDriver download(also in github): https://chromedriver.chromium.org/downloads 
 
+
 # Specify your path to your ChromeDriver exe here
-DRIVER_PATH = 'C:/Users/dwsco/Documents/Python/P&A/Image TEst/chromedriver.exe'
+DRIVER_PATH = 'chromedriver.exe'
+
 
 # Gets each image url from the website by first navigating to the images tab and then clicking on each image. Also sorts out non-plant (specifically non gallery urls) images.
 def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
@@ -66,7 +69,7 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
     return image_urls
 
 # Specify your desired save path here (the program will automatically create a folder and put all of the images inside of it)
-path = 'C:/Users/dwsco/Documents/Python/P&A/Image TEst'
+path = 'Images'
 
 # Downloads each image using the image urls found by fetch_image_urls as a jpg
 def persist_image(folder_path,url):
@@ -79,10 +82,17 @@ def persist_image(folder_path,url):
   try:
       image_file = io.BytesIO(image_content)
       image = Image.open(image_file).convert('RGB')
-      file_path = os.path.join(folder_path,hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
-      with open(file_path, 'wb') as f:
-          image.save(f, "JPEG", quality=85)
-      print(f"SUCCESS - saved {url} - as {file_path}")
+
+
+      rgb = image.split()
+      largest_diff_pixels=ImageChops.difference(rgb[0],rgb[1]).getextrema()[1]+ImageChops.difference(rgb[0],rgb[2]).getextrema()[1]
+      if(largest_diff_pixels>50):
+
+        file_path = os.path.join(folder_path,hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
+        with open(file_path, 'wb') as f:
+            
+            image.save(f, "JPEG", quality=85)
+        print(f"SUCCESS - saved {url} - as {file_path}")
   except Exception as e:
       print(f"ERROR - Could not save {url} - {e}")
 
