@@ -16,7 +16,7 @@ from plant_info_generator import plant_info_generator
 
 
 # Specify your path to your ChromeDriver exe here
-DRIVER_PATH = 'chromedriver.exe'
+DRIVER_PATH = 'Image Scraper/chromedriver.exe'
 
 
 # Gets each image url from the website by first navigating to the images tab and then clicking on each image. Also sorts out non-plant (specifically non gallery urls) images.
@@ -72,7 +72,7 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
 
 
 # Specify your desired save path here (the program will automatically create a folder and put all of the images inside of it)
-path = 'Images'
+path = 'Image Scraper'
 
 
 # Downloads each image using the image urls found by fetch_image_urls as a jpg
