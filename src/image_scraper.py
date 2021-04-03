@@ -76,7 +76,7 @@ path = 'Image Scraper'
 
 
 # Downloads each image using the image urls found by fetch_image_urls as a jpg
-def persist_image(folder_path, url):
+def persist_image(folder_path, url, plant_name, iter):
     try:
         image_content = requests.get(url).content
 
@@ -94,7 +94,7 @@ def persist_image(folder_path, url):
             im3=rgb[2].resize((1,1))
             print(im3)
             if(im3.getpixel((0,0))<140):
-                file_path = os.path.join(folder_path, hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
+                file_path = os.path.join(folder_path, plant_name + '_' + str(iter) + '.jpg')
                 with open(file_path, 'wb') as f:
                     image.save(f, "JPEG", quality=85)
                 print(f"SUCCESS - saved {url} - as {file_path}")
@@ -112,8 +112,10 @@ def search_and_download(search_term, driver_path=DRIVER_PATH, target_path=path, 
     with webdriver.Chrome(executable_path=driver_path) as wd:
         res = fetch_image_urls(search_term, number_images, wd=wd, sleep_between_interactions=0.5)
 
+    i = 0
     for elem in res:
-        persist_image(target_folder, elem)
+        persist_image(target_folder, elem, search_term, i)
+        i += 1
 
 
 # Change the argument here to whatever plant ID that you want to search
