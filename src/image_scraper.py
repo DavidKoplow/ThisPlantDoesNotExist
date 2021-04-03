@@ -4,7 +4,7 @@ import time
 import os
 import requests
 import io
-from PIL import Image, ImageChops
+from PIL import Image, ImageChops, ImageFilter
 import hashlib
 import numpy as np
 from plant_info_generator import plant_info_generator
@@ -91,10 +91,13 @@ def persist_image(folder_path, url):
         largest_diff_pixels = ImageChops.difference(rgb[0], rgb[1]).getextrema()[1] + \
                               ImageChops.difference(rgb[0], rgb[2]).getextrema()[1]
         if (largest_diff_pixels > 50):
-            file_path = os.path.join(folder_path, hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
-            with open(file_path, 'wb') as f:
-                image.save(f, "JPEG", quality=85)
-            print(f"SUCCESS - saved {url} - as {file_path}")
+            im3=rgb[2].resize((1,1))
+            print(im3)
+            if(im3.getpixel((0,0))<140):
+                file_path = os.path.join(folder_path, hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
+                with open(file_path, 'wb') as f:
+                    image.save(f, "JPEG", quality=85)
+                print(f"SUCCESS - saved {url} - as {file_path}")
     except Exception as e:
         print(f"ERROR - Could not save {url} - {e}")
 
