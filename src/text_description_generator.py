@@ -9,10 +9,13 @@ def get_attributes(feature):
    return pd.Series.tolist(read_file[feature])
 
 def isify(s, o=["yes","no"],r=["is, isn't"]):
-   for i in range(len(o)):
-       if(o[i]==s):
-           return r[i]
-       return "is unknown if"
+    if(s==None):
+        return ""
+    for i in range(len(o)):
+        if(o[i]==s):
+            return before+" "+r[i]+" "+after
+    return ""
+
 
 def isnan(input):
    if str(input) == 'nan':
@@ -47,6 +50,19 @@ lifespans = get_attributes("Lifespan")
 low_growing_grasses = get_attributes("Low Growing Grass")
 shape_and_orientations = get_attributes("Shape and Orientation")
 toxicities = get_attributes("Toxicity")
+drought  =  pd.Series.tolist(read_file["Drought Tolerance"]) 
+fertility =  pd.Series.tolist(read_file["Fertility Requirement"]) 
+fire_tolerance  =  pd.Series.tolist(read_file["Fire Tolerance"])
+precipitation1  =  pd.Series.tolist(read_file["Precipitation (Minimum)"])
+precipitation1  =  pd.Series.tolist(read_file["Precipitation (Maximum)"])
+
+shade =  pd.Series.tolist(read_file["Shade Tolerance"])
+tempature = pd.Series.tolist(read_file["Temperature, Minimum (°F)"])
+period = pd.Series.tolist(read_file["Bloom Period"])
+bulb = pd.Series.tolist(read_file["Propogated by Bulbs"])
+
+#product =  pd.Series.tolist(read_file["Berry/Nut/Seed Product"])
+palatable = pd.Series.tolist(read_file["Palatable Human"])
 
 
 
@@ -103,6 +119,17 @@ for i in range(3, 10): #len(names)
         low_growing_grass = f"and has low growing grass "
     shape_and_orientation = f"with a {shape_and_orientations[i]} orientation \n"
     leaves_life_shape = leaf_retention + lifespan + toxicity + low_growing_grass + shape_and_orientation
+
+    drought="that is "+ isify(drought[i],s=["low","medium","high"],r=["not","somewhat","very"] +" tolorant of drought")
+    fertility = "that "+isify(fire_tolerance[i],s=["low","medium","high"],r=["doesn't require fertle","requires normal","requires fertle"])+" soil to grow"
+    fire_tolerance = "that is "+isify(fire_tolerance[i],s=["med","low","high"],r=["somewhat","isn't","is"])+" tolerant to fire"
+    precipitation = "needs between "+precipitation1[i]+" and "+precipitation2[i]+" precipitation "
+    shade = "that is "+shade[i]+"of shade"
+    tempature = "that survives at "+"Temperature, Minimum (°F)"
+    period = "that blooms in "+period[i]
+    bulb = "that "+isify(bulb[i],r=["has",""])+ "bulbs"
+    palatable = "that "+isify(palatable[i])+" edible"
+
 
     L = [s1, s2, s3, fruit, growth, height, leaves_life_shape]
     print(L)
