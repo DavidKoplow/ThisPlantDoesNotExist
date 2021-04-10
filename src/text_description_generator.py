@@ -6,13 +6,18 @@ filename = r'data\plants_usda_selected_features.txt'
 read_file = pd.read_csv(filename, error_bad_lines=False)
 
 def get_attributes(feature):
-    return pd.Series.tolist(read_file[feature])
+   return pd.Series.tolist(read_file[feature])
 
 def isify(s, o=["yes","no"],r=["is, isn't"]):
-    for i in range(len(o)):
-        if(o[i]==s):
-            return r[i]
-        return ""
+   for i in range(len(o)):
+       if(o[i]==s):
+           return r[i]
+       return "is unknown if"
+
+def isnan(input):
+   if str(input) == 'nan':
+       return True
+   return False
 
 
 names = get_attributes("Accepted Symbol")
@@ -50,22 +55,29 @@ for i in range(3, 10): #len(names)
     filename = f'data\{name}_{0}.txt'
     descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
 
-    import numpy as np
     prefix = "A plant "
-    if str(areas[i]) == 'nan':
-        print()
-    area = f"that lives in {areas[i]}."
-    s1 = (prefix + area + '\n') if str(areas[i]) != 'nan' else ""
 
-    category = f"A plant categorized as {categories[i]} "
-    kingdom = f"and is a {kingdoms[i]}." # fungus, plantae
-    s2 = category + kingdom + '\n'
+    area = f"that lives in {areas[i]} " if not isnan(str(areas[i])) else ""
+    category = f"categorized as {categories[i]} " if not isnan(str(categories[i])) else ""
+    kingdom = f"in the {kingdoms[i]} kingdom" if not isnan(str(kingdoms[i])) else "" # fungus, plantae
+    s_category = prefix + area + category + kingdom + '.\n'
 
-    duration = f"A {durations[i]} plant that grows as "
-    habit = f"{habits[i]} during the "
-    growth_period = f"{growth_periods[i]}, and "
-    fall_conspicuous = f"{isify(fall_conspicuouses[i])} conspicuous during the fall \n"
-    s3 = duration + habit + growth_period + fall_conspicuous + '\n'
+    duration = f"{durations[i]}ly " if not isnan(str(durations[i])) else ""
+    habit = f"as {habits[i]} " if not isnan(str(habits[i])) else ""
+    growth_period = f"in the {growth_periods[i]} " if not isnan(str(growth_periods[i])) else ""
+    fall_conspicuous = f",{isify(fall_conspicuouses[i])} conspicuous during the fall"
+    s_growth = prefix + "that grows " + duration + habit + growth_period + fall_conspicuous + '.\n'
+
+    fire_resistance = f"{isify(fire_resistances[i])} resistant to fire " if not isnan(str(fire_resistances[i])) else ""
+    flower_color = f"with {flower_colors[i]} flower color " if not isnan(str(flower_colors[i])) else ""
+    flower_conspicuous = f"with flower that {isify(flower_conspicuouses[i])} resistant to fire " if not isnan(str(flower_conspicuouses[i])) else ""
+    s_flower = prefix + fire_resistance + flower_color + flower_conspicuous + '.\n'
+
+    foliage_color = f"that is {foliage_colors[i]}, " if not isnan(str(foliage_colors[i])) else ""
+    foliage_texture = f"that is {foliage_textures[i]}" if not isnan(str(foliage_textures[i])) else ""
+    foliage_porosity_summer = f"{foliage_porosities_summer[i]} over the summer " if not isnan(str(foliage_porosities_summer[i])) else ""
+    foliage_porosity_winter = f"and {foliage_porosities_winter[i]} over the winter" if not isnan(str(foliage_porosities_summer[i])) else ""
+    s_foliage = prefix + "with foliage " + foliage_color + foliage_texture + foliage_porosity_summer + foliage_porosity_winter + '.\n'
 
     fruit_color = f"A plant that has {fruit_color[i]} colored fruit and "
     fruit_conspicuous = f"its' fruit {isify(fruit_conspicuouses[i])} conspicuous \n"
@@ -91,22 +103,10 @@ for i in range(3, 10): #len(names)
         low_growing_grass = f"and has low growing grass "
     shape_and_orientation = f"with a {shape_and_orientations[i]} orientation \n"
     leaves_life_shape = leaf_retention + lifespan + toxicity + low_growing_grass + shape_and_orientation
-    
 
-
-
-
-
-
-
-    print(s1)
-    print(s2)
-    print(s3)
-    print (fruit)
-    print (growth)
-    print (height)
-    print (leaves_life_shape)
-    descriptions.writelines([s1, s2, s3, fruit, growth, height, leaves_life_shape])
+    L = [s1, s2, s3, fruit, growth, height, leaves_life_shape]
+    print(L)
+    descriptions.writelines(L)
     descriptions.close
 
     print("--------------------")
