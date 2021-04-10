@@ -102,7 +102,11 @@ for i in range(3, 10): #len(names)
     print(s1)
     print(s2)
     print(s3)
-    descriptions.writelines([s1, s2, s3])
+    print (fruit)
+    print (growth)
+    print (height)
+    print (leaves_life_shape)
+    descriptions.writelines([s1, s2, s3, fruit, growth, height, leaves_life_shape])
     descriptions.close
 
     print("--------------------")
