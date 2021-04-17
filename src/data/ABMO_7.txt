@@ -1,0 +1,18 @@
+A plant with unknown foliage porosity over the summer and unknown foliage porosity over the winter. 
+A plant that has unknown colored fruit. 
+A plant that does not retain leaves.
+A plant that is unknown if toxic.
+A plant that has a unknown orientation
+A plant with unknown foliage color. 
+A plant with flower that is unknown if conspicuousA plant with unknown flower color A plant that grows at a unknown rate. 
+A plant with fruit that is unknown if conspicuous. 
+A plant that does not have bulbs.
+A plant that is unknown if edible.
+A plant that has a nan lifespan.
+A plant that grows at a unknown rate. 
+A plant that has mature height nan feet tall. 
+A plant that is unknown if providing of shade.
+A plant that does not have low growing grass 
+A plant .
+A plant that needs between nan and nan precipitation .
+A plant with unknown foliage texture. 

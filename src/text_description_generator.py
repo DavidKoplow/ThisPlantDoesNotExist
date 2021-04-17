@@ -76,11 +76,6 @@ palatables = pd.Series.tolist(read_file["Palatable Human"])
 
 
 for i in range(3, 10):
-# change to for i in range(len(names)):
-    name = names[i]
-    filename = f'data\{name}_{0}.txt'
-    descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
-
     prefix = "A plant "
 
     area = f"that lives in {areas[i]} " if not isnan(str(areas[i])) else "" # change this to unabbreviated place names
@@ -88,30 +83,29 @@ for i in range(3, 10):
     kingdom = f"in the {kingdoms[i]} kingdom" if not isnan(str(kingdoms[i])) else "" # fungus, plantae
     s_category = prefix + area + category + kingdom + '.\n'
 
-    duration = f"{durations[i]}ly " if not isnan(str(durations[i])) else ""
-    habit = f"as {habits[i]} " if not isnan(str(habits[i])) else ""
-    growth_period = f"in the {growth_periods[i]} " if not isnan(str(growth_periods[i])) else ""
-    fall_conspicuous = f",{isify_(fall_conspicuouses[i])} conspicuous during the fall"
-    s_growth = prefix + "that grows " + duration + habit + growth_period + fall_conspicuous + '.\n'
+    duration = prefix + f"that grows {durations[i]}ly " if not isnan(str(durations[i])) else ""
+    habit = prefix + f"that grows {habits[i]} " if not isnan(str(habits[i])) else ""
+    growth_period = prefix + f"that grows in the {growth_periods[i]} " if not isnan(str(growth_periods[i])) else ""
+    fall_conspicuous = prefix + f"that is {isify_(fall_conspicuouses[i])} conspicuous during the fall"
+    #s_growth = prefix + "that grows " + duration + habit + growth_period + fall_conspicuous + '.\n'
 
     flower_color = prefix +f"with {isknown(flower_colors[i])} flower color "
     flower_conspicuous = prefix + f"with flower that {isify_(flower_conspicuouses[i])} conspicuous"
 
-    foliage_color = f"that is {foliage_colors[i]}, " if not isnan(str(foliage_colors[i])) else ""
-    foliage_texture = f"that is {foliage_textures[i]}" if not isnan(str(foliage_textures[i])) else ""
-    foliage_porosity_summer = f"{foliage_porosities_summer[i]} over the summer " if not isnan(str(foliage_porosities_summer[i])) else ""
-    foliage_porosity_winter = f"and {foliage_porosities_winter[i]} over the winter" if not isnan(str(foliage_porosities_summer[i])) else ""
-    s_foliage = prefix + "with foliage " + foliage_color + foliage_texture + foliage_porosity_summer + foliage_porosity_winter + '.\n'
+    foliage_color = prefix + f"with {isknown(foliage_colors[i])} foliage color. \n"
+    foliage_texture = prefix + f"with {isknown(foliage_textures[i])} foliage texture. \n"
+    foliage_porosity = prefix + f"with {isknown(foliage_porosities_summer[i])} foliage porosity over the summer and {isknown(foliage_porosities_summer[i])} foliage porosity over the winter. \n"
+    #s_foliage = prefix + "with foliage " + foliage_color + foliage_texture + foliage_porosity_summer + foliage_porosity_winter + '.\n'
 
     fruit_color = f"A plant that has {isknown(fruit_colors[i])} colored fruit. \n"
-    fruit_conspicuous = f"A fruit with fruit that {isify_(isify_(fruit_conspicuouses[i]))} conspicuous \n"
+    fruit_conspicuous = f"A plant with fruit that {isify_(isify_(fruit_conspicuouses[i]))} conspicuous. \n"
 
     growth_form = prefix + f"that grows in {isknown(growth_forms[i])} form." + '\n'
     growth_rate = prefix + f"that grows at a {isknown(growth_rates[i])} rate. \n"
 
-    start_height = prefix + f"that starts at {start_heights[i]} feet tall. "
-    mature_height = f"and has mature height {mature_heights[i]} feet tall. \n"
-    height = start_height + mature_height
+    start_height = prefix + f"that starts at {start_heights[i]} feet tall. \n"
+    mature_height = prefix + f"that has mature height {mature_heights[i]} feet tall. \n"
+    #height = start_height + mature_height
 
     if isify(leaf_retentions[i]) == "":
         leaf_retention = prefix + f"that does not retain leaves.\n"
@@ -127,7 +121,7 @@ for i in range(3, 10):
     #leaves_life_shape = prefix + leaf_retention + lifespan + toxicity + low_growing_grass + shape_and_orientation + '.\n'
 
     drought= prefix + "that " + isify_(drought[i],o=["low","medium","high"],r=["not","somewhat","very"]) +" tolerant of drought" + '.\n'
-    fertility = prefix + "that requires "+ isknown(fertilities[i])+" fertile soil to grow" + '.\n'
+    fertility = prefix + "that "+ isify_(fertilities[i])+" requiring fertile soil to grow" + '.\n'
     fire_tolerance = prefix + "that "+ isify_(fire_tolerance[i],o=["med","low","high"],r=["somewhat","isn't","is"])+" tolerant to fire" + '.\n'
     precipitation = prefix + "that needs between "+ str(precipitation1[i]) +" and "+str(precipitation2[i])+" precipitation " + '.\n'
     shade = prefix + "that "+ isify_(str(shades[i])) +" providing of shade" + '.\n'
@@ -136,16 +130,20 @@ for i in range(3, 10):
     palatable = prefix + "that "+isify_(palatables[i])+ " edible" + '.\n'
 
 
-    L = [s_category, s_growth, flower_color, flower_conspicuous, fruit_color, fruit_conspicuous, growth_form, growth_rate, height, leaf_retention, lifespan, toxicity, shape_and_orientation, low_growing_grass, drought, fertility, growth_form, growth_rate, fire_tolerance, precipitation, shade, temperature, bulb, palatable]
-    print(L)
+    L = [s_category] + [duration, habit, growth_period, fall_conspicuous] + [flower_color, flower_conspicuous] + [foliage_color, foliage_texture, foliage_porosity] +\
+        [fruit_color, fruit_conspicuous] + [growth_form, growth_rate, start_height, mature_height] + [leaf_retention, lifespan, toxicity, shape_and_orientation] + \
+        [low_growing_grass, drought, fertility, growth_form, growth_rate, fire_tolerance, precipitation, shade, temperature, bulb, palatable]
 
     # rng time
     feats = len(L)
-    L = random.choices(L, k=3*feats//4)  # include 3/4 of the features into each file
 
-
-    descriptions.writelines(L)
-    descriptions.close
+    name = names[i]
+    for copy in range(10): # 10 descriptions per images
+        filename = f'data\{name}_{copy}.txt'
+        descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
+        L = random.sample(L, 3 * feats // 4)  # include 3/4 of the features into each file
+        descriptions.writelines(L)
+        descriptions.close
 
     print("--------------------")
 

@@ -1,0 +1,18 @@
+A plant that has a Conical orientation
+A plant that does not retain leaves.
+A plant with Green foliage color. 
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant with Dense foliage texture. 
+A plant with fruit that is unknown if conspicuous. 
+A plant that grows at a Slow rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that is unknown if providing of shade.
+A plant that does not have low growing grass 
+A plant that grows Tree A plant with flower that is unknown if conspicuousA plant that grows at a Slow rate. 
+A plant with Yellow flower color A plant that starts at 18.0 feet tall. 
+A plant that grows in the Spring and Summer A plant that has a Short lifespan.
+A plant that has Brown colored fruit. 
+A plant that bulbs.
+A plant that is unknown if tolerant to fire.
+A plant that needs between 13.0 and 60.0 precipitation .
+A plant that is is unknown if conspicuous during the fallA plant that grows in Single Stem form.
