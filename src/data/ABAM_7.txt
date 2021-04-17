@@ -1,0 +1,22 @@
+A plant that needs between 38.0 and 260.0 precipitation .
+A plant with Yellow flower color. 
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant that is unknown if providing of shade.
+A plant that does not retain leaves.
+A plant that grows at a Slow rate. 
+A plant with Gray-Green foliage color. 
+A plant that is unknown if tolerant to fire.
+A plant that is unknown if toxic.
+A plant with fruit that is unknown if conspicuous. 
+A plant that is is unknown if conspicuous during the fall 
+A plant that is unknown if requiring fertile soil to grow.
+A plant that is unknown if edible.
+A plant that grows Perennially 
+A plant that bulbs.
+A plant that has Brown colored fruit. 
+A plant that lives in NA (L48, AK, CAN) categorized as Gymnosperm in the Plantae kingdom.
+A plant that grows Tree 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with flower that is unknown if conspicuous.
+A plant that is unknown if tolerant of drought.

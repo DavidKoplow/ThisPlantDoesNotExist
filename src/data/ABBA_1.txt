@@ -1,0 +1,23 @@
+A plant with Yellow flower color. 
+A plant that has a Short lifespan.
+A plant that grows in Single Stem form.
+A plant that does not retain leaves.
+A plant that is unknown if tolerant of drought.
+A plant that grows at a Slow rate. 
+A plant that is unknown if tolerant to fire.
+A plant with Green foliage color. 
+A plant that is unknown if edible.
+A plant that grows Tree 
+A plant that bulbs.
+A plant that is is unknown if conspicuous during the fall 
+A plant that grows in the Spring and Summer 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with fruit that is unknown if conspicuous. 
+A plant that grows at a Slow rate. 
+A plant that has Brown colored fruit. 
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant with Dense foliage texture. 
+A plant that needs between 13.0 and 60.0 precipitation .
+A plant that starts at 18.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that grows in Single Stem form.
