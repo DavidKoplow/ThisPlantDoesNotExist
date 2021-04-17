@@ -74,8 +74,8 @@ bulbs = pd.Series.tolist(read_file["Propogated by Bulbs"])
 palatables = pd.Series.tolist(read_file["Palatable Human"])
 
 
-
 for i in range(3, 10):
+#for i in range(3, len(names)):
     prefix = "A plant "
 
     area = f"that lives in {areas[i]} " if not isnan(str(areas[i])) else "" # change this to unabbreviated place names
@@ -83,13 +83,13 @@ for i in range(3, 10):
     kingdom = f"in the {kingdoms[i]} kingdom" if not isnan(str(kingdoms[i])) else "" # fungus, plantae
     s_category = prefix + area + category + kingdom + '.\n'
 
-    duration = prefix + f"that grows {durations[i]}ly " if not isnan(str(durations[i])) else ""
-    habit = prefix + f"that grows {habits[i]} " if not isnan(str(habits[i])) else ""
-    growth_period = prefix + f"that grows in the {growth_periods[i]} " if not isnan(str(growth_periods[i])) else ""
-    fall_conspicuous = prefix + f"that is {isify_(fall_conspicuouses[i])} conspicuous during the fall"
+    duration = prefix + f"that grows {durations[i]}ly \n" if not isnan(str(durations[i])) else ""
+    habit = prefix + f"that grows {habits[i]} \n" if not isnan(str(habits[i])) else ""
+    growth_period = prefix + f"that grows in the {growth_periods[i]} \n" if not isnan(str(growth_periods[i])) else "\n"
+    fall_conspicuous = prefix + f"that is {isify_(fall_conspicuouses[i])} conspicuous during the fall \n"
     #s_growth = prefix + "that grows " + duration + habit + growth_period + fall_conspicuous + '.\n'
 
-    flower_color = prefix +f"with {isknown(flower_colors[i])} flower color. \n"
+    flower_color = prefix + f"with {isknown(flower_colors[i])} flower color. \n"
     flower_conspicuous = prefix + f"with flower that {isify_(flower_conspicuouses[i])} conspicuous.\n"
 
     foliage_color = prefix + f"with {isknown(foliage_colors[i])} foliage color. \n"
@@ -103,21 +103,18 @@ for i in range(3, 10):
     growth_form = prefix + f"that grows in {isknown(growth_forms[i])} form." + '\n'
     growth_rate = prefix + f"that grows at a {isknown(growth_rates[i])} rate. \n"
 
-    start_height = prefix + f"that starts at {start_heights[i]} feet tall. \n"
-    mature_height = prefix + f"that has mature height {mature_heights[i]} feet tall. \n"
-    #height = start_height + mature_height
+    start_height = prefix + f"that starts at {isknown(start_heights[i])} feet tall. \n"
+    mature_height = f"that has mature height {mature_heights[i]} feet tall. \n"
+    height = start_height + "and" + mature_height
 
     if isify(leaf_retentions[i]) == "":
         leaf_retention = prefix + f"that does not retain leaves.\n"
     else:
         leaf_retention = prefix + f"that retains leaves.\n"
-    lifespan = prefix + f"that has a {lifespans[i]} lifespan.\n"
+    lifespan = prefix + f"that has a {isknown(lifespans[i])} lifespan.\n"
     toxicity = prefix + f"that {isify_(toxicities[i])} toxic.\n"
-    if isify(low_growing_grasses[i]) == "":
-        low_growing_grass = prefix + f"that does not have low growing grass " + "\n"
-    else:
-        low_growing_grass = prefix + f"that has low growing grass " + "\n"
-    shape_and_orientation = prefix + f"that has a {isknown(shape_and_orientations[i])} orientation" + "\n"
+    low_growing_grass = prefix + f"that {isify_(low_growing_grasses[i])} low growing grass. \n"
+    shape_and_orientation = prefix + f"that has a {isknown(shape_and_orientations[i])} orientation." + "\n"
     #leaves_life_shape = prefix + leaf_retention + lifespan + toxicity + low_growing_grass + shape_and_orientation + '.\n'
 
     drought= prefix + "that " + isify_(drought[i],o=["low","medium","high"],r=["not","somewhat","very"]) +" tolerant of drought" + '.\n'
@@ -131,7 +128,7 @@ for i in range(3, 10):
 
 
     L = [s_category] + [duration, habit, growth_period, fall_conspicuous] + [flower_color, flower_conspicuous] + [foliage_color, foliage_texture, foliage_porosity] +\
-        [fruit_color, fruit_conspicuous] + [growth_form, growth_rate, start_height, mature_height] + [leaf_retention, lifespan, toxicity, shape_and_orientation] + \
+        [fruit_color, fruit_conspicuous] + [growth_form, growth_rate, height] + [leaf_retention, lifespan, toxicity, shape_and_orientation] + \
         [low_growing_grass, drought, fertility, growth_form, growth_rate, fire_tolerance, precipitation, shade, temperature, bulb, palatable]
 
     # rng time
