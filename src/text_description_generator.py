@@ -1,5 +1,6 @@
 import pandas as pd
 import random
+import os
 
 filename = r'data\plants_usda_selected_features.txt'
 read_file = pd.read_csv(filename, error_bad_lines=False)
@@ -136,7 +137,9 @@ for i in range(3, 10):
 
     name = names[i]
     for copy in range(10): # 10 descriptions per images
-        filename = f'data\{name}_{copy}.txt'
+        if not os.path.exists(f'data\{name}'):
+            os.makedirs(f'data\{name}')
+        filename = f'data\{name}\{name}_{copy}.txt'
         descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
         L = random.sample(L, 3 * feats // 4)  # include 3/4 of the features into each file
         descriptions.writelines(L)
