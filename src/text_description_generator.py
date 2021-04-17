@@ -89,8 +89,8 @@ for i in range(3, 10):
     fall_conspicuous = prefix + f"that is {isify_(fall_conspicuouses[i])} conspicuous during the fall"
     #s_growth = prefix + "that grows " + duration + habit + growth_period + fall_conspicuous + '.\n'
 
-    flower_color = prefix +f"with {isknown(flower_colors[i])} flower color "
-    flower_conspicuous = prefix + f"with flower that {isify_(flower_conspicuouses[i])} conspicuous"
+    flower_color = prefix +f"with {isknown(flower_colors[i])} flower color. \n"
+    flower_conspicuous = prefix + f"with flower that {isify_(flower_conspicuouses[i])} conspicuous.\n"
 
     foliage_color = prefix + f"with {isknown(foliage_colors[i])} foliage color. \n"
     foliage_texture = prefix + f"with {isknown(foliage_textures[i])} foliage texture. \n"
