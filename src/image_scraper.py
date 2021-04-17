@@ -72,7 +72,7 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
 
 
 # Specify your desired save path here (the program will automatically create a folder and put all of the images inside of it)
-path = 'Image Scraper'
+path = 'data'
 
 
 # Downloads each image using the image urls found by fetch_image_urls as a jpg
