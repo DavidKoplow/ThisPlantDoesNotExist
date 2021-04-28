@@ -37,13 +37,13 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
     results_start = 0
     while image_count < max_links_to_fetch:
         image_tab = wd.find_elements_by_name('#tabImages')
-        print(image_tab)
+        #print(image_tab)
         image_tab[0].click()
         # get all image thumbnail results
         thumbnail_results = wd.find_elements_by_css_selector("img")
         number_results = len(thumbnail_results)
 
-        print(f"Found: {number_results} search results. Extracting links from {results_start}:{number_results}")
+        #print(f"Found: {number_results} search results. Extracting links from {results_start}:{number_results}")
 
         for img in thumbnail_results[results_start:number_results]:
             # try to click every thumbnail such that we can get the real image behind it
@@ -63,7 +63,7 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
             image_count = len(image_urls)
 
             if len(image_urls) >= max_links_to_fetch:
-                print(f"Found: {len(image_urls)} image links, done!")
+                #print(f"Found: {len(image_urls)} image links, done!")
                 break
         # move the result startpoint further down
         results_start = len(thumbnail_results)
@@ -92,12 +92,12 @@ def persist_image(folder_path, url, plant_name, iter):
                               ImageChops.difference(rgb[0], rgb[2]).getextrema()[1]
         if (largest_diff_pixels > 50):
             im3=rgb[2].resize((1,1))
-            print(im3)
+            #print(im3)
             if(im3.getpixel((0,0))<140):
                 file_path = os.path.join(folder_path, plant_name + '_' + str(iter) + '.jpg')
                 with open(file_path, 'wb') as f:
                     image.save(f, "JPEG", quality=85)
-                print(f"SUCCESS - saved {url} - as {file_path}")
+                #print(f"SUCCESS - saved {url} - as {file_path}")
     except Exception as e:
         print(f"ERROR - Could not save {url} - {e}")
 
@@ -120,5 +120,5 @@ def search_and_download(search_term, driver_path=DRIVER_PATH, target_path=path, 
 
 # Change the argument here to whatever plant ID that you want to search
 plant_names = plant_info_generator(r'data\plants_usda_selected_features.txt')
-for name in plant_names[1:10]: # just for testing
+for name in plant_names:
     search_and_download(name)

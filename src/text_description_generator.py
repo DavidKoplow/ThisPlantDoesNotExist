@@ -136,8 +136,6 @@ for i in range(3, len(names)):
     L = [l for l in L if 'unknown' not in l and ' nan ' not in l and l != '']
     # rng time
     feats = len(L)
-    print(L)
-    print("--------------")
 
     name = names[i]
     for copy in range(20): # 20 descriptions per images (is that enough?)
@@ -149,5 +147,4 @@ for i in range(3, len(names)):
         descriptions.writelines(L)
         descriptions.close
 
-    print("--------------------")
 
