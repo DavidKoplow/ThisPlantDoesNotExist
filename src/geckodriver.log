@@ -1,0 +1,28 @@
+1619898700221	geckodriver	INFO	Listening on 127.0.0.1:51637
+1619898703263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dwsco\\AppData\\Local\\Temp\\rust_mozprofilea3ZtnZ"
+1619898703641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619898705345	Marionette	INFO	Listening on port 51649
+1619898705448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1619898905156	geckodriver	INFO	Listening on 127.0.0.1:52093
+1619898908192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dwsco\\AppData\\Local\\Temp\\rust_mozprofileRDOX8l"
+1619898908546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619898910249	Marionette	INFO	Listening on port 52105
+1619898910357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1619898947894	geckodriver	INFO	Listening on 127.0.0.1:52303
+1619898950917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dwsco\\AppData\\Local\\Temp\\rust_mozprofilemuBIvu"
+1619898951262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619898952902	Marionette	INFO	Listening on port 52314
+1619898952974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1619898973400	geckodriver	INFO	Listening on 127.0.0.1:52407
+1619898976431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dwsco\\AppData\\Local\\Temp\\rust_mozprofile4Rs9Om"
+1619898976771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619898978344	Marionette	INFO	Listening on port 52416
+1619898978480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.

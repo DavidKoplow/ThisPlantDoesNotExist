@@ -4,6 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait as wait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
 import time
 import os
 import requests
@@ -12,6 +13,7 @@ from PIL import Image, ImageChops, ImageFilter
 import hashlib
 import numpy as np
 from plant_info_generator import plant_info_generator
+import xml.etree.ElementTree as ET
 
 # Image Scraper for the USDA plants database
 # Made by Dylan Walker 3/31/2021
@@ -20,9 +22,9 @@ from plant_info_generator import plant_info_generator
 
 
 # Specify your path to your ChromeDriver exe here
-DRIVER_PATH = 'Image Scraper/chromedriver.exe'
-chrome_options = Options() 
-chrome_options.add_experimental_option("detach", True)
+DRIVER_PATH = 'Image Scraper/geckodriver.exe'
+#firefox_options = Options() 
+#firefox_options.add_experimental_option("detach", True)
 
 
 # Gets each image url from the website by first navigating to the images tab and then clicking on each image. Also sorts out non-plant (specifically non gallery urls) images.
@@ -31,16 +33,19 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
         wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(sleep_between_interactions)
 
-
-    search_url = "https://plants.sc.egov.usda.gov/home/plantProfile?symbol={q}"
+    search_url = 'https://plantsservices.sc.egov.usda.gov/api/PlantProfile?symbol={q}'
     # load the page
     wd.get(search_url.format(q=query))
     wd.maximize_window()
-    #wd.execute_script("window.open('');")
+    lines = wd.find_element_by_tag_name("AcceptedId")
+    print (lines)
+    tag_url = "https://plantsservices.sc.egov.usda.gov/api/PlantImages?plantId={q}"
+    #wd.get(tag_url.format(q=ID))
     image_urls = set()
     image_count = 0
     results_start = 0
     while image_count < max_links_to_fetch:
+        
         image_tab = wait(wd, 10).until(EC.visibility_of_element_located((By.ID, "ImagesTab")))
         #tabs = wd.find_element_by_class_name('nav nav-pills justify-content-start')
         #print(tabs)
@@ -48,8 +53,9 @@ def fetch_image_urls(query, max_links_to_fetch, wd, sleep_between_interactions):
         image_tab.click()
         # get all image thumbnail results
         scroll_to_end(wd)
-        thumbnail_results = wait(wd, 10).until(EC.visibility_of_element_located((By.PARTIAL_LINK_TEXT, "https://plants.sc.egov.usda.gov/ImageLibrary")))
-        #wd.find_elements_by_class_name()
+        thumbnail_results = wd.find_elements_by_partial_link_text("https://plants.sc.egov.usda.gov/ImageLibrary")
+        #thumbnail_results = wd.find_elements_by_class_name('ngx-gallery-thumbnail ngx-gallery-clickable')
+        #thumbnail_results.append(wd.find_element_by_class_name('ngx-gallery-thumbnail ngx-gallery-active ngx-gallery-clickable'))
         number_results = len(thumbnail_results)
         print (thumbnail_results)
 
@@ -122,7 +128,7 @@ def search_and_download(search_term, driver_path=DRIVER_PATH, target_path=path, 
         os.makedirs(target_folder)
 
     global wd
-    wd= webdriver.Chrome(executable_path=driver_path, options=chrome_options)
+    wd= webdriver.Firefox(executable_path=driver_path)
     res = fetch_image_urls(search_term, number_images, wd=wd, sleep_between_interactions=0.5)
     #with webdriver.Chrome(executable_path=driver_path, options=chrome_options) as wd:
         #global wd
