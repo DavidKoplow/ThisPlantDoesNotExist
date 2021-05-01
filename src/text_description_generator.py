@@ -143,7 +143,7 @@ for i in range(3, len(names)):
             os.makedirs(f'data\{name}')
         filename = f'data\{name}\{name}_{copy}.txt'
         descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
-        L = random.sample(L, 3 * len(L) // 4)  # include 3/4 of the features into each file
+        #L = random.sample(L, 3 * len(L) // 4)  # include 3/4 of the features into each file
         descriptions.writelines(L)
         descriptions.close
 
