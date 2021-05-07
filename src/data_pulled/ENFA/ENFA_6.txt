@@ -1,0 +1,2 @@
+A plant that needs between 5.0 and 10.0 precipitation .
+A plant that has Black colored fruit. 

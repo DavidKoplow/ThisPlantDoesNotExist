@@ -1,0 +1,6 @@
+A plant that starts at 2.0 feet tall. 
+andthat has mature height 3.0 feet tall. 
+A plant that grows in Thicket Forming form.
+A plant that needs between 10.0 and 35.0 precipitation .
+A plant that has a Rounded orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

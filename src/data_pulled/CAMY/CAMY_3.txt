@@ -1,0 +1,7 @@
+A plant that has a Moderate lifespan.
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 95.0 feet tall. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Slow rate. 
+A plant that survives at -10.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 

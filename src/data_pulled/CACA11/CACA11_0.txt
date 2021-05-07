@@ -1,0 +1,13 @@
+A plant that grows in Rhizomatous form.
+A plant with Porous foliage texture. 
+A plant that has a Erect orientation.
+A plant that needs between 14.0 and 40.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant that grows in Rhizomatous form.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that has a Long lifespan.
+A plant that grows as Graminoid 
+A plant with Gray-Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that not tolerant of drought.
+A plant that grows in the Spring and Summer 

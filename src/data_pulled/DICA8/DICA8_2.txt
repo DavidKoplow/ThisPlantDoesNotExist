@@ -1,0 +1,6 @@
+A plant that grows Perennially 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant with White flower color. 
+A plant that grows at a Rapid rate. 
+A plant that has a Erect orientation.

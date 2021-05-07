@@ -1,0 +1,8 @@
+A plant with Purple flower color. 
+A plant with Porous foliage texture. 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Dicot in the Plantae kingdom.
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 
+A plant that has a Moderate lifespan.
+A plant that grows in the Spring, Summer, Fall 
+A plant that has a Erect orientation.

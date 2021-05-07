@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Long lifespan.
+A plant with Green foliage color. 
+A plant that lives in NA (L48, AK, CAN, GL, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that has a Erect orientation.

@@ -1,0 +1,12 @@
+A plant that grows at a Moderate rate. 
+A plant that grows at a Moderate rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Bunch form.
+A plant with Green flower color. 
+A plant that has a Long lifespan.
+A plant that needs between 30.0 and 55.0 precipitation .
+A plant that grows in Bunch form.
+A plant that has a Semi-Erect orientation.
+A plant with Moderate foliage texture. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 

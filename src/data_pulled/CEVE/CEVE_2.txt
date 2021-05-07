@@ -1,0 +1,8 @@
+A plant that has a Semi-Erect orientation.
+A plant that grows in Thicket Forming form.
+A plant that grows as Tree, Shrub 
+A plant that has a Moderate lifespan.
+A plant with Dense foliage texture. 
+A plant that starts at 10.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant that survives at -23.0 degrees, minimum (°F).

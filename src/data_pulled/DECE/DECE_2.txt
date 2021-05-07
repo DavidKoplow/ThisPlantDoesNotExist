@@ -1,0 +1,6 @@
+A plant that has a Long lifespan.
+A plant that grows in Bunch form.
+A plant that has a Erect orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant .
+A plant with Moderate foliage texture. 

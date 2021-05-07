@@ -1,0 +1,6 @@
+A plant with Gray-Green foliage color. 
+A plant .
+A plant that grows in Stoloniferous form.
+A plant that needs between 7.0 and 32.0 precipitation .
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at -38.0 degrees, minimum (°F).

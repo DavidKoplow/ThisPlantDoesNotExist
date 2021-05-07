@@ -1,0 +1,9 @@
+A plant that grows Perennially 
+A plant that has a Erect orientation.
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Dark Green foliage color. 
+A plant that needs between 30.0 and 70.0 precipitation .
+A plant that grows in Single Stem form.
+A plant that is, isn't edible.
+A plant with Yellow flower color. 
+A plant that grows in Single Stem form.

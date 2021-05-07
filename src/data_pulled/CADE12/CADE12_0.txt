@@ -1,0 +1,16 @@
+A plant that grows as Tree 
+A plant that grows at a Rapid rate. 
+A plant that grows Perennially 
+A plant that not tolerant of fire.
+A plant that grows in Single Stem form.
+A plant that has Brown colored fruit. 
+A plant with Yellow-Green foliage color. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with fruit that is, isn't conspicuous. 
+A plant that needs between 35.0 and 60.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that has a Erect orientation.
+A plant that grows in the Spring 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Long lifespan.

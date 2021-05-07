@@ -1,0 +1,2 @@
+A plant that starts at 1.0 feet tall. 
+andthat has mature height 1.0 feet tall. 

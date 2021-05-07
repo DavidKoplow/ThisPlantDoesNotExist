@@ -1,0 +1,4 @@
+A plant that needs between 32.0 and 55.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that has a Moderate lifespan.

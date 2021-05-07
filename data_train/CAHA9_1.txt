@@ -1,0 +1,12 @@
+A plant that lives in PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree, Shrub 
+
+A plant with Red flower color. 
+A plant with Yellow-Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 33.0 feet tall. 
+A plant that has a Short lifespan.
+A plant that needs between 40.0 and 60.0 precipitation .
+A plant that survives at 40.0 degrees, minimum (°F).

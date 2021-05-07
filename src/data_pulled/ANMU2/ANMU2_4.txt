@@ -1,0 +1,4 @@
+A plant that needs between 60.0 and 90.0 precipitation .
+A plant that has a Erect orientation.
+A plant that grows at a Moderate rate. 
+A plant with Yellow flower color. 

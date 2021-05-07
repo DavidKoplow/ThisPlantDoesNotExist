@@ -1,0 +1,5 @@
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that starts at 1.0 feet tall. 
+andthat has mature height 1.0 feet tall. 
+A plant that has a Long lifespan.

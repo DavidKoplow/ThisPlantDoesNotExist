@@ -1,0 +1,12 @@
+A plant that has Black colored fruit. 
+A plant that has a Long lifespan.
+A plant with Gray-Green foliage color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that needs between 60.0 and 200.0 precipitation .
+A plant that lives in HI categorized as Dicot in the Plantae kingdom.
+A plant that starts at 130.0 feet tall. 
+andthat has mature height 160.0 feet tall. 
+A plant that grows in the Fall, Winter and Spring 
+A plant with Yellow flower color. 
+A plant that grows Perennially 

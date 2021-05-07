@@ -1,0 +1,6 @@
+A plant with Yellow flower color. 
+A plant that does retaining leaves.
+A plant that grows Perennially 
+A plant that survives at 40.0 degrees, minimum (°F).
+A plant that grows as Shrub, Tree 
+A plant that lives in PR, VI categorized as Dicot in the Plantae kingdom.

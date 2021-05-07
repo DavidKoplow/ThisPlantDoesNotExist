@@ -1,0 +1,8 @@
+A plant that has Brown colored fruit. 
+A plant that has a Long lifespan.
+A plant with White flower color. 
+A plant that grows in the Spring 
+A plant that is is, isn't conspicuous during the fall 
+A plant that needs between 45.0 and 60.0 precipitation .
+A plant that grows in Multiple Stem form.
+A plant that not tolerant of drought.

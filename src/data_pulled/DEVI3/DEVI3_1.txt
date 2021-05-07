@@ -1,0 +1,11 @@
+A plant that does retaining leaves.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Slow rate. 
+A plant that needs between 30.0 and 80.0 precipitation .
+A plant that has a Semi-Erect orientation.
+A plant that survives at 17.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.
+A plant that has Brown colored fruit. 
+A plant that grows in the Spring and Summer 
+A plant with Yellow-Green foliage color. 

@@ -1,0 +1,6 @@
+A plant that is, isn't edible.
+A plant that grows as Tree 
+A plant that grows Perennially 
+A plant that has a Irregular orientation.
+A plant that has a Short lifespan.
+A plant that survives at 40.0 degrees, minimum (°F).

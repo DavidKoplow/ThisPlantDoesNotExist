@@ -1,0 +1,6 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows as Shrub, Subshrub 
+A plant with Porous foliage texture. 
+A plant that grows at a Slow rate. 

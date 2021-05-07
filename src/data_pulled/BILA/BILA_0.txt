@@ -1,0 +1,14 @@
+A plant with Green foliage color. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that survives at 52.0 degrees, minimum (°F).
+A plant that grows as Forb/herb 
+A plant that grows in the Spring, Summer, Fall 
+A plant that has a Short lifespan.
+A plant that needs between 24.0 and 55.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Single Crown form.
+A plant that grows in Single Crown form.
+A plant with flower that is, isn't conspicuous.
+A plant that grows at a Rapid rate. 

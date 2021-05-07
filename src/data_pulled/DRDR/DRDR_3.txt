@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 
+A plant that grows in the Spring and Summer 
+A plant that has Brown colored fruit. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

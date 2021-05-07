@@ -1,0 +1,3 @@
+A plant that survives at -8.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 
+A plant with Gray-Green foliage color. 

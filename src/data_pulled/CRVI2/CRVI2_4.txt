@@ -1,0 +1,5 @@
+A plant that starts at 24.0 feet tall. 
+andthat has mature height 30.0 feet tall. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Multiple Stem form.

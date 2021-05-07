@@ -1,0 +1,7 @@
+A plant that has Black colored fruit. 
+A plant with Moderate foliage texture. 
+A plant with Yellow-Green foliage color. 
+A plant that has a Decumbent orientation.
+A plant that grows as Forb/herb, Vine 
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that grows Perennially 

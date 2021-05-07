@@ -1,0 +1,4 @@
+A plant that grows in the Fall, Winter and Spring 
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that is is, isn't conspicuous during the fall 

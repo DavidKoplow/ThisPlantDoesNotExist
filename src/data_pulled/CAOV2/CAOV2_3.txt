@@ -1,0 +1,6 @@
+A plant that grows as Tree 
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that needs between 29.0 and 80.0 precipitation .
+A plant that has a Erect orientation.

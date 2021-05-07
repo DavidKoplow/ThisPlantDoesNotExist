@@ -1,0 +1,6 @@
+A plant that has a Erect orientation.
+A plant with Green foliage color. 
+A plant that needs between 16.0 and 30.0 precipitation .
+A plant that has a Moderate lifespan.
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

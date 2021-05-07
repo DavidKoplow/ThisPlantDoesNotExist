@@ -1,0 +1,12 @@
+A plant that grows at a Rapid rate. 
+A plant that lives in NA (L48, GU, PB), HI, PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that has a Prostrate orientation.
+A plant with Yellow flower color. 
+A plant that has Brown colored fruit. 
+A plant that grows in the Year Round 
+A plant that not tolerant of fire.
+A plant that needs between 20.0 and 169.0 precipitation .
+A plant with Green foliage color. 
+A plant that grows Annually 
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant that grows at a Rapid rate. 

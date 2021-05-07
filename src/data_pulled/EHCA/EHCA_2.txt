@@ -1,0 +1,6 @@
+A plant that has a Erect orientation.
+A plant that grows in Colonizing form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 
+A plant that grows at a Rapid rate. 
+A plant with Yellow flower color. 

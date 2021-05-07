@@ -1,0 +1,4 @@
+A plant that has a Semi-Erect orientation.
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that has Brown colored fruit. 
+A plant that survives at -13.0 degrees, minimum (°F).

@@ -1,0 +1,4 @@
+A plant that has a Moderate lifespan.
+A plant that grows at a Slow rate. 
+A plant with Green flower color. 
+A plant that grows Perennially 

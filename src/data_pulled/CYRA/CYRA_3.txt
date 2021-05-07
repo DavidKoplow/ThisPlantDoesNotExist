@@ -1,0 +1,6 @@
+A plant that needs between 40.0 and 70.0 precipitation .
+A plant that does retaining leaves.
+A plant with Yellow-Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that grows in Thicket Forming form.

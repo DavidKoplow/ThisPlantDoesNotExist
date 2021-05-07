@@ -1,0 +1,17 @@
+A plant that lives in NA (L48, AK, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Graminoid 
+A plant that grows in the Spring 
+A plant with Green flower color. 
+A plant with Dark Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 35.0 and 50.0 precipitation .
+A plant that survives at -28.0 degrees, minimum (°F).

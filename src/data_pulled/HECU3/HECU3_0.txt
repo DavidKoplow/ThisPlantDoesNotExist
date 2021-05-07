@@ -1,0 +1,13 @@
+A plant that has a Decumbent orientation.
+A plant that grows in Rhizomatous form.
+A plant that grows in the Spring, Summer, Fall 
+A plant with Moderate foliage texture. 
+A plant with White flower color. 
+A plant that grows at a Moderate rate. 
+A plant that has Brown colored fruit. 
+A plant that has a Moderate lifespan.
+A plant that needs between 10.0 and 24.0 precipitation .
+A plant that grows in Rhizomatous form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Forb/herb, Subshrub 
+A plant that grows at a Moderate rate. 

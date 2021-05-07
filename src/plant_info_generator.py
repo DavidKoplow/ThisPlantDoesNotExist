@@ -20,4 +20,4 @@ def plant_info_generator(filename):
     # all_fruit_colors = pd.Series.tolist(data)  # a lot of NaN's
 
 
-plant_info_generator(r'data\plants_usda_selected_features.txt')
+plant_info_generator(r'ThisPlantDoesNotExist\src\data\plants_usda_selected_features.txt')

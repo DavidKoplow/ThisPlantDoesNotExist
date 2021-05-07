@@ -1,0 +1,7 @@
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that grows Perennially 
+A plant that grows in Single Stem form.
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant that has a Moderate lifespan.

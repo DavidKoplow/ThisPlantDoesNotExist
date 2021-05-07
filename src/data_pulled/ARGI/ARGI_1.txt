@@ -1,0 +1,9 @@
+A plant that has a Long lifespan.
+A plant that grows in Rhizomatous form.
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 24.0 and 100.0 precipitation .
+A plant with Dark Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant that grows as Subshrub, Shrub, Graminoid 
+A plant that grows in the Spring 

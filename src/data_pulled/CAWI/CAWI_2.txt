@@ -1,0 +1,4 @@
+A plant that grows as Tree, Shrub 
+A plant that has Red colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant with Green foliage color. 

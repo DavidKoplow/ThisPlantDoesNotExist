@@ -1,0 +1,11 @@
+A plant that is is, isn't conspicuous during the fall 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that survives at -20.0 degrees, minimum (°F).
+A plant that grows in Single Stem form.
+A plant that grows in the Spring and Summer 
+A plant with Yellow flower color. 
+A plant that grows at a Slow rate. 
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.

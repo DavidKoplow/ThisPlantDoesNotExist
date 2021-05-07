@@ -1,0 +1,6 @@
+A plant with Green flower color. 
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that has a Short lifespan.
+A plant that needs between 20.0 and 100.0 precipitation .
+A plant that has a Erect orientation.

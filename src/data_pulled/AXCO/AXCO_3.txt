@@ -1,0 +1,4 @@
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in the Spring and Summer 

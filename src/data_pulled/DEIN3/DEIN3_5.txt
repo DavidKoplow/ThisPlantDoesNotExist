@@ -1,0 +1,3 @@
+A plant that survives at 6.0 degrees, minimum (°F).
+A plant that has a Short lifespan.
+A plant that grows at a Moderate rate. 

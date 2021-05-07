@@ -1,0 +1,5 @@
+A plant thathasbulbs.
+A plant that needs between 40.0 and 65.0 precipitation .
+A plant that survives at -24.0 degrees, minimum (°F).
+A plant with flower that is, isn't conspicuous.
+A plant that grows Perennially 

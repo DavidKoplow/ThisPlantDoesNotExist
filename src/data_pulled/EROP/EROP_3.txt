@@ -1,0 +1,4 @@
+A plant that grows in Stoloniferous form.
+A plant that survives at 17.0 degrees, minimum (°F).
+A plant with Yellow flower color. 
+A plant with Porous foliage texture. 

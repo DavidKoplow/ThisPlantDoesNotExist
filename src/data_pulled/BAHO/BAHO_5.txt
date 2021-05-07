@@ -1,0 +1,2 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that needs between 9.0 and 20.0 precipitation .

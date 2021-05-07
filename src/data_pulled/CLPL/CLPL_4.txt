@@ -1,0 +1,3 @@
+A plant that needs between 8.0 and 16.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.

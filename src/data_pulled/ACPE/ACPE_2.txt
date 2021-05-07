@@ -1,0 +1,7 @@
+A plant that grows as Tree, Shrub 
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant that grows in Single Stem form.
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.

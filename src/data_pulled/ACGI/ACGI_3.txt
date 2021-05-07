@@ -1,0 +1,7 @@
+A plant with Dense foliage texture. 
+A plant with Green foliage color. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that grows in the Spring and Summer 
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 

@@ -1,0 +1,6 @@
+A plant that has a Long lifespan.
+A plant that grows as Graminoid 
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows Perennially 

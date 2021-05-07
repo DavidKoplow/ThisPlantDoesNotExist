@@ -1,0 +1,3 @@
+A plant that needs between 23.0 and 80.0 precipitation .
+A plant with Orange flower color. 
+A plant with Green foliage color. 

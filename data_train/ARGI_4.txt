@@ -1,0 +1,16 @@
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Subshrub, Shrub, Graminoid 
+A plant that grows in the Spring 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Dark Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 24.0 and 100.0 precipitation .
+A plant that survives at -23.0 degrees, minimum (°F).

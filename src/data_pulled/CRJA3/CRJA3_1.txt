@@ -1,0 +1,10 @@
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows in Single Stem form.
+A plant that has Brown colored fruit. 
+A plant with Yellow flower color. 
+A plant that grows in the Spring and Summer 
+A plant that grows in Single Stem form.
+A plant that needs between 36.0 and 55.0 precipitation .
+A plant that grows Perennially 
+A plant that does retaining leaves.

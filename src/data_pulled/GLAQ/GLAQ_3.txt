@@ -1,0 +1,6 @@
+A plant that grows in Single Stem form.
+A plant that starts at 60.0 feet tall. 
+andthat has mature height 40.0 feet tall. 
+A plant that has a Long lifespan.
+A plant that grows as Tree, Shrub 
+A plant with Moderate foliage texture. 

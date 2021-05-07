@@ -1,0 +1,2 @@
+A plant that has a Conical orientation.
+A plant that grows in the Spring and Summer 

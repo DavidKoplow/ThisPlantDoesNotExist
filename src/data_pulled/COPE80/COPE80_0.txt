@@ -1,0 +1,14 @@
+A plant that grows at a Slow rate. 
+A plant with White flower color. 
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows in Rhizomatous form.
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant that grows Perennially 
+A plant with Moderate foliage texture. 
+A plant that starts at 2.0 feet tall. 
+andthat has mature height 2.0 feet tall. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Subshrub, Shrub 
+A plant that has a Erect orientation.

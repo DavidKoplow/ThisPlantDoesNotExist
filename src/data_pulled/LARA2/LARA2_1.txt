@@ -1,0 +1,9 @@
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant that grows at a Rapid rate. 
+A plant that needs between 41.0 and 92.0 precipitation .
+A plant that has Green colored fruit. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Rounded orientation.
+A plant that has a Moderate lifespan.

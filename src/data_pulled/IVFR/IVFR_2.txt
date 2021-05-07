@@ -1,0 +1,8 @@
+A plant that has White colored fruit. 
+A plant that starts at 9.0 feet tall. 
+andthat has mature height 9.0 feet tall. 
+A plant that grows at a Moderate rate. 
+A plant that survives at 2.0 degrees, minimum (°F).
+A plant that has a Vase orientation.
+A plant that needs between 35.0 and 65.0 precipitation .
+A plant that grows as Subshrub, Forb/herb 

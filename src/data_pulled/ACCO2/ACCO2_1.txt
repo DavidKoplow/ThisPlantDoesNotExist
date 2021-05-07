@@ -1,0 +1,12 @@
+A plant that has a Erect orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows Perennially 
+A plant that is, isn't edible.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant with Yellow flower color. 
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.
+A plant with Porous foliage texture. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 9.0 feet tall. 

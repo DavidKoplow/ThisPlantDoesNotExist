@@ -1,0 +1,6 @@
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Porous foliage texture. 
+A plant that grows in Single Stem form.
+A plant that has a Moderate lifespan.
+A plant that grows as Forb/herb 
+A plant that needs between 10.0 and 100.0 precipitation .

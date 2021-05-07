@@ -1,0 +1,6 @@
+A plant that grows in Stoloniferous form.
+A plant that needs between 28.0 and 65.0 precipitation .
+A plant with Porous foliage texture. 
+A plant that has a Prostrate orientation.
+A plant with Green foliage color. 
+A plant that survives at -23.0 degrees, minimum (°F).

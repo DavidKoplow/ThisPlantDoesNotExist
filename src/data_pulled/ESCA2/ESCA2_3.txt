@@ -1,0 +1,4 @@
+A plant that grows Annual, Perennially 
+A plant that needs between 8.0 and 18.0 precipitation .
+A plant that has a Short lifespan.
+A plant that grows at a Moderate rate. 

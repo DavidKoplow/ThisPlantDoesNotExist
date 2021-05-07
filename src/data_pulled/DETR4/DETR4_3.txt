@@ -1,0 +1,4 @@
+A plant that has a Prostrate orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows in the Summer 
+A plant with Green foliage color. 

@@ -1,0 +1,15 @@
+A plant with Gray-Green foliage color. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that grows as Tree 
+A plant that grows in Single Stem form.
+A plant that has a Erect orientation.
+A plant that has Brown colored fruit. 
+A plant that grows at a Slow rate. 
+A plant that needs between 38.0 and 260.0 precipitation .
+A plant that not tolerant of fire.
+A plant that grows in the Spring and Summer 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48, AK, CAN) categorized as Gymnosperm in the Plantae kingdom.
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in Single Stem form.

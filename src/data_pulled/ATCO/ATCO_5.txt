@@ -1,0 +1,2 @@
+A plant that grows at a Slow rate. 
+A plant with Yellow flower color. 

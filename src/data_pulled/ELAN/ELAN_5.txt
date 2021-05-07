@@ -1,0 +1,3 @@
+A plant that needs between 12.0 and 40.0 precipitation .
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that has Yellow colored fruit. 

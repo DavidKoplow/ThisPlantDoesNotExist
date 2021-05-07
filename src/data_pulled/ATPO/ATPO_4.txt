@@ -1,0 +1,3 @@
+A plant that has a Semi-Erect orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Slow rate. 

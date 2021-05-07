@@ -1,0 +1,18 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Shrub, Subshrub 
+A plant that grows in the Spring and Summer 
+A plant with Purple flower color. 
+A plant with Dark Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Red colored fruit. 
+A plant that grows in Thicket Forming form.
+A plant that grows at a Slow rate. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that has a Prostrate orientation.
+A plant that grows in Thicket Forming form.
+A plant that grows at a Slow rate. 
+A plant that needs between 16.0 and 40.0 precipitation .
+A plant that survives at -23.0 degrees, minimum (°F).

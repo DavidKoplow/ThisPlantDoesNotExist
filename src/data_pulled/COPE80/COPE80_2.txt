@@ -1,0 +1,6 @@
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 
+A plant that grows as Subshrub, Shrub 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant that has Brown colored fruit. 

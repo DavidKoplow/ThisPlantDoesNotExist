@@ -1,0 +1,12 @@
+A plant that needs between 32.0 and 60.0 precipitation .
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that has a Erect orientation.
+A plant that grows in the Spring and Summer 
+A plant that grows as Tree, Shrub 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 
+A plant that has a Moderate lifespan.

@@ -1,0 +1,12 @@
+A plant with Moderate foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that lives in NA (L48, AK, CAN, GL, SPM), HI categorized as Monocot in the Plantae kingdom.
+A plant that grows as Graminoid 
+A plant that needs between 16.0 and 60.0 precipitation .
+A plant that grows in Rhizomatous form.
+A plant that grows at a Moderate rate. 
+A plant with Dark Green foliage color. 
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in the Spring 
+A plant with Brown flower color. 

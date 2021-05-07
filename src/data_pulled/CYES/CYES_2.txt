@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that has a Short lifespan.
+A plant that grows in the Summer and Fall 
+A plant that grows in Rhizomatous form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Graminoid 

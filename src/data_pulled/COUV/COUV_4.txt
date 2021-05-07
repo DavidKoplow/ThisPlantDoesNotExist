@@ -1,0 +1,4 @@
+A plant that grows in the Year Round 
+A plant that grows in Multiple Stem form.
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant that has Purple colored fruit. 

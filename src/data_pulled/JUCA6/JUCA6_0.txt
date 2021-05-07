@@ -1,0 +1,13 @@
+A plant that has a Moderate lifespan.
+A plant with Brown flower color. 
+A plant that grows as Graminoid 
+A plant that grows in Stoloniferous form.
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that not tolerant of drought.
+A plant that needs between 32.0 and 60.0 precipitation .
+A plant that grows in the Summer 
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant with Green foliage color. 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Monocot in the Plantae kingdom.

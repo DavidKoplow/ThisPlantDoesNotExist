@@ -1,0 +1,17 @@
+A plant that grows as Tree 
+A plant with fruit that is, isn't conspicuous. 
+A plant that has a Long lifespan.
+A plant with Gray-Green foliage color. 
+A plant that grows in Single Stem form.
+A plant that grows in Single Stem form.
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage texture. 
+A plant that needs between 40.0 and 70.0 precipitation .
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with White flower color. 
+A plant that grows at a Rapid rate. 
+A plant that grows Perennially 
+A plant that starts at 65.0 feet tall. 
+andthat has mature height 160.0 feet tall. 
+A plant that survives at 28.0 degrees, minimum (°F).
+A plant that has Black colored fruit. 

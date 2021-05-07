@@ -1,0 +1,17 @@
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that grows in the Spring 
+A plant with White flower color. 
+A plant with Green foliage color. 
+A plant that has Green colored fruit. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Moderate rate. 
+A plant that has a Short lifespan.
+A plant that has a Decumbent orientation.
+A plant that not tolerant of drought.
+A plant that grows in Stoloniferous form.
+A plant that grows at a Moderate rate. 
+A plant that not tolerant of fire.
+A plant that needs between 35.0 and 60.0 precipitation .
+A plant that survives at -24.0 degrees, minimum (°F).

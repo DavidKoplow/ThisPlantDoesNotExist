@@ -1,0 +1,8 @@
+A plant that grows in Single Crown form.
+A plant that needs between 16.0 and 55.0 precipitation .
+A plant with Porous foliage texture. 
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that not tolerant of drought.
+A plant with Green foliage color. 
+A plant that is, isn't edible.
+A plant that has Brown colored fruit. 

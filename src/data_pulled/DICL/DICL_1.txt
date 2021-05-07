@@ -1,0 +1,9 @@
+A plant that grows in Bunch form.
+A plant with Dense foliage texture. 
+A plant that grows at a Slow rate. 
+A plant that needs between 32.0 and 65.0 precipitation .
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows as Graminoid 
+A plant that has a Long lifespan.
+A plant that grows at a Slow rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

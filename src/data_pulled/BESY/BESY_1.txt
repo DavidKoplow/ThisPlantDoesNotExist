@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage texture. 
+A plant that is, isn't low growing grass. 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Monocot in the Plantae kingdom.
+A plant that not tolerant of drought.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that has a Erect orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 

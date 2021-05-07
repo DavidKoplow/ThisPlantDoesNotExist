@@ -1,0 +1,2 @@
+A plant that needs between 8.0 and 25.0 precipitation .
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

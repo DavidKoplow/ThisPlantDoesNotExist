@@ -1,0 +1,8 @@
+A plant that does retaining leaves.
+A plant with White flower color. 
+A plant that grows in Multiple Stem form.
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 

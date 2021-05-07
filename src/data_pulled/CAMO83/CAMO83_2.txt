@@ -1,0 +1,10 @@
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that has a Short lifespan.
+A plant that grows as Tree 
+A plant that is is, isn't conspicuous during the fall 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that is, isn't edible.
+A plant that grows Perennially 
+A plant that grows in Multiple Stem form.
+A plant that grows in the Spring and Summer 

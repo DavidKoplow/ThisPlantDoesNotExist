@@ -1,0 +1,9 @@
+A plant with Gray-Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that grows in Stoloniferous form.
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that has Brown colored fruit. 
+A plant that grows at a Slow rate. 
+A plant with White flower color. 
+A plant that survives at -18.0 degrees, minimum (°F).

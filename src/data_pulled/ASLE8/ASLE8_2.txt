@@ -1,0 +1,7 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows in Single Crown form.
+A plant with Porous foliage texture. 
+A plant with Yellow flower color. 
+A plant that grows at a Moderate rate. 
+A plant that has a Moderate lifespan.
+A plant that has a Erect orientation.

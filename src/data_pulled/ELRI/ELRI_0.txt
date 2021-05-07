@@ -1,0 +1,12 @@
+A plant that grows at a Moderate rate. 
+A plant with Dark Green foliage color. 
+A plant that needs between 24.0 and 55.0 precipitation .
+A plant that grows at a Moderate rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Graminoid 
+A plant that grows Perennially 
+A plant with Yellow flower color. 
+A plant that grows in Bunch form.
+A plant that has Brown colored fruit. 
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.

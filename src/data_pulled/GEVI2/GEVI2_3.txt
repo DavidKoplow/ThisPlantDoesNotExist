@@ -1,0 +1,6 @@
+A plant that needs between 10.0 and 19.0 precipitation .
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that grows at a Rapid rate. 
+A plant with Purple flower color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Erect orientation.

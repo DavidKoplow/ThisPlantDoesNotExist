@@ -1,0 +1,17 @@
+A plant that lives in NA (L48, CAN), HI, PR categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that grows in the Summer 
+A plant with Green flower color. 
+A plant with Gray-Green foliage color. 
+A plant that has Yellow colored fruit. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that has a Short lifespan.
+A plant that has a Prostrate orientation.
+A plant that not tolerant of drought.
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that not tolerant of fire.
+A plant that needs between 25.0 and 60.0 precipitation .
+A plant that survives at -34.0 degrees, minimum (°F).

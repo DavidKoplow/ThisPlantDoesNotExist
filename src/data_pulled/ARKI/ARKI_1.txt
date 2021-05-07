@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant that has a Semi-Erect orientation.
+A plant with Green foliage color. 
+A plant that needs between 8.0 and 20.0 precipitation .
+A plant that grows as Subshrub, Forb/herb 
+A plant that grows at a Moderate rate. 
+A plant that has a Short lifespan.
+A plant that grows in Bunch form.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.

@@ -1,0 +1,4 @@
+A plant that grows at a Moderate rate. 
+A plant that has a Erect orientation.
+A plant with Brown flower color. 
+A plant that grows at a Moderate rate. 

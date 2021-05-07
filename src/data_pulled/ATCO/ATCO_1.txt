@@ -1,0 +1,9 @@
+A plant that grows at a Slow rate. 
+A plant that needs between 4.0 and 12.0 precipitation .
+A plant that has a Semi-Erect orientation.
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant with Yellow flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows at a Slow rate. 

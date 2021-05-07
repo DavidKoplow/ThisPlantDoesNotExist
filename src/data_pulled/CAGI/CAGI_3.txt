@@ -1,0 +1,6 @@
+A plant with White flower color. 
+A plant that is, isn't edible.
+A plant that survives at 27.0 degrees, minimum (°F).
+A plant with Dark Green foliage color. 
+A plant that does retaining leaves.
+A plant with Porous foliage texture. 

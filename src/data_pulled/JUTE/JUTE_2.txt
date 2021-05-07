@@ -1,0 +1,6 @@
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant with Green flower color. 
+A plant that grows at a Slow rate. 
+A plant that has a Erect orientation.
+A plant that lives in NA (L48, AK, CAN, PR, SPM), HI categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.

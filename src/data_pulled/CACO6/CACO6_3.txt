@@ -1,0 +1,5 @@
+A plant that grows in Rhizomatous form.
+A plant with Green foliage color. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that not tolerant of drought.
+A plant that has a Erect orientation.

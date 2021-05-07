@@ -1,0 +1,8 @@
+A plant that grows in the Spring and Summer 
+A plant with Dark Green foliage color. 
+A plant that grows Perennially 
+A plant that lives in NA (L48) categorized as Gymnosperm in the Plantae kingdom.
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 230.0 feet tall. 
+A plant that grows in Single Stem form.
+A plant that does retaining leaves.

@@ -1,0 +1,3 @@
+A plant that grows in the Spring and Summer 
+A plant that starts at 3.0 feet tall. 
+andthat has mature height 4.0 feet tall. 

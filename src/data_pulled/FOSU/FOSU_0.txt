@@ -1,0 +1,14 @@
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring and Summer 
+A plant that grows as Shrub 
+A plant with Green foliage color. 
+A plant that has a Vase orientation.
+A plant that needs between 32.0 and 60.0 precipitation .
+A plant with Yellow flower color. 
+A plant that grows at a Rapid rate. 
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 6.0 feet tall. 
+A plant with Dense foliage texture. 
+A plant that has a Moderate lifespan.
+A plant that grows in Multiple Stem form.

@@ -1,0 +1,10 @@
+A plant that starts at 35.0 feet tall. 
+andthat has mature height 70.0 feet tall. 
+A plant that has Brown colored fruit. 
+A plant with Brown flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant that grows at a Rapid rate. 
+A plant that has a Erect orientation.
+A plant with Green foliage color. 
+A plant that grows in Multiple Stem form.

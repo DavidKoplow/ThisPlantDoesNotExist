@@ -1,0 +1,14 @@
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows in the Spring 
+A plant that grows in Single Stem form.
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 16.0 feet tall. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Dense foliage texture. 
+A plant with Green foliage color. 
+A plant that does retaining leaves.
+A plant with White flower color. 
+A plant that grows as Tree, Shrub, Vine 
+A plant that grows in Single Stem form.
+A plant that grows Perennially 
+A plant that has a Short lifespan.

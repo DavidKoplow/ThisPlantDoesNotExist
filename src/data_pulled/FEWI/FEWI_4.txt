@@ -1,0 +1,4 @@
+A plant that not tolerant of fire.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Climbing orientation.
+A plant that has Black colored fruit. 

@@ -1,0 +1,5 @@
+A plant that grows in the Spring 
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that needs between 10.0 and 18.0 precipitation .
+A plant with Dense foliage texture. 

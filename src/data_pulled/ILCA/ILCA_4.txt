@@ -1,0 +1,5 @@
+A plant that starts at 26.0 feet tall. 
+andthat has mature height 26.0 feet tall. 
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant that needs between 45.0 and 65.0 precipitation .

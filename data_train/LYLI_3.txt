@@ -1,0 +1,13 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Shrub 
+
+A plant with White flower color. 
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that starts at 18.0 feet tall. 
+andthat has mature height 9.0 feet tall. 
+A plant that has a Short lifespan.
+A plant that needs between 39.0 and 80.0 precipitation .
+A plant that survives at -21.0 degrees, minimum (°F).

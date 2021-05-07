@@ -1,0 +1,16 @@
+A plant that not tolerant of fire.
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant with Dense foliage texture. 
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant with Yellow flower color. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant .
+A plant that needs between 40.0 and 65.0 precipitation .
+A plant with fruit that is, isn't conspicuous. 
+A plant with Green foliage color. 
+A plant that is, isn't edible.
+A plant that grows in Single Stem form.
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows at a Moderate rate. 

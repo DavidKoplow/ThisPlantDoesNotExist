@@ -1,0 +1,14 @@
+A plant that grows Perennially 
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant with Porous foliage texture. 
+A plant with Green foliage color. 
+A plant with Green flower color. 
+A plant that has Brown colored fruit. 
+A plant that is, isn't low growing grass. 
+A plant that grows in Rhizomatous form.
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows in Rhizomatous form.
+A plant that grows as Graminoid 
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that grows in the Spring 

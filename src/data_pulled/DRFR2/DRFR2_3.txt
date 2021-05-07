@@ -1,0 +1,5 @@
+A plant that grows in the Spring, Summer, Fall 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with White flower color. 
+A plant that starts at 26.0 feet tall. 
+andthat has mature height 17.0 feet tall. 

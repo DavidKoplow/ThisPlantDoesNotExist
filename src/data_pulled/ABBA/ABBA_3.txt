@@ -1,0 +1,6 @@
+A plant that grows at a Slow rate. 
+A plant that grows at a Slow rate. 
+A plant that grows in Single Stem form.
+A plant that starts at 18.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that grows as Tree 

@@ -1,0 +1,4 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that has a Short lifespan.
+A plant with Red flower color. 

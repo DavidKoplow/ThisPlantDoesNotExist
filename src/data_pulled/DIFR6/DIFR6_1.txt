@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows in the Summer and Fall 
+A plant with Green foliage color. 
+A plant that does retaining leaves.
+A plant .
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green flower color. 
+A plant that survives at -15.0 degrees, minimum (°F).

@@ -1,0 +1,5 @@
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant with Dense foliage texture. 
+A plant with Yellow-Green foliage color. 
+A plant that grows at a Moderate rate. 
+A plant that grows in Single Stem form.

@@ -1,0 +1,8 @@
+A plant with fruit that is, isn't conspicuous. 
+A plant that survives at 31.0 degrees, minimum (°F).
+A plant with flower that is, isn't conspicuous.
+A plant that has a Semi-Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that needs between 40.0 and 100.0 precipitation .
+A plant with Orange flower color. 
+A plant that has a Moderate lifespan.

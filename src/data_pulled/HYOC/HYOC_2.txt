@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant with Dark Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that has Brown colored fruit. 
+A plant that survives at -18.0 degrees, minimum (°F).
+A plant that has a Semi-Erect orientation.

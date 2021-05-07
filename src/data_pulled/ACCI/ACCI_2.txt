@@ -1,0 +1,8 @@
+A plant that has a Erect orientation.
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that grows as Tree, Shrub, Vine 
+A plant with Moderate foliage texture. 
+A plant that has a Long lifespan.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 

@@ -1,0 +1,8 @@
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 4.0 feet tall. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant with White flower color. 
+A plant that grows in Rhizomatous form.
+A plant with Yellow-Green foliage color. 
+A plant that grows at a Moderate rate. 
+A plant that has a Moderate lifespan.

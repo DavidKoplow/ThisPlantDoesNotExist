@@ -1,0 +1,11 @@
+A plant that has a Erect orientation.
+A plant that grows at a Slow rate. 
+A plant that has Red colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant with Dark Green foliage color. 
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage texture. 
+A plant that grows in Multiple Stem form.
+A plant .

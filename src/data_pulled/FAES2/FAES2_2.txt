@@ -1,0 +1,5 @@
+A plant with Green foliage color. 
+A plant with White flower color. 
+
+A plant that needs between 15.0 and 50.0 precipitation .
+A plant that grows at a Rapid rate. 

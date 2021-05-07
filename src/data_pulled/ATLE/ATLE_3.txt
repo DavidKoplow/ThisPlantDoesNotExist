@@ -1,0 +1,4 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Subshrub, Shrub 
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 

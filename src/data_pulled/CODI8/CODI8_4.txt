@@ -1,0 +1,4 @@
+A plant that starts at 38.0 feet tall. 
+andthat has mature height 25.0 feet tall. 
+A plant that has a Rounded orientation.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

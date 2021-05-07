@@ -1,0 +1,15 @@
+A plant that grows Perennially 
+A plant with Yellow-Green foliage color. 
+A plant with White flower color. 
+A plant that does retaining leaves.
+A plant that needs between 35.0 and 70.0 precipitation .
+A plant that grows at a Moderate rate. 
+A plant that has a Moderate lifespan.
+A plant that has Brown colored fruit. 
+A plant that grows at a Moderate rate. 
+A plant that grows in the Spring and Summer 
+A plant that grows as Shrub 
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 4.0 feet tall. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that grows in Rhizomatous form.

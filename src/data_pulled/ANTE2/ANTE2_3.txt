@@ -1,0 +1,4 @@
+A plant that grows in Bunch form.
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant that survives at -18.0 degrees, minimum (°F).
+A plant that grows Perennially 

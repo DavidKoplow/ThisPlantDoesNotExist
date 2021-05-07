@@ -1,0 +1,6 @@
+A plant that is, isn't edible.
+A plant that needs between 12.0 and 40.0 precipitation .
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Dense foliage texture. 
+A plant that has Yellow colored fruit. 
+A plant with Yellow flower color. 

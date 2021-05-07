@@ -1,0 +1,6 @@
+A plant with Brown flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Dark Green foliage color. 
+A plant that has a Long lifespan.
+A plant that needs between 18.0 and 60.0 precipitation .
+A plant that lives in NA (L48, AK, CAN, SPM), HI categorized as Monocot in the Plantae kingdom.

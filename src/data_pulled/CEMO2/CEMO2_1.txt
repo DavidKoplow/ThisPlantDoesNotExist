@@ -1,0 +1,10 @@
+A plant that grows at a Slow rate. 
+A plant that grows at a Slow rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 15.0 feet tall. 
+A plant with White flower color. 
+A plant with Dense foliage texture. 
+A plant that grows Perennially 
+A plant that has a Erect orientation.

@@ -1,0 +1,6 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Graminoid 
+A plant that has a Long lifespan.
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant with Green foliage color. 

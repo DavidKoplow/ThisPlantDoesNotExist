@@ -1,0 +1,10 @@
+A plant that needs between 29.0 and 80.0 precipitation .
+A plant that grows as Tree 
+A plant that grows at a Moderate rate. 
+A plant that has Brown colored fruit. 
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that survives at -26.0 degrees, minimum (°F).

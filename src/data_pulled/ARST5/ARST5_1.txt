@@ -1,0 +1,9 @@
+A plant that grows in Bunch form.
+A plant that grows in Bunch form.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that has Yellow colored fruit. 
+A plant that needs between 36.0 and 65.0 precipitation .
+A plant that grows Perennially 
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 

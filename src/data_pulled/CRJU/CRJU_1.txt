@@ -1,0 +1,9 @@
+A plant that grows Annually 
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant with Green foliage color. 
+A plant that not tolerant of fire.
+A plant that has a Prostrate orientation.
+A plant that needs between 20.0 and 169.0 precipitation .
+A plant with Yellow flower color. 
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 

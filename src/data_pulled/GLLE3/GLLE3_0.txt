@@ -1,0 +1,15 @@
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant that not tolerant of drought.
+A plant that has a Moderate lifespan.
+A plant with flower that is, isn't conspicuous.
+A plant that has a Erect orientation.
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows as Forb/herb 
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage texture. 
+A plant that grows in Single Crown form.
+A plant that is is, isn't conspicuous during the fall 
+A plant that needs between 14.0 and 40.0 precipitation .
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.

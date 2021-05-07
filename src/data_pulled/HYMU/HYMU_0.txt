@@ -1,0 +1,13 @@
+A plant that grows at a Moderate rate. 
+A plant that has a Semi-Erect orientation.
+A plant that grows in Single Crown form.
+A plant that grows in Single Crown form.
+A plant that has a Short lifespan.
+A plant with Porous foliage texture. 
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that needs between 30.0 and 55.0 precipitation .
+A plant that not tolerant of drought.
+A plant that grows at a Moderate rate. 
+A plant with Green foliage color. 
+A plant that grows in the Summer 

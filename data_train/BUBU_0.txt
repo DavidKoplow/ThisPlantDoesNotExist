@@ -1,0 +1,17 @@
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in the Fall, Winter and Spring 
+A plant with Yellow flower color. 
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant that grows at a Rapid rate. 
+A plant that starts at 75.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Oval orientation.
+A plant that grows at a Rapid rate. 
+A plant that needs between 50.0 and 200.0 precipitation .
+A plant that survives at 32.0 degrees, minimum (°F).

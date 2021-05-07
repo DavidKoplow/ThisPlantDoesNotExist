@@ -1,0 +1,2 @@
+A plant with Yellow flower color. 
+A plant that survives at -28.0 degrees, minimum (°F).

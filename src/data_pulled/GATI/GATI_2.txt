@@ -1,0 +1,7 @@
+A plant that has a Decumbent orientation.
+A plant that needs between 32.0 and 55.0 precipitation .
+A plant that grows Perennially 
+A plant that not tolerant of drought.
+A plant with White flower color. 
+A plant that grows as Forb/herb 
+A plant that grows in Single Crown form.

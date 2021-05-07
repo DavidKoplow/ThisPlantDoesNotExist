@@ -1,0 +1,4 @@
+A plant with Green foliage color. 
+A plant that grows in Rhizomatous form.
+A plant that lives in NA (L48, AK, CAN, GL, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that needs between 8.0 and 100.0 precipitation .

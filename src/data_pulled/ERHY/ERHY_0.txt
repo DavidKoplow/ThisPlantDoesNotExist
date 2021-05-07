@@ -1,0 +1,12 @@
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48, CAN), PR categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 
+A plant that has a Prostrate orientation.
+A plant that grows in the Spring 
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant that has Yellow colored fruit. 
+A plant with Green flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

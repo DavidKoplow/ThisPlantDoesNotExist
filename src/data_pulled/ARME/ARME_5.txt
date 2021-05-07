@@ -1,0 +1,3 @@
+A plant that needs between 15.0 and 163.0 precipitation .
+A plant that grows as Tree 
+A plant that grows at a Slow rate. 

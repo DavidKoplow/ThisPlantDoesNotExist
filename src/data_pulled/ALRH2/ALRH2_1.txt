@@ -1,0 +1,10 @@
+A plant with Green foliage color. 
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 65.0 feet tall. 
+A plant that grows in Multiple Stem form.
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring and Summer 
+A plant that has a Long lifespan.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 

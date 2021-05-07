@@ -1,0 +1,12 @@
+A plant that grows in the Spring 
+A plant that survives at 40.0 degrees, minimum (°F).
+A plant that is, isn't low growing grass. 
+A plant that lives in PR categorized as Monocot in the Plantae kingdom.
+A plant that is, isn't edible.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that needs between 43.0 and 134.0 precipitation .
+A plant that has a Short lifespan.
+A plant that grows as Graminoid 
+A plant that grows in Rhizomatous form.
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 

@@ -1,0 +1,6 @@
+A plant with Green flower color. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 14.0 and 55.0 precipitation .
+A plant that grows in Stoloniferous form.
+A plant with Green foliage color. 

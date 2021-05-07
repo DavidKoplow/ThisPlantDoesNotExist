@@ -1,0 +1,14 @@
+A plant that lives in PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in the Spring 
+A plant with Yellow flower color. 
+A plant with Dark Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant that starts at 80.0 feet tall. 
+andthat has mature height 70.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Rounded orientation.
+A plant that survives at 40.0 degrees, minimum (°F).

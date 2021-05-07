@@ -1,0 +1,2 @@
+A plant that grows as Tree 
+A plant that survives at -43.0 degrees, minimum (°F).

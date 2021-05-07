@@ -1,0 +1,7 @@
+A plant that survives at 17.0 degrees, minimum (°F).
+A plant that has a Prostrate orientation.
+A plant that has Green colored fruit. 
+A plant that grows Perennially 
+A plant with Dense foliage texture. 
+A plant that grows as Vine, Forb/herb 
+A plant that grows at a Moderate rate. 

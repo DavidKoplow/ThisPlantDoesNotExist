@@ -1,0 +1,11 @@
+A plant with fruit that is, isn't conspicuous. 
+A plant with flower that is, isn't conspicuous.
+A plant that is, isn't edible.
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring and Summer 
+A plant that grows as Forb/herb, Vine 
+A plant that has Yellow colored fruit. 
+A plant with Porous foliage texture. 
+A plant that needs between 5.0 and 41.0 precipitation .
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

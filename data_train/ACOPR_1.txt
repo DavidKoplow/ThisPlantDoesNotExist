@@ -1,0 +1,18 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that grows in the Summer 
+A plant with Green flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that has a Long lifespan.
+A plant that has a Prostrate orientation.
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 30.0 and 50.0 precipitation .
+A plant that survives at -3.0 degrees, minimum (°F).

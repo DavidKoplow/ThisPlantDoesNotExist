@@ -1,0 +1,4 @@
+A plant that has White colored fruit. 
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with White flower color. 

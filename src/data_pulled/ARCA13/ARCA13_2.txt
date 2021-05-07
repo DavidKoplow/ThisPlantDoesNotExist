@@ -1,0 +1,7 @@
+A plant that starts at 5.0 feet tall. 
+andthat has mature height 5.0 feet tall. 
+A plant that grows at a Moderate rate. 
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows as Subshrub, Shrub 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows in the Spring, Summer, Fall 

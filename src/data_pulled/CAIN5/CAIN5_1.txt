@@ -1,0 +1,10 @@
+A plant that grows Perennially 
+A plant that does retaining leaves.
+A plant with Dense foliage texture. 
+A plant with White flower color. 
+A plant with Yellow-Green foliage color. 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant that has a Rounded orientation.
+A plant that grows in the Year Round 
+A plant that has Brown colored fruit. 

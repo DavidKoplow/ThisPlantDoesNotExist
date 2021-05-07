@@ -1,0 +1,5 @@
+A plant that has a Erect orientation.
+A plant with Dense foliage texture. 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that is, isn't edible.

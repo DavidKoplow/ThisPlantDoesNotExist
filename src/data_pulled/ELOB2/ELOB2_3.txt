@@ -1,0 +1,4 @@
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage texture. 
+A plant that has a Erect orientation.
+A plant that has a Short lifespan.

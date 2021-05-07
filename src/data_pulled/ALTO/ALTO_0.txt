@@ -1,0 +1,15 @@
+A plant that has a Erect orientation.
+A plant that is, isn't edible.
+A plant that grows in Single Crown form.
+A plant that needs between 8.0 and 16.0 precipitation .
+A plant with Red flower color. 
+A plant thathasbulbs.
+A plant that grows Perennially 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 
+A plant that has a Short lifespan.
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant that grows in Single Crown form.

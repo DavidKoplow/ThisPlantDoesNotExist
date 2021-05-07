@@ -1,0 +1,12 @@
+A plant that does retaining leaves.
+A plant that needs between 10.0 and 35.0 precipitation .
+A plant that not tolerant of fire.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 6.0 feet tall. 
+A plant that grows Perennially 
+A plant with White flower color. 
+A plant that grows in Multiple Stem form.
+A plant that has a Erect orientation.
+A plant that grows as Shrub 
+A plant that survives at -13.0 degrees, minimum (°F).

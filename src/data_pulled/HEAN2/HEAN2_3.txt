@@ -1,0 +1,5 @@
+A plant that grows as Forb/herb 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that needs between 25.0 and 65.0 precipitation .
+A plant with Dark Green foliage color. 
+A plant with Moderate foliage texture. 

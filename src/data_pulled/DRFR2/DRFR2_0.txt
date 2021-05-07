@@ -1,0 +1,14 @@
+A plant that grows in Multiple Stem form.
+A plant that starts at 26.0 feet tall. 
+andthat has mature height 17.0 feet tall. 
+A plant with White flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant that has a Short lifespan.
+A plant that grows in the Spring, Summer, Fall 
+A plant that lives in NA (GU, PB), PR categorized as Monocot in the Plantae kingdom.
+A plant with flower that is, isn't conspicuous.
+A plant that grows Perennially 
+A plant that grows as Tree, Shrub 
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage texture. 

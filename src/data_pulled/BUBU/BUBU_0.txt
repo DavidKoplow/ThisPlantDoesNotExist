@@ -1,0 +1,13 @@
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant that needs between 50.0 and 200.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that does retaining leaves.
+A plant that has a Oval orientation.
+A plant with Yellow flower color. 
+A plant that has Black colored fruit. 
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant that starts at 75.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that grows in the Fall, Winter and Spring 

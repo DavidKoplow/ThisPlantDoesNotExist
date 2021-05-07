@@ -1,0 +1,6 @@
+A plant that needs between 6.0 and 16.0 precipitation .
+A plant that has a Erect orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 
+A plant with Gray-Green foliage color. 
+A plant that grows in Bunch form.

@@ -1,0 +1,6 @@
+A plant that survives at -3.0 degrees, minimum (°F).
+A plant that grows at a Rapid rate. 
+A plant that grows as Forb/herb 
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that grows in Stoloniferous form.

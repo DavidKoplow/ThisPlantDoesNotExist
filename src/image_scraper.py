@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 
 
 # Specify your path to your ChromeDriver exe here
-DRIVER_PATH = 'Image Scraper/geckodriver.exe'
+DRIVER_PATH = 'ThisPlantDoesNotExist\src\Image Scraper\geckodriver.exe'
 #firefox_options = Options() 
 #firefox_options.add_experimental_option("detach", True)
 
@@ -88,7 +88,6 @@ def persist_image(folder_path, url, plant_name, iter):
     except Exception as e:
         print(f"ERROR - Could not save {url} - {e}")
 
-
 # Combines persist_image and fetch_image_urls to search for each image url and download it. Search_term is the plant ID in the URL or in the database
 def search_and_download(search_term, driver_path=DRIVER_PATH, target_path=path, number_images=1):
     target_folder = os.path.join(target_path, '_'.join(search_term.lower().split(' ')))
@@ -102,13 +101,13 @@ def search_and_download(search_term, driver_path=DRIVER_PATH, target_path=path, 
         persist_image(target_folder, elem, search_term, i)
         i += 1
 
-
-# Change the argument here to whatever plant ID that you want to search
-plant_names = plant_info_generator(r'data\plants_usda_selected_features.txt')
-
-wd= webdriver.Firefox(executable_path=DRIVER_PATH)
+plant_names = plant_info_generator(r'ThisPlantDoesNotExist\src\data\plants_usda_selected_features.txt')
+fireFoxOptions = webdriver.FirefoxOptions()
+fireFoxOptions.set_headless()
+wd= webdriver.Firefox(executable_path=DRIVER_PATH, options=fireFoxOptions)
 wd.get('http://thisplantdoesntexist.surge.sh/?fbclid=IwAR0xw5B239O_v7GpT0w_qCeBDCJUCXvIWU3X6NIVy0va77sjWqpCb0cJtms')
 
 for name in plant_names:
     search_and_download(name)
     print(name)
+wd.close()

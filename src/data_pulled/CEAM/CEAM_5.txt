@@ -1,0 +1,2 @@
+A plant that grows in Multiple Stem form.
+A plant that needs between 25.0 and 60.0 precipitation .

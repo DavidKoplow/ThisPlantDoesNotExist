@@ -1,0 +1,4 @@
+A plant that grows in Single Crown form.
+A plant that has a Long lifespan.
+A plant that has a Climbing orientation.
+A plant that grows as Vine 

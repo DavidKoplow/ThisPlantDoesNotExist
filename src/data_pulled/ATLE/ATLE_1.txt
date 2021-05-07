@@ -1,0 +1,9 @@
+A plant that has a Moderate lifespan.
+A plant that grows at a Moderate rate. 
+A plant with Green foliage color. 
+A plant that grows in the Spring and Summer 
+A plant with Dense foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that has a Semi-Erect orientation.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Subshrub, Shrub 

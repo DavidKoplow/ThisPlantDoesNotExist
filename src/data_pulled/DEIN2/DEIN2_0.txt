@@ -1,0 +1,14 @@
+A plant that has Brown colored fruit. 
+A plant that needs between 21.0 and 159.0 precipitation .
+A plant that grows in the Year Round 
+A plant that grows Annual, Perennially 
+A plant with flower that is, isn't conspicuous.
+A plant that grows at a Moderate rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Dense foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that lives in NA (L48), HI, PR categorized as Dicot in the Plantae kingdom.
+A plant that has a Long lifespan.
+A plant with Green foliage color. 
+A plant that grows in Single Stem form.
+A plant that has a Decumbent orientation.

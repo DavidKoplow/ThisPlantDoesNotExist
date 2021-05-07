@@ -1,0 +1,5 @@
+A plant that grows as Shrub 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at 24.0 degrees, minimum (°F).
+A plant with Green foliage color. 
+A plant that has a Irregular orientation.

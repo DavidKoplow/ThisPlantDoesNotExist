@@ -1,0 +1,6 @@
+A plant with Green flower color. 
+A plant that has a Erect orientation.
+A plant that grows as Tree 
+A plant that grows in the Spring, Summer, Fall 
+A plant with Green foliage color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

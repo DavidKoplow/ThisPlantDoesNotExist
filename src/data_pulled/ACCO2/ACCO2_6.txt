@@ -1,0 +1,3 @@
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 9.0 feet tall. 
+A plant that is, isn't edible.

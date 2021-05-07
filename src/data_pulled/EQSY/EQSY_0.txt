@@ -1,0 +1,13 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that not tolerant of fire.
+A plant that lives in NA (L48, AK, CAN, GL, SPM) categorized as Horsetail in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant that has a Short lifespan.
+A plant that needs between 20.0 and 100.0 precipitation .
+A plant with Green flower color. 
+A plant that grows as Forb/herb 
+A plant that grows Perennially 
+A plant that grows at a Rapid rate. 

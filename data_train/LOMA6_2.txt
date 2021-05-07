@@ -1,0 +1,22 @@
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Shrub 
+A plant that grows in the Spring and Summer 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Yellow flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Red colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Moderate rate. 
+A plant that starts at 14.0 feet tall. 
+andthat has mature height 14.0 feet tall. 
+A plant that has a Moderate lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 35.0 and 50.0 precipitation .
+A plant that survives at -33.0 degrees, minimum (°F).

@@ -1,0 +1,5 @@
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage texture. 
+A plant that grows in the Spring and Summer 
+A plant that grows at a Moderate rate. 
+A plant that needs between 16.0 and 30.0 precipitation .

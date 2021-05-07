@@ -1,0 +1,2 @@
+A plant that needs between 10.0 and 35.0 precipitation .
+A plant that grows in Thicket Forming form.

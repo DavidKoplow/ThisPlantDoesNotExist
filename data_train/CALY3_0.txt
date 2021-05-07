@@ -1,0 +1,14 @@
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Graminoid 
+
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that grows in Rhizomatous form.
+A plant that has a Short lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Rhizomatous form.
+A plant that not tolerant of fire.
+A plant that needs between 7.0 and 140.0 precipitation .
+A plant that survives at -52.0 degrees, minimum (°F).
+A plant that is, isn't edible.

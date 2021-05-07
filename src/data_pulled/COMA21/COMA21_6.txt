@@ -1,0 +1,2 @@
+A plant with Dense foliage texture. 
+A plant that needs between 30.0 and 50.0 precipitation .

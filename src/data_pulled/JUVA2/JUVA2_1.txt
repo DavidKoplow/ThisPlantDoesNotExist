@@ -1,0 +1,9 @@
+A plant with Green foliage color. 
+A plant with Green flower color. 
+A plant that grows Perennially 
+A plant with Dense foliage texture. 
+A plant that grows as Graminoid 
+A plant that grows in the Spring, Summer, Fall 
+A plant that has a Long lifespan.
+A plant that survives at -3.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 

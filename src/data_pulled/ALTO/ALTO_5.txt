@@ -1,0 +1,3 @@
+A plant that has a Short lifespan.
+A plant that is, isn't edible.
+A plant that needs between 8.0 and 16.0 precipitation .

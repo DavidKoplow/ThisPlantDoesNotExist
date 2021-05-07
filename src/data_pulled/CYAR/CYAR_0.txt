@@ -1,0 +1,12 @@
+A plant with Yellow-Green foliage color. 
+
+A plant that has a Short lifespan.
+A plant that needs between 40.0 and 160.0 precipitation .
+A plant with Brown flower color. 
+A plant that does retaining leaves.
+A plant that has a Erect orientation.
+A plant that has Brown colored fruit. 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 30.0 feet tall. 
+A plant that lives in PR, VI categorized as Fern in the Plantae kingdom.
+A plant that survives at 40.0 degrees, minimum (°F).

@@ -1,0 +1,12 @@
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant that grows at a Slow rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green flower color. 
+A plant that has a Erect orientation.
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that grows at a Slow rate. 
+A plant that grows in Bunch form.
+A plant that needs between 36.0 and 60.0 precipitation .
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.

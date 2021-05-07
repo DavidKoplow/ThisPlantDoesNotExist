@@ -1,0 +1,6 @@
+A plant that has a Erect orientation.
+A plant that has a Moderate lifespan.
+A plant with Green foliage color. 
+A plant with White flower color. 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Monocot in the Plantae kingdom.
+A plant that grows at a Moderate rate. 

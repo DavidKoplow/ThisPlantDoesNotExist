@@ -1,0 +1,6 @@
+A plant that survives at 47.0 degrees, minimum (°F).
+A plant that grows as Graminoid 
+A plant that grows in Bunch form.
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Bunch form.

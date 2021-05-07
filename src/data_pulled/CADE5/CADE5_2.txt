@@ -1,0 +1,6 @@
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Graminoid 
+A plant that not tolerant of drought.
+A plant that has a Long lifespan.
+A plant that grows at a Moderate rate. 

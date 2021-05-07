@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant with Green flower color. 
+A plant that grows Perennially 
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 30.0 feet tall. 

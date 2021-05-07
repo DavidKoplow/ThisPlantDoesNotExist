@@ -1,0 +1,16 @@
+A plant that grows in the Spring and Summer 
+A plant that is is, isn't conspicuous during the fall 
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that has a Erect orientation.
+A plant that grows at a Moderate rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant with Dense foliage texture. 
+A plant with Yellow flower color. 
+A plant that has a Moderate lifespan.
+A plant that needs between 8.0 and 20.0 precipitation .
+A plant that grows in Multiple Stem form.
+A plant that grows as Tree, Shrub 
+A plant with Green foliage color. 

@@ -1,0 +1,7 @@
+A plant that grows at a Rapid rate. 
+A plant that needs between 20.0 and 65.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 
+A plant that grows as Tree 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in the Spring and Summer 

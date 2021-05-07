@@ -1,0 +1,6 @@
+A plant that needs between 12.0 and 45.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows as Graminoid 
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.

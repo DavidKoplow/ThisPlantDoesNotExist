@@ -1,0 +1,7 @@
+A plant that has Brown colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows as Tree, Shrub 
+A plant with White flower color. 
+A plant that does retaining leaves.
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 15.0 feet tall. 

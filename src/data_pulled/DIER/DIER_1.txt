@@ -1,0 +1,8 @@
+A plant that needs between 35.0 and 60.0 precipitation .
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant that has a Decumbent orientation.
+A plant that has a Long lifespan.
+A plant that grows as Graminoid 
+A plant that lives in NA (L48, GU, PB), HI, PR categorized as Monocot in the Plantae kingdom.
+A plant that grows in the Year Round 
+A plant that grows at a Rapid rate. 

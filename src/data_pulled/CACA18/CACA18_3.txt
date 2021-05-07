@@ -1,0 +1,6 @@
+A plant that grows in Multiple Stem form.
+A plant with Green foliage color. 
+A plant that grows Perennially 
+A plant that grows as Tree, Shrub 
+A plant with Orange flower color. 
+A plant that needs between 23.0 and 80.0 precipitation .

@@ -1,0 +1,16 @@
+A plant that grows Perennially 
+A plant that grows as Shrub, Subshrub 
+A plant that has Brown colored fruit. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that lives in NA (L48) categorized as Gymnosperm in the Plantae kingdom.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant with White flower color. 
+A plant with Porous foliage texture. 
+A plant with Green foliage color. 
+A plant that does retaining leaves.
+A plant that has a Erect orientation.
+A plant that needs between 8.0 and 14.0 precipitation .
+A plant that grows in the Spring 
+A plant that starts at 1.0 feet tall. 
+andthat has mature height 1.0 feet tall. 
+A plant that is, isn't edible.

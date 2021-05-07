@@ -1,0 +1,18 @@
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Graminoid 
+A plant that grows in the Spring and Summer 
+A plant with Green flower color. 
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.
+A plant that not tolerant of drought.
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 18.0 and 55.0 precipitation .
+A plant that survives at -33.0 degrees, minimum (°F).

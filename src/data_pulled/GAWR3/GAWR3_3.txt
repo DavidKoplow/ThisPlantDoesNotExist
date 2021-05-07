@@ -1,0 +1,6 @@
+A plant that grows as Shrub, Tree 
+A plant that survives at 12.0 degrees, minimum (°F).
+A plant that does retaining leaves.
+A plant that has Purple colored fruit. 
+A plant with Dense foliage texture. 
+A plant with White flower color. 

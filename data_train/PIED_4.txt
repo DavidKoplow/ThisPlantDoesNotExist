@@ -1,0 +1,21 @@
+A plant that lives in NA (L48) categorized as Gymnosperm in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in the Spring and Summer 
+A plant with Yellow flower color. 
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that has a Conical orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant that needs between 9.0 and 27.0 precipitation .
+A plant that survives at -31.0 degrees, minimum (°F).
+A plant that is, isn't edible.

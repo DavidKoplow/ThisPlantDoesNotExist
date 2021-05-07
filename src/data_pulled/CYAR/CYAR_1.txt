@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant that survives at 40.0 degrees, minimum (°F).
+
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 30.0 feet tall. 
+A plant with Brown flower color. 
+A plant that lives in PR, VI categorized as Fern in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant with Yellow-Green foliage color. 

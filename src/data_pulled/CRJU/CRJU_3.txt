@@ -1,0 +1,4 @@
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant that not tolerant of fire.
+A plant with Green foliage color. 
+A plant that has a Prostrate orientation.

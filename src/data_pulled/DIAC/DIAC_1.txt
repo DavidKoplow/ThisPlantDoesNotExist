@@ -1,0 +1,9 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows as Graminoid 
+A plant that grows in Bunch form.
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant with Green flower color. 
+A plant that has Yellow colored fruit. 
+A plant with Gray-Green foliage color. 
+A plant that lives in NA (L48), PR categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.

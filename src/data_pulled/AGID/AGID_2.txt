@@ -1,0 +1,6 @@
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant with Yellow flower color. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that lives in NA (L48, AK, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that survives at -38.0 degrees, minimum (°F).

@@ -1,0 +1,11 @@
+A plant that needs between 47.0 and 120.0 precipitation .
+A plant that survives at 27.0 degrees, minimum (°F).
+A plant with Green foliage color. 
+A plant with Green flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 
+A plant that grows as Tree 
+A plant that has Brown colored fruit. 
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring, Summer, Fall 

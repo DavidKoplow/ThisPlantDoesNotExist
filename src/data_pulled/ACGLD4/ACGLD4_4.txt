@@ -1,0 +1,4 @@
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 30.0 feet tall. 
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 

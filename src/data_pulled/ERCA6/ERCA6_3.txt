@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant with Purple flower color. 
+A plant that grows in the Spring and Summer 
+A plant that grows as Shrub 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that survives at -3.0 degrees, minimum (°F).

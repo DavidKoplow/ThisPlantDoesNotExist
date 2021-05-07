@@ -1,0 +1,12 @@
+A plant that grows in the Spring 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows in Bunch form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows at a Moderate rate. 
+A plant that grows as Forb/herb 
+A plant that needs between 35.0 and 50.0 precipitation .
+A plant with Moderate foliage texture. 
+A plant that lives in NA (L48, CAN), PR categorized as Dicot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.
+A plant that grows Perennially 

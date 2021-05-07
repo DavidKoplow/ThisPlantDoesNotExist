@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant with Dense foliage texture. 
+A plant that has a Erect orientation.
+A plant that has a Long lifespan.
+A plant that needs between 79.0 and 160.0 precipitation .
+A plant with Green flower color. 
+A plant that grows at a Slow rate. 
+A plant with Green foliage color. 
+A plant that grows as Tree 

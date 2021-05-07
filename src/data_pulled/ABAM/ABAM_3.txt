@@ -1,0 +1,6 @@
+A plant that grows in Single Stem form.
+A plant that not tolerant of fire.
+A plant that lives in NA (L48, AK, CAN) categorized as Gymnosperm in the Plantae kingdom.
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 
+A plant that has a Erect orientation.

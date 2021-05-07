@@ -1,0 +1,10 @@
+A plant that grows at a Slow rate. 
+A plant that starts at 2.0 feet tall. 
+andthat has mature height 2.0 feet tall. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Subshrub, Shrub 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant that has a Erect orientation.
+A plant that has Brown colored fruit. 

@@ -1,0 +1,12 @@
+A plant that starts at 14.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that grows in Multiple Stem form.
+A plant that has a Erect orientation.
+A plant that grows at a Moderate rate. 
+A plant with Green foliage color. 
+A plant that needs between 40.0 and 80.0 precipitation .
+A plant with Dense foliage texture. 
+A plant that grows in the Spring and Summer 
+A plant that survives at -20.0 degrees, minimum (°F).
+A plant that grows Perennially 
+A plant that grows at a Moderate rate. 

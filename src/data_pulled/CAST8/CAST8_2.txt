@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that grows in the Spring 
+A plant with Green flower color. 
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at -38.0 degrees, minimum (°F).

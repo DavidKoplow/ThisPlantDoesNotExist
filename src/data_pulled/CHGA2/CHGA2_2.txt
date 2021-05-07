@@ -1,0 +1,6 @@
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant that grows in the Spring and Summer 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows as Graminoid 
+A plant that survives at -8.0 degrees, minimum (°F).

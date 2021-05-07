@@ -1,0 +1,6 @@
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant that needs between 5.0 and 18.0 precipitation .
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant that grows Perennially 
+A plant that has a Long lifespan.

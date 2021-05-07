@@ -1,0 +1,4 @@
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 20.0 feet tall. 

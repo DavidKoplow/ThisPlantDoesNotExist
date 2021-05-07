@@ -1,0 +1,10 @@
+A plant with Purple flower color. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that has a Decumbent orientation.
+A plant with Yellow-Green foliage color. 
+A plant that grows Perennially 
+A plant that grows at a Moderate rate. 
+A plant that has Black colored fruit. 
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant with Moderate foliage texture. 
+A plant that grows as Forb/herb, Vine 

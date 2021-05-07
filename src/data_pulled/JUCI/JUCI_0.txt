@@ -1,0 +1,16 @@
+A plant with Green flower color. 
+A plant with Green foliage color. 
+A plant that grows in the Spring and Summer 
+A plant that has a Short lifespan.
+A plant that has Brown colored fruit. 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 80.0 feet tall. 
+A plant that grows as Tree 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Moderate foliage texture. 
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 
+A plant that grows in Single Stem form.
+A plant that is is, isn't conspicuous during the fall 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.

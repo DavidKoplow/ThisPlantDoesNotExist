@@ -1,0 +1,12 @@
+A plant that has a Long lifespan.
+A plant that grows in Multiple Stem form.
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 25.0 feet tall. 
+A plant that not tolerant of fire.
+A plant with Green foliage color. 
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.
+A plant that grows in the Year Round 
+A plant that has Purple colored fruit. 
+A plant that grows as Tree, Shrub 
+A plant that needs between 20.0 and 60.0 precipitation .

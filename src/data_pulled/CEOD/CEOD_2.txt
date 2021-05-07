@@ -1,0 +1,8 @@
+A plant with Green flower color. 
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows as Tree 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that needs between 47.0 and 120.0 precipitation .
+A plant that has a Erect orientation.

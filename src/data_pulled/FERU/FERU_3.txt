@@ -1,0 +1,6 @@
+A plant that grows as Shrub 
+A plant that not tolerant of fire.
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that does retaining leaves.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 

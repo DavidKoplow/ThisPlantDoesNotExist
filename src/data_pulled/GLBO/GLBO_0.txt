@@ -1,0 +1,12 @@
+A plant that grows in the Spring 
+A plant that has Yellow colored fruit. 
+A plant that has a Moderate lifespan.
+A plant with Green flower color. 
+A plant that lives in NA (L48, AK, CAN, SPM) categorized as Monocot in the Plantae kingdom.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.
+A plant that grows Perennially 

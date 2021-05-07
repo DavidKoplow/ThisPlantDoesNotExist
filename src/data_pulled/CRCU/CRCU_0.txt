@@ -1,0 +1,14 @@
+A plant that has Green colored fruit. 
+A plant with Green flower color. 
+A plant that grows in Single Crown form.
+A plant that grows at a Slow rate. 
+A plant that grows as Tree, Shrub 
+A plant with Moderate foliage texture. 
+A plant that grows in the Spring 
+A plant that lives in NA (L48, GU, PB), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Slow rate. 
+A plant that starts at 49.0 feet tall. 
+andthat has mature height 33.0 feet tall. 
+A plant with flower that is, isn't conspicuous.
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows Perennially 

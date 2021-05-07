@@ -1,0 +1,8 @@
+A plant that is, isn't edible.
+A plant with Purple flower color. 
+A plant with Green foliage color. 
+A plant that has a Erect orientation.
+A plant that has a Short lifespan.
+A plant that has Black colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows Perennially 

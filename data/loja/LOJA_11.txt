@@ -1,0 +1,20 @@
+A plant that lives in NA (L48, CAN), HI, PR categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Vine 
+A plant that grows in the Spring, Summer, Fall 
+A plant with White flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that does retaining leaves.
+A plant that has a Moderate lifespan.
+A plant that has a Prostrate orientation.
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that survives at -13.0 degrees, minimum (°F).

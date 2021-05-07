@@ -1,0 +1,5 @@
+A plant that has Red colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Slow rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 

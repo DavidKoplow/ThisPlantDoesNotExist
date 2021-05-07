@@ -1,0 +1,6 @@
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant with Dense foliage texture. 
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that needs between 8.0 and 25.0 precipitation .
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

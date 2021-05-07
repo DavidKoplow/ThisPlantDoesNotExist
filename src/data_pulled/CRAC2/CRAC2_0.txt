@@ -1,0 +1,13 @@
+A plant that grows in Bunch form.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant with Porous foliage texture. 
+A plant that grows in the Spring and Summer 
+A plant that grows in Bunch form.
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant that has a Short lifespan.
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant with Yellow flower color. 
+A plant that needs between 8.0 and 20.0 precipitation .
+A plant that grows at a Moderate rate. 

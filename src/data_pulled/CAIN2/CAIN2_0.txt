@@ -1,0 +1,14 @@
+A plant that is, isn't edible.
+A plant that has a Decumbent orientation.
+A plant with Porous foliage texture. 
+A plant that needs between 10.0 and 36.0 precipitation .
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows in the Spring and Summer 
+A plant that grows at a Moderate rate. 
+A plant that has Brown colored fruit. 
+A plant with flower that is, isn't conspicuous.
+A plant with Red flower color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Moderate lifespan.
+A plant that grows Perennially 
+A plant that grows as Forb/herb 

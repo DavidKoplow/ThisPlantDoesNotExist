@@ -1,0 +1,4 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant with White flower color. 
+A plant with Green foliage color. 

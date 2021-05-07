@@ -1,0 +1,6 @@
+A plant that grows at a Slow rate. 
+A plant that has a Erect orientation.
+A plant that has a Long lifespan.
+A plant that lives in NA (L48) categorized as Gymnosperm in the Plantae kingdom.
+A plant that grows as Shrub 
+A plant that has Brown colored fruit. 

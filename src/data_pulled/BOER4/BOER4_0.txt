@@ -1,0 +1,12 @@
+A plant that grows as Graminoid 
+A plant with Porous foliage texture. 
+A plant that grows in the Summer and Fall 
+A plant that needs between 7.0 and 19.0 precipitation .
+A plant that grows at a Moderate rate. 
+A plant with Green foliage color. 
+A plant that grows in Stoloniferous form.
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that has Brown colored fruit. 
+A plant that has a Moderate lifespan.
+A plant with Yellow flower color. 
+A plant that grows in Stoloniferous form.

@@ -1,0 +1,6 @@
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows at a Moderate rate. 
+A plant that survives at -43.0 degrees, minimum (°F).

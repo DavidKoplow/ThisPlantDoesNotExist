@@ -1,0 +1,11 @@
+A plant that grows at a Rapid rate. 
+A plant that needs between 32.0 and 60.0 precipitation .
+A plant that grows Perennially 
+A plant that has Brown colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Green foliage color. 
+A plant with White flower color. 

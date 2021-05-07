@@ -1,0 +1,6 @@
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 5.0 feet tall. 
+A plant that grows as Shrub 
+A plant with Red flower color. 
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 

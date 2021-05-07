@@ -1,0 +1,4 @@
+A plant that has a Long lifespan.
+A plant that not tolerant of drought.
+A plant with Moderate foliage texture. 
+A plant that grows as Graminoid 

@@ -1,0 +1,9 @@
+A plant that grows as Forb/herb 
+A plant that has Black colored fruit. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 
+A plant that needs between 30.0 and 65.0 precipitation .
+A plant that has a Decumbent orientation.
+A plant that grows in Multiple Stem form.
+A plant that survives at 6.0 degrees, minimum (°F).

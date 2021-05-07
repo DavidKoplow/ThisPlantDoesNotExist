@@ -1,0 +1,15 @@
+A plant that starts at 60.0 feet tall. 
+andthat has mature height 40.0 feet tall. 
+A plant that survives at 27.0 degrees, minimum (°F).
+A plant with Moderate foliage texture. 
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that grows in the Spring 
+A plant that grows in Single Stem form.
+A plant that needs between 16.0 and 68.0 precipitation .
+A plant that grows in Single Stem form.
+A plant that has a Long lifespan.
+A plant with Green flower color. 
+A plant that grows as Tree, Shrub 
+A plant with Green foliage color. 

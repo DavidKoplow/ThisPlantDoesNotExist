@@ -1,0 +1,24 @@
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Subshrub, Forb/herb, Shrub 
+A plant that grows in the Spring, Summer, Fall 
+A plant that is is, isn't conspicuous during the fall 
+A plant with White flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Moderate rate. 
+A plant that starts at 3.0 feet tall. 
+andthat has mature height 4.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Short lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Moderate rate. 
+A plant that not tolerant of fire.
+A plant that needs between 7.0 and 35.0 precipitation .
+A plant that survives at -3.0 degrees, minimum (°F).

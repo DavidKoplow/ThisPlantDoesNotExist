@@ -1,0 +1,11 @@
+A plant with Porous foliage texture. 
+A plant that grows at a Rapid rate. 
+A plant that is, isn't edible.
+A plant that not tolerant of fire.
+A plant that grows at a Rapid rate. 
+A plant that grows as Forb/herb 
+A plant that survives at 52.0 degrees, minimum (°F).
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in the Summer 
+A plant with fruit that is, isn't conspicuous. 
+A plant that lives in NA (L48, AK, CAN, PR, SPM), HI categorized as Dicot in the Plantae kingdom.

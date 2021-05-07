@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant that grows in Multiple Stem form.
+A plant that has a Moderate lifespan.
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that grows Perennially 

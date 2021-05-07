@@ -1,0 +1,12 @@
+A plant that needs between 24.0 and 55.0 precipitation .
+A plant that grows in Bunch form.
+A plant that grows at a Moderate rate. 
+A plant with Yellow flower color. 
+A plant with Moderate foliage texture. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant that lives in NA (L48, CAN, SPM) categorized as Monocot in the Plantae kingdom.
+A plant with Green foliage color. 
+A plant that has a Short lifespan.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

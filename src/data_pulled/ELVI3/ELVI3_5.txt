@@ -1,0 +1,2 @@
+A plant that needs between 24.0 and 55.0 precipitation .
+A plant with Yellow flower color. 

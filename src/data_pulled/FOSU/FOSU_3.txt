@@ -1,0 +1,5 @@
+A plant that grows at a Rapid rate. 
+A plant with Dense foliage texture. 
+A plant that grows as Shrub 
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 6.0 feet tall. 

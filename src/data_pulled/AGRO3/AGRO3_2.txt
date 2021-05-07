@@ -1,0 +1,6 @@
+A plant that needs between 35.0 and 50.0 precipitation .
+A plant that has a Erect orientation.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that grows at a Moderate rate. 

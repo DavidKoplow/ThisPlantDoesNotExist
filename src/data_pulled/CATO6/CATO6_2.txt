@@ -1,0 +1,7 @@
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that has a Erect orientation.
+A plant that needs between 32.0 and 80.0 precipitation .
+A plant with Green foliage color. 
+A plant that is, isn't edible.
+A plant with Dense foliage texture. 
+A plant that has Brown colored fruit. 

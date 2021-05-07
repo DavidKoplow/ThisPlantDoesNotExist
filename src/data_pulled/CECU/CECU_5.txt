@@ -1,0 +1,4 @@
+A plant that has Brown colored fruit. 
+A plant that starts at 11.0 feet tall. 
+andthat has mature height 11.0 feet tall. 
+A plant that has a Erect orientation.

@@ -1,0 +1,4 @@
+A plant that grows in Bunch form.
+A plant with Green flower color. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that has a Long lifespan.

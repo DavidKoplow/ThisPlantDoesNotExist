@@ -1,0 +1,5 @@
+A plant with White flower color. 
+A plant that grows in Multiple Stem form.
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that starts at 3.0 feet tall. 
+andthat has mature height 10.0 feet tall. 

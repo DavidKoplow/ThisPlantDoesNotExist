@@ -1,0 +1,6 @@
+A plant that grows at a Rapid rate. 
+A plant that not tolerant of fire.
+A plant that grows Annually 
+A plant that has a Prostrate orientation.
+A plant that survives at 32.0 degrees, minimum (°F).
+A plant with Green foliage color. 

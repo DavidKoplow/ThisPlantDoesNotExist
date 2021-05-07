@@ -1,0 +1,8 @@
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that not tolerant of drought.
+A plant with Porous foliage texture. 
+A plant that needs between 16.0 and 40.0 precipitation .
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant with White flower color. 

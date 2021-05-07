@@ -1,0 +1,3 @@
+A plant that grows in Rhizomatous form.
+A plant that grows at a Moderate rate. 
+A plant that has a Short lifespan.

@@ -1,0 +1,4 @@
+A plant that has a Prostrate orientation.
+A plant that grows at a Rapid rate. 
+A plant that grows in Stoloniferous form.
+A plant that grows as Forb/herb 

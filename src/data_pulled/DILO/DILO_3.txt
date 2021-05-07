@@ -1,0 +1,5 @@
+A plant that grows in Multiple Stem form.
+A plant with Dense foliage texture. 
+A plant with Dark Green foliage color. 
+A plant that grows at a Slow rate. 
+A plant that grows Perennially 

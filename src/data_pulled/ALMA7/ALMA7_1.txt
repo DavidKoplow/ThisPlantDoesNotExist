@@ -1,0 +1,11 @@
+A plant that grows in Single Stem form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that has a Erect orientation.
+A plant that has a Moderate lifespan.
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant that needs between 36.0 and 50.0 precipitation .
+A plant that grows as Tree, Shrub 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 30.0 feet tall. 

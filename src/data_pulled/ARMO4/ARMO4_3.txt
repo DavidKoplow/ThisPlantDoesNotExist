@@ -1,0 +1,4 @@
+A plant that needs between 10.0 and 100.0 precipitation .
+A plant with Porous foliage texture. 
+A plant that grows as Forb/herb 
+A plant that grows in Single Stem form.

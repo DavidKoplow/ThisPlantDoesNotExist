@@ -1,0 +1,11 @@
+A plant that grows in the Spring and Summer 
+A plant that not tolerant of fire.
+A plant that has a Irregular orientation.
+A plant that grows in Single Crown form.
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant that grows at a Moderate rate. 
+A plant that has Brown colored fruit. 
+A plant that is is, isn't conspicuous during the fall 
+A plant with White-Gray foliage color. 

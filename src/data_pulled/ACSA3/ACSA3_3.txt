@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that grows at a Slow rate. 
+A plant with Green flower color. 
+A plant that grows as Tree, Shrub 
+A plant that has a Erect orientation.
+A plant that is is, isn't conspicuous during the fall 

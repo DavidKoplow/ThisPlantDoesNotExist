@@ -1,0 +1,6 @@
+A plant that grows as Tree 
+A plant that grows Perennially 
+A plant that grows in Single Stem form.
+A plant that not tolerant of fire.
+A plant that grows in Single Stem form.
+A plant that survives at 17.0 degrees, minimum (°F).

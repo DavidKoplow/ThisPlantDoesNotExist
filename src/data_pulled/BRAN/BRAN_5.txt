@@ -1,0 +1,2 @@
+A plant that has Brown colored fruit. 
+A plant that needs between 2.0 and 20.0 precipitation .

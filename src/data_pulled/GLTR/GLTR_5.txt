@@ -1,0 +1,3 @@
+A plant that needs between 20.0 and 70.0 precipitation .
+A plant that grows in Single Crown form.
+A plant that has Green colored fruit. 

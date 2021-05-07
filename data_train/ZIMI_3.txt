@@ -1,0 +1,20 @@
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Graminoid 
+A plant that grows in the Spring and Summer 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Yellow flower color. 
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Yellow colored fruit. 
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that has a Moderate lifespan.
+A plant that has a Erect orientation.
+A plant that is, isn't low growing grass. 
+A plant that not tolerant of drought.
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 35.0 and 70.0 precipitation .
+A plant that survives at 12.0 degrees, minimum (°F).

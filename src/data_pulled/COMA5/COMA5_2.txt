@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant that grows as Forb/herb 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant with Porous foliage texture. 
+A plant that needs between 16.0 and 32.0 precipitation .

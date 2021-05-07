@@ -1,0 +1,15 @@
+A plant that has a Semi-Erect orientation.
+A plant that grows Perennially 
+A plant with Dense foliage texture. 
+A plant that has a Long lifespan.
+A plant that does retaining leaves.
+A plant that has Blue colored fruit. 
+A plant that grows as Tree, Shrub 
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant that grows in Single Stem form.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows in the Spring and Summer 
+A plant that grows in Single Stem form.
+A plant that survives at -43.0 degrees, minimum (°F).
+A plant with Yellow flower color. 

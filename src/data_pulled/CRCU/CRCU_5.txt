@@ -1,0 +1,3 @@
+A plant that grows at a Slow rate. 
+A plant that starts at 49.0 feet tall. 
+andthat has mature height 33.0 feet tall. 

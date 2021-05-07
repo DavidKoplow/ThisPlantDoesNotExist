@@ -1,0 +1,13 @@
+A plant that does retaining leaves.
+A plant that needs between 2.0 and 10.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant with Porous foliage texture. 
+A plant that has a Erect orientation.
+A plant with White flower color. 
+A plant that grows as Tree, Shrub, Vine 
+A plant that survives at 27.0 degrees, minimum (°F).
+A plant that grows in Single Stem form.
+A plant that is is, isn't conspicuous during the fall 
+A plant with Dark Green foliage color. 
+A plant that is, isn't edible.
+A plant with fruit that is, isn't conspicuous. 

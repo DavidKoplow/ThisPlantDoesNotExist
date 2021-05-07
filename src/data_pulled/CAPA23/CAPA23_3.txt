@@ -1,0 +1,6 @@
+A plant that has a Short lifespan.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Tree, Shrub 
+A plant that grows in Single Stem form.
+A plant that is is, isn't conspicuous during the fall 
+A plant with White flower color. 

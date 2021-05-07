@@ -1,0 +1,2 @@
+A plant that has a Rounded orientation.
+A plant with Dense foliage texture. 

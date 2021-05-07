@@ -1,0 +1,8 @@
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant that grows in Single Stem form.
+A plant that lives in NA (L48, GU, PB), HI, PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that grows in Single Stem form.
+A plant that grows in the Spring, Summer, Fall 
+A plant that needs between 25.0 and 60.0 precipitation .
+A plant that grows Perennially 

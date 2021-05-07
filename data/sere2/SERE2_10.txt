@@ -1,0 +1,21 @@
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree, Shrub 
+A plant that grows in the Spring and Summer 
+A plant with White flower color. 
+A plant with Yellow-Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant that grows in Bunch form.
+A plant that grows at a Slow rate. 
+A plant that starts at 10.0 feet tall. 
+andthat has mature height 7.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.
+A plant that grows at a Slow rate. 
+A plant that needs between 35.0 and 80.0 precipitation .
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that is, isn't edible.

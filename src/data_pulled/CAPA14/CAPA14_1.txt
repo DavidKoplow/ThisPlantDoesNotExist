@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant with Moderate foliage texture. 
+A plant that grows in Rhizomatous form.
+A plant that grows at a Moderate rate. 
+A plant with Red flower color. 
+A plant that has a Erect orientation.
+A plant that grows in Rhizomatous form.
+A plant that needs between 18.0 and 60.0 precipitation .

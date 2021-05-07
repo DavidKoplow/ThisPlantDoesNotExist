@@ -1,0 +1,6 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that needs between 15.0 and 163.0 precipitation .
+A plant that is is, isn't conspicuous during the fall 
+A plant that has Red colored fruit. 
+A plant that grows as Tree 
+A plant that grows at a Slow rate. 

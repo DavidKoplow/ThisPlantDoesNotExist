@@ -1,0 +1,13 @@
+A plant that grows at a Moderate rate. 
+A plant that grows as Graminoid 
+A plant that survives at -8.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 
+A plant that grows in the Spring and Summer 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows Perennially 
+A plant with White flower color. 
+A plant that has a Erect orientation.
+A plant with Moderate foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in Multiple Stem form.

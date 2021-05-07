@@ -1,0 +1,15 @@
+A plant .
+A plant that grows in the Summer and Fall 
+A plant with Yellow flower color. 
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Bunch form.
+A plant that grows at a Moderate rate. 
+A plant that has a Short lifespan.
+A plant that has a Decumbent orientation.
+A plant that grows in Bunch form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 33.0 and 50.0 precipitation .
+A plant that survives at -23.0 degrees, minimum (°F).

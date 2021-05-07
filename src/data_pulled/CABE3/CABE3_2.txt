@@ -1,0 +1,6 @@
+A plant that grows in the Spring and Summer 
+A plant that grows Perennially 
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that not tolerant of drought.
+A plant that grows in Bunch form.

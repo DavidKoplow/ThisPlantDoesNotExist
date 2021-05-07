@@ -1,0 +1,13 @@
+A plant that not tolerant of drought.
+A plant that needs between 35.0 and 55.0 precipitation .
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows at a Moderate rate. 
+A plant that has a Semi-Erect orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green flower color. 
+A plant with Green foliage color. 
+A plant that has a Moderate lifespan.
+A plant that has Brown colored fruit. 
+A plant that grows in Bunch form.
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.

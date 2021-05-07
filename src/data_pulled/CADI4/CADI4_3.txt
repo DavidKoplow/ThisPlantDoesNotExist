@@ -1,0 +1,4 @@
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48, AK, CAN, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 

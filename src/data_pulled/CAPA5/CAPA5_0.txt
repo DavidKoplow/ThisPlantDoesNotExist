@@ -1,0 +1,14 @@
+A plant that grows Perennially 
+A plant with Yellow flower color. 
+A plant with Green foliage color. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with flower that is, isn't conspicuous.
+A plant that not tolerant of drought.
+A plant that grows at a Slow rate. 
+A plant that grows in the Spring 
+A plant that has Brown colored fruit. 
+A plant with Porous foliage texture. 
+A plant that grows at a Slow rate. 
+A plant that has a Moderate lifespan.
+A plant that has a Semi-Erect orientation.

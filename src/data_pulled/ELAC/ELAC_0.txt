@@ -1,0 +1,12 @@
+A plant that lives in NA (L48, AK, CAN, GL, GU, PB, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that needs between 14.0 and 50.0 precipitation .
+A plant that grows Annual, Perennially 
+A plant that grows as Graminoid 
+A plant that grows in Rhizomatous form.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 
+A plant that grows at a Moderate rate. 
+A plant with White flower color. 
+A plant that grows in Rhizomatous form.

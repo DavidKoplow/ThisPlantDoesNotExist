@@ -1,0 +1,2 @@
+A plant that needs between 40.0 and 65.0 precipitation .
+A plant that survives at -24.0 degrees, minimum (°F).

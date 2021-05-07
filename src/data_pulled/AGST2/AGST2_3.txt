@@ -1,0 +1,4 @@
+A plant that grows as Graminoid 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant with Yellow flower color. 
+A plant with Moderate foliage texture. 

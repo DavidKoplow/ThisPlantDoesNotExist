@@ -1,0 +1,12 @@
+A plant that lives in NA (L48, AK, CAN, GL, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that grows at a Moderate rate. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant with Porous foliage texture. 
+A plant with Yellow flower color. 
+A plant that grows in Bunch form.
+A plant that has Black colored fruit. 
+A plant that has a Semi-Erect orientation.
+A plant that grows Perennially 
+A plant that needs between 16.0 and 50.0 precipitation .
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows as Graminoid 

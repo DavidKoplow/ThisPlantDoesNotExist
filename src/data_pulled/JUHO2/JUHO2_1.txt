@@ -1,0 +1,10 @@
+A plant that lives in NA (L48, AK, CAN, SPM) categorized as Gymnosperm in the Plantae kingdom.
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows at a Moderate rate. 
+A plant that grows in Single Crown form.
+A plant with Dense foliage texture. 
+A plant that has White colored fruit. 
+A plant that needs between 30.0 and 65.0 precipitation .
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that does retaining leaves.
+A plant that grows as Subshrub 

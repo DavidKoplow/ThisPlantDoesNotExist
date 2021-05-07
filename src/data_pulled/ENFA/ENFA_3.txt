@@ -1,0 +1,6 @@
+A plant that needs between 5.0 and 10.0 precipitation .
+A plant with Moderate foliage texture. 
+A plant that not tolerant of fire.
+A plant that grows in Single Stem form.
+A plant that has Black colored fruit. 
+A plant that grows in Single Stem form.

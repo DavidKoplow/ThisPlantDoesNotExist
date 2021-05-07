@@ -1,0 +1,6 @@
+A plant that grows at a Moderate rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that is, isn't low growing grass. 
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant that grows at a Moderate rate. 

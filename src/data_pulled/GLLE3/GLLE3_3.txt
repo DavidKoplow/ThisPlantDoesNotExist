@@ -1,0 +1,6 @@
+A plant that has a Moderate lifespan.
+A plant that not tolerant of drought.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that is is, isn't conspicuous during the fall 

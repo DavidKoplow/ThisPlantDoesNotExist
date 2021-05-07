@@ -1,0 +1,7 @@
+A plant that survives at -47.0 degrees, minimum (°F).
+A plant that grows in Multiple Stem form.
+A plant that grows Perennially 
+A plant with Yellow flower color. 
+A plant that needs between 30.0 and 70.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant that has a Moderate lifespan.

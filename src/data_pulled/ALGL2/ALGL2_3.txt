@@ -1,0 +1,5 @@
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that needs between 20.0 and 65.0 precipitation .
+A plant that grows as Tree 
+A plant that grows at a Rapid rate. 

@@ -1,0 +1,6 @@
+A plant with Dense foliage texture. 
+A plant that grows as Tree, Shrub 
+A plant that does retaining leaves.
+A plant that grows at a Slow rate. 
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.

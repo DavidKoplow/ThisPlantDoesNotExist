@@ -1,0 +1,9 @@
+A plant that grows at a Moderate rate. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant that is, isn't low growing grass. 
+A plant with Yellow flower color. 
+A plant that lives in NA (L48, AK, CAN, GL, SPM), HI categorized as Monocot in the Plantae kingdom.
+A plant that grows as Graminoid 
+A plant with Moderate foliage texture. 

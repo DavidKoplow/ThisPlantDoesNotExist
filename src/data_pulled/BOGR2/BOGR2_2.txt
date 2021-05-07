@@ -1,0 +1,6 @@
+A plant with Gray-Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 
+A plant that needs between 8.0 and 22.0 precipitation .
+A plant that grows Perennially 

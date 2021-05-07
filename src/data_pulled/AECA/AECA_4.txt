@@ -1,0 +1,4 @@
+A plant that grows as Tree, Shrub 
+A plant that needs between 40.0 and 75.0 precipitation .
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in Single Stem form.

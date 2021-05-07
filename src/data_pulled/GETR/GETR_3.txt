@@ -1,0 +1,5 @@
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant that needs between 16.0 and 40.0 precipitation .
+A plant with Purple flower color. 
+A plant with Green foliage color. 

@@ -1,0 +1,10 @@
+
+A plant that grows Perennially 
+A plant that has a Short lifespan.
+A plant that needs between 4.0 and 80.0 precipitation .
+A plant that starts at 8.0 feet tall. 
+andthat has mature height 2.0 feet tall. 
+A plant with White flower color. 
+A plant with Green foliage color. 
+A plant that has a Erect orientation.
+A plant that has White colored fruit. 

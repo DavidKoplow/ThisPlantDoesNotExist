@@ -1,0 +1,11 @@
+A plant that is, isn't edible.
+A plant that grows as Tree, Shrub 
+A plant that survives at -27.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that grows in the Spring and Summer 
+A plant that has a Short lifespan.
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Dark Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

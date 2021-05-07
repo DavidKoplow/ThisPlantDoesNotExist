@@ -1,0 +1,4 @@
+A plant with Yellow flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in the Spring and Summer 
+A plant that lives in NA (L48), HI, PR, VI categorized as Monocot in the Plantae kingdom.

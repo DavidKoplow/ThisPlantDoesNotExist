@@ -1,0 +1,5 @@
+A plant with Gray-Green foliage color. 
+A plant that grows in Single Stem form.
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that grows in the Year Round 

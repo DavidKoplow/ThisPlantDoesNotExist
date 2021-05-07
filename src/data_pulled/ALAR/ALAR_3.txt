@@ -1,0 +1,4 @@
+A plant that grows in the Spring and Summer 
+A plant that grows as Graminoid 
+A plant that needs between 18.0 and 70.0 precipitation .
+A plant that has a Erect orientation.

@@ -1,0 +1,4 @@
+A plant that grows in the Spring and Summer 
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 36.0 feet tall. 
+A plant with White flower color. 

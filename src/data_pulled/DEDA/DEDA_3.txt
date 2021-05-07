@@ -1,0 +1,4 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant with Porous foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that survives at 52.0 degrees, minimum (°F).

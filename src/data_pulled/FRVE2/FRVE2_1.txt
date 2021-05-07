@@ -1,0 +1,11 @@
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 
+A plant that grows in the Spring and Summer 
+A plant with Green foliage color. 
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant that has a Moderate lifespan.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant with Yellow flower color. 
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 40.0 feet tall. 

@@ -2,7 +2,8 @@ import pandas as pd
 import random
 import os
 
-filename = r'data\plants_usda_selected_features.txt'
+filename = "C:/Users/Administrator/Documents/GitHub/ThisPlantDoesNotExist/src/plants_usda_selected_features.txt" #r'ThisPlantDoesNotExist\src\data\plants_usda_selected_features.txt'
+
 read_file = pd.read_csv(filename, error_bad_lines=False)
 
 def get_attributes(feature):
@@ -67,13 +68,14 @@ precipitation1s  =  pd.Series.tolist(read_file["Precipitation (Minimum)"])
 precipitation2s  =  pd.Series.tolist(read_file["Precipitation (Maximum)"])
 
 shades =  pd.Series.tolist(read_file["Shade Tolerance"])
-temperatures = pd.Series.tolist(read_file["Temperature, Minimum (°F)"])
+temperatures = pd.Series.tolist(read_file["Temperature, Minimum (F)"])
 periods = pd.Series.tolist(read_file["Bloom Period"])
 bulbs = pd.Series.tolist(read_file["Propogated by Bulbs"])
 
 #product =  pd.Series.tolist(read_file["Berry/Nut/Seed Product"])
 palatables = pd.Series.tolist(read_file["Palatable Human"])
 
+root="C:/Users/Administrator/Documents/GitHub/data"
 
 for i in range(3, len(names)):
 #for i in range(3, 10):
@@ -138,13 +140,29 @@ for i in range(3, len(names)):
     feats = len(L)
 
     name = names[i]
-    for copy in range(20): # 20 descriptions per images (is that enough?)
-        if not os.path.exists(f'data\{name}'):
-            os.makedirs(f'data\{name}')
-        filename = f'data\{name}\{name}_{copy}.txt'
-        descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
-        L = random.sample(L, 3 * len(L) // 4)  # include 3/4 of the features into each file
-        descriptions.writelines(L)
-        descriptions.close
+    sf=os.path.join(root, name)
+    for root, dirs, files in os.walk(sf):
+        for file in files:
+            #if(not (file.endswith(".jpg") or file.endswith(".txt"))):
+            #    print(file)
+            if(file.endswith(".jpg")):
+                filename =sf+"/"+file[:-4]+".txt"
+                #filename = sf+f'data\{name}\{name}_{copy}.txt'
+                descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
+                #L = random.sample(L, 3 * len(L) // 4)  # include 3/4 of the features into each file
+                descriptions.writelines(L)
+                descriptions.close
+
+                #saved[file[:-4]]=True
+
+#    for copy in range(20): # 20 descriptions per images (is that enough?)
+#        if not os.path.exists(sf):
+#            os.makedirs(sf)
+#        filename =sf+"/"+name+"_"+str(copy)+".txt"
+#        #filename = sf+f'data\{name}\{name}_{copy}.txt'
+#        descriptions = open(filename, 'w+')  # change w+ mode later (overriding every time for now)
+#        #L = random.sample(L, 3 * len(L) // 4)  # include 3/4 of the features into each file
+#        descriptions.writelines(L)
+#        descriptions.close
 
 

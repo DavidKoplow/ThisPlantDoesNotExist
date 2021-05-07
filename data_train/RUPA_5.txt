@@ -1,0 +1,22 @@
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Subshrub 
+A plant that grows in the Spring and Summer 
+A plant with White flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Red colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 4.0 feet tall. 
+A plant that has a Moderate lifespan.
+A plant that has a Semi-Erect orientation.
+A plant that grows in Rhizomatous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 20.0 and 45.0 precipitation .
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that is, isn't edible.

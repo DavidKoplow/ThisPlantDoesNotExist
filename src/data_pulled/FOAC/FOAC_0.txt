@@ -1,0 +1,14 @@
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant with Green flower color. 
+A plant that has a Long lifespan.
+A plant that needs between 35.0 and 50.0 precipitation .
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 33.0 feet tall. 
+A plant that grows in the Summer 
+A plant that grows at a Moderate rate. 
+A plant with Dense foliage texture. 
+A plant that survives at -18.0 degrees, minimum (°F).
+A plant that grows in Single Stem form.

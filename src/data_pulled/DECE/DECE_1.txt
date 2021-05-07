@@ -1,0 +1,8 @@
+A plant that has a Erect orientation.
+A plant .
+A plant with Moderate foliage texture. 
+A plant that grows in Bunch form.
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has a Long lifespan.
+A plant that survives at -38.0 degrees, minimum (°F).

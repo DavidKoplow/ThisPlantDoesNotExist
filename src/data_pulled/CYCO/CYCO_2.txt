@@ -1,0 +1,6 @@
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 
+A plant that grows in Bunch form.
+A plant that needs between 30.0 and 50.0 precipitation .
+A plant that grows in the Summer and Fall 
+A plant with Green foliage color. 

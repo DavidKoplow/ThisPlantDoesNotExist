@@ -1,0 +1,9 @@
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 11.0 feet tall. 
+A plant that not tolerant of fire.
+A plant that has a Climbing orientation.
+A plant that grows in Single Stem form.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant that grows in Single Stem form.
+A plant that has Black colored fruit. 

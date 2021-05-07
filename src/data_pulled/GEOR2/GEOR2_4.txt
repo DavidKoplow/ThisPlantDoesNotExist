@@ -1,0 +1,4 @@
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that grows in Single Stem form.
+A plant with fruit that is, isn't conspicuous. 
+A plant that has a Erect orientation.

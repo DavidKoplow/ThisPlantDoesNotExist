@@ -1,0 +1,17 @@
+A plant that lives in NA (L48), PR categorized as Monocot in the Plantae kingdom.
+A plant that grows Annual, Perennially 
+A plant that grows as Graminoid 
+A plant that grows in the Spring and Summer 
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that has a Short lifespan.
+A plant that has a Erect orientation.
+A plant that is, isn't low growing grass. 
+A plant that grows in Stoloniferous form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 48.0 and 100.0 precipitation .
+A plant that survives at 18.0 degrees, minimum (°F).
+A plant that is, isn't edible.

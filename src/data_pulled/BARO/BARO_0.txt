@@ -1,0 +1,14 @@
+A plant that needs between 24.0 and 65.0 precipitation .
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Green foliage color. 
+A plant that has a Moderate lifespan.
+A plant with White flower color. 
+A plant with Dense foliage texture. 
+A plant that not tolerant of fire.
+A plant with flower that is, isn't conspicuous.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Forb/herb 
+A plant that grows Perennially 
+A plant that grows in Stoloniferous form.
+A plant that grows in the Spring, Summer, Fall 

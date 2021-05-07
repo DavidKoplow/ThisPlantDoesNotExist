@@ -1,0 +1,10 @@
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Red flower color. 
+A plant that not tolerant of drought.
+A plant that grows in Colonizing form.
+A plant that has a Long lifespan.
+A plant that grows as Subshrub, Shrub 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that grows Perennially 
+A plant that grows in the Summer and Fall 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

@@ -1,0 +1,8 @@
+A plant with Moderate foliage texture. 
+A plant that grows in Single Stem form.
+A plant that grows in Single Stem form.
+A plant that has Black colored fruit. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that not tolerant of fire.
+A plant that needs between 5.0 and 10.0 precipitation .

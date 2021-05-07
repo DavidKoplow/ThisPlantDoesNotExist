@@ -1,0 +1,4 @@
+A plant that not tolerant of drought.
+A plant that not tolerant of fire.
+A plant that grows at a Rapid rate. 
+A plant that has a Decumbent orientation.

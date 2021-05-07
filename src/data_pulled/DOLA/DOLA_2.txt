@@ -1,0 +1,6 @@
+A plant that has a Moderate lifespan.
+A plant that has a Prostrate orientation.
+A plant with Purple flower color. 
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 
+A plant that grows as Subshrub, Forb/herb 

@@ -1,0 +1,15 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant that grows in the Spring 
+A plant with White flower color. 
+A plant that grows in Multiple Stem form.
+A plant that survives at 22.0 degrees, minimum (°F).
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 12.0 feet tall. 
+A plant with Dark Green foliage color. 
+A plant that needs between 8.0 and 18.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.
+A plant that has Red colored fruit. 
+A plant that does retaining leaves.
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.

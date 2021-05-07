@@ -1,0 +1,12 @@
+A plant that grows Perennially 
+A plant with White flower color. 
+A plant that survives at 17.0 degrees, minimum (°F).
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Tree 
+A plant that lives in NA (L48, GU, PB), HI categorized as Dicot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant with Gray-Green foliage color. 
+A plant that grows in the Fall, Winter and Spring 
+A plant that has Black colored fruit. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.

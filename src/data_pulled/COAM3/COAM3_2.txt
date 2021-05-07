@@ -1,0 +1,8 @@
+A plant that starts at 10.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 
+A plant with White flower color. 
+A plant that has Brown colored fruit. 

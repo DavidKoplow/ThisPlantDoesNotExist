@@ -1,0 +1,16 @@
+A plant with Yellow flower color. 
+A plant that grows as Tree, Shrub 
+A plant that does retaining leaves.
+A plant that starts at 26.0 feet tall. 
+andthat has mature height 26.0 feet tall. 
+A plant that needs between 45.0 and 65.0 precipitation .
+A plant that has a Erect orientation.
+A plant that grows in the Spring and Summer 
+A plant that has a Short lifespan.
+A plant that lives in NA (L48), HI, PR categorized as Dicot in the Plantae kingdom.
+A plant that has Red colored fruit. 
+A plant with Dark Green foliage color. 
+A plant that survives at 12.0 degrees, minimum (°F).
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Single Stem form.
+A plant that grows Perennially 

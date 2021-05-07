@@ -1,0 +1,4 @@
+A plant that grows in Bunch form.
+A plant with Green foliage color. 
+A plant that has a Erect orientation.
+A plant that has a Moderate lifespan.

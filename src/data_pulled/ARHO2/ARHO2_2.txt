@@ -1,0 +1,6 @@
+A plant with Porous foliage texture. 
+A plant that grows in the Spring and Summer 
+A plant with Green foliage color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Dicot in the Plantae kingdom.
+A plant that grows Biennial, Perennially 

@@ -1,0 +1,4 @@
+A plant that needs between 36.0 and 65.0 precipitation .
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows in Bunch form.
+A plant that survives at 7.0 degrees, minimum (°F).

@@ -1,0 +1,4 @@
+A plant that grows in Rhizomatous form.
+A plant that has a Short lifespan.
+A plant with Moderate foliage texture. 
+A plant that has a Erect orientation.

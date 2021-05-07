@@ -1,0 +1,4 @@
+A plant that grows as Shrub 
+A plant that grows at a Slow rate. 
+A plant that has a Long lifespan.
+A plant that has Brown colored fruit. 

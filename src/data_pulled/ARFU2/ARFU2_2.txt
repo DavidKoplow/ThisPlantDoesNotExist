@@ -1,0 +1,7 @@
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that survives at -40.0 degrees, minimum (°F).
+A plant that has a Short lifespan.
+A plant that grows at a Moderate rate. 
+A plant that needs between 8.0 and 16.0 precipitation .
+A plant with Brown flower color. 
+A plant that grows in Rhizomatous form.

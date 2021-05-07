@@ -1,0 +1,10 @@
+A plant that survives at 47.0 degrees, minimum (°F).
+A plant with Porous foliage texture. 
+A plant with Green foliage color. 
+A plant that grows Annual, Perennially 
+A plant that needs between 16.0 and 45.0 precipitation .
+A plant that has a Short lifespan.
+A plant that grows at a Rapid rate. 
+A plant that grows as Forb/herb 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

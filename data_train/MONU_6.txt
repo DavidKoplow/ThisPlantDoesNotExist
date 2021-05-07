@@ -1,0 +1,16 @@
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows Annually 
+A plant that grows as Forb/herb 
+A plant that grows in the Spring and Summer 
+A plant with Green flower color. 
+A plant with Dark Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Crown form.
+A plant that grows at a Rapid rate. 
+A plant that has a Decumbent orientation.
+A plant that grows in Single Crown form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 8.0 and 24.0 precipitation .
+A plant that survives at 47.0 degrees, minimum (°F).

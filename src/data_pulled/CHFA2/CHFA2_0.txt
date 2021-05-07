@@ -1,0 +1,13 @@
+A plant that grows Annually 
+A plant that grows as Forb/herb 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant with Yellow flower color. 
+A plant with Moderate foliage texture. 
+A plant that grows in the Spring 
+A plant that has a Erect orientation.
+A plant that needs between 14.0 and 65.0 precipitation .
+A plant that survives at -3.0 degrees, minimum (°F).

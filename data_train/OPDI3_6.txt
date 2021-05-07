@@ -1,0 +1,15 @@
+A plant .
+A plant that grows in the Spring 
+A plant with Yellow flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Red colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that starts at 9.0 feet tall. 
+andthat has mature height 6.0 feet tall. 
+A plant that has a Short lifespan.
+A plant that needs between 29.0 and 45.0 precipitation .
+A plant that survives at 30.0 degrees, minimum (°F).
+A plant that is, isn't edible.

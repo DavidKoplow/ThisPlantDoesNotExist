@@ -1,0 +1,8 @@
+A plant that grows at a Slow rate. 
+A plant that grows as Forb/herb 
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that grows in Rhizomatous form.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows Perennially 
+A plant that grows in Rhizomatous form.

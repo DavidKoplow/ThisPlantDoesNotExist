@@ -1,0 +1,4 @@
+A plant that grows Perennially 
+A plant that starts at 66.0 feet tall. 
+andthat has mature height 66.0 feet tall. 
+A plant with White flower color. 

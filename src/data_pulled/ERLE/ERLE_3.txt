@@ -1,0 +1,4 @@
+A plant that has a Moderate lifespan.
+A plant with Green foliage color. 
+A plant that grows as Graminoid 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

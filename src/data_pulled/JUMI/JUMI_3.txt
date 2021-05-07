@@ -1,0 +1,7 @@
+A plant that grows in Single Stem form.
+A plant with Dense foliage texture. 
+A plant with Green flower color. 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that is, isn't edible.
+A plant that has a Erect orientation.

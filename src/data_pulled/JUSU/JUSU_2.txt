@@ -1,0 +1,6 @@
+A plant that has a Moderate lifespan.
+A plant that needs between 36.0 and 55.0 precipitation .
+A plant that lives in NA (L48, CAN, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that survives at -8.0 degrees, minimum (°F).
+A plant that has Brown colored fruit. 

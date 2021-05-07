@@ -1,0 +1,13 @@
+A plant that grows in Bunch form.
+A plant that has a Erect orientation.
+A plant that grows Perennially 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows as Graminoid 
+A plant that grows in the Spring and Summer 
+A plant with Green foliage color. 
+A plant that grows at a Slow rate. 
+A plant that needs between 14.0 and 40.0 precipitation .
+A plant with Green flower color. 
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48, AK, CAN, SPM) categorized as Monocot in the Plantae kingdom.

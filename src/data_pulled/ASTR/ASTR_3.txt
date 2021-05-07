@@ -1,0 +1,6 @@
+A plant that grows in the Spring and Summer 
+A plant that has a Short lifespan.
+A plant that grows as Tree, Shrub 
+A plant that survives at -27.0 degrees, minimum (°F).
+A plant that is, isn't edible.
+A plant with Moderate foliage texture. 

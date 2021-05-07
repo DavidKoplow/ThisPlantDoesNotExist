@@ -1,0 +1,9 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows Annually 
+A plant with Porous foliage texture. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows as Forb/herb 
+A plant with White flower color. 
+A plant that has Brown colored fruit. 

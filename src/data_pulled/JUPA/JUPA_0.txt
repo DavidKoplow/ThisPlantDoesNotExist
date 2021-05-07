@@ -1,0 +1,12 @@
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows in the Summer 
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.
+A plant that has a Semi-Erect orientation.
+A plant that grows in Bunch form.
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Brown flower color. 
+A plant that grows at a Slow rate. 

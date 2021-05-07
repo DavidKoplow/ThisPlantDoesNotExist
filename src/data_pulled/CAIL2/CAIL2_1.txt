@@ -1,0 +1,11 @@
+A plant that has a Long lifespan.
+A plant that is, isn't edible.
+A plant that grows Perennially 
+A plant that grows at a Slow rate. 
+A plant that has Brown colored fruit. 
+A plant that grows in the Spring and Summer 
+A plant that needs between 28.0 and 79.0 precipitation .
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows at a Slow rate. 
+A plant that has a Erect orientation.
+A plant with fruit that is, isn't conspicuous. 

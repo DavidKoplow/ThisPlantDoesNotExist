@@ -1,0 +1,5 @@
+A plant with Porous foliage texture. 
+A plant that has a Erect orientation.
+A plant that not tolerant of drought.
+A plant that needs between 24.0 and 55.0 precipitation .
+A plant with Purple flower color. 

@@ -1,0 +1,10 @@
+A plant that grows in Single Stem form.
+A plant with Green foliage color. 
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that does retaining leaves.
+A plant that grows Perennially 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant with White flower color. 
+A plant that grows in Single Stem form.
+A plant that survives at 40.0 degrees, minimum (°F).

@@ -1,0 +1,6 @@
+A plant with Brown flower color. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows as Graminoid 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows at a Moderate rate. 

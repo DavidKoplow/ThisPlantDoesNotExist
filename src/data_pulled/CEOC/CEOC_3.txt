@@ -1,0 +1,6 @@
+A plant that grows as Tree, Shrub 
+A plant that grows Perennially 
+A plant that starts at 26.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that has a Erect orientation.
+A plant that is is, isn't conspicuous during the fall 

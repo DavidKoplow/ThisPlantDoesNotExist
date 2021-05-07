@@ -1,0 +1,2 @@
+A plant that needs between 7.0 and 20.0 precipitation .
+A plant that grows at a Slow rate. 

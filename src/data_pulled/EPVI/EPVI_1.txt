@@ -1,0 +1,10 @@
+A plant that grows as Shrub 
+A plant with Yellow flower color. 
+A plant that has Brown colored fruit. 
+A plant that has a Long lifespan.
+A plant that grows at a Slow rate. 
+A plant that lives in NA (L48) categorized as Gymnosperm in the Plantae kingdom.
+A plant that starts at 3.0 feet tall. 
+andthat has mature height 3.0 feet tall. 
+A plant that grows Perennially 
+A plant that has a Erect orientation.

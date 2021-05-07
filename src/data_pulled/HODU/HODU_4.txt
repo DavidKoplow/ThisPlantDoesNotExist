@@ -1,0 +1,3 @@
+A plant that grows in Thicket Forming form.
+A plant that needs between 10.0 and 35.0 precipitation .
+A plant that has a Rounded orientation.

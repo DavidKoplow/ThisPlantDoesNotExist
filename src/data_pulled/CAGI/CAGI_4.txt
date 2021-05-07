@@ -1,0 +1,4 @@
+A plant with White flower color. 
+A plant that survives at 27.0 degrees, minimum (°F).
+A plant that does retaining leaves.
+A plant with Dark Green foliage color. 

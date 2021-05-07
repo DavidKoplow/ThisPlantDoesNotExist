@@ -1,0 +1,15 @@
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows Perennially 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that needs between 12.0 and 20.0 precipitation .
+A plant with Gray-Green foliage color. 
+A plant that grows in Multiple Stem form.
+A plant that has a Semi-Erect orientation.
+A plant that has Brown colored fruit. 
+A plant with Dense foliage texture. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows in Multiple Stem form.
+A plant that grows as Subshrub, Shrub 
+A plant with Purple flower color. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Slow rate. 

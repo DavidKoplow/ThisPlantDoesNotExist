@@ -1,0 +1,4 @@
+A plant with Green flower color. 
+A plant with Moderate foliage texture. 
+A plant that not tolerant of drought.
+A plant that survives at -18.0 degrees, minimum (°F).

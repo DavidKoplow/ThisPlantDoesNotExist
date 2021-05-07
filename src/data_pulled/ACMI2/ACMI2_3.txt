@@ -1,0 +1,4 @@
+A plant with White flower color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows in the Spring 
+A plant with Porous foliage texture. 

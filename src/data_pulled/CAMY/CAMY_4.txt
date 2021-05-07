@@ -1,0 +1,5 @@
+A plant that has Brown colored fruit. 
+A plant that survives at -10.0 degrees, minimum (°F).
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 95.0 feet tall. 
+A plant that has a Moderate lifespan.

@@ -1,0 +1,17 @@
+A plant that lives in NA (L48, GU, PB) categorized as Gymnosperm in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Crown form.
+A plant that grows at a Rapid rate. 
+A plant that starts at 40.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that does retaining leaves.
+A plant that has a Moderate lifespan.
+A plant that has a Conical orientation.
+A plant that grows in Single Crown form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 34.0 and 157.0 precipitation .
+A plant that survives at 35.0 degrees, minimum (°F).

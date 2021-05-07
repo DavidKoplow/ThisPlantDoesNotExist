@@ -1,0 +1,6 @@
+A plant that needs between 35.0 and 55.0 precipitation .
+A plant that not tolerant of drought.
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that grows in Bunch form.
+A plant that lives in NA (L48, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows in the Spring, Summer, Fall 

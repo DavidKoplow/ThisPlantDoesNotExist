@@ -1,0 +1,6 @@
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows in the Spring and Summer 
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that grows at a Slow rate. 

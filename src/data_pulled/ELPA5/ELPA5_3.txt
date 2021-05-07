@@ -1,0 +1,4 @@
+A plant that grows in Stoloniferous form.
+A plant with Green flower color. 
+A plant that grows in the Summer and Fall 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

@@ -1,0 +1,6 @@
+A plant that grows Perennially 
+A plant that has a Decumbent orientation.
+A plant that grows in Bunch form.
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 
+A plant with Green flower color. 

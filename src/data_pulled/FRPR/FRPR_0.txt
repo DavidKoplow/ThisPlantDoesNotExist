@@ -1,0 +1,15 @@
+A plant that grows in Single Stem form.
+A plant that grows at a Rapid rate. 
+A plant that grows at a Rapid rate. 
+A plant that grows Perennially 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that starts at 65.0 feet tall. 
+andthat has mature height 120.0 feet tall. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that is is, isn't conspicuous during the fall 
+A plant that needs between 36.0 and 70.0 precipitation .
+A plant that has a Long lifespan.
+A plant with Green foliage color. 
+A plant with White flower color. 

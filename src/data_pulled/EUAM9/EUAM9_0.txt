@@ -1,0 +1,15 @@
+A plant that not tolerant of drought.
+A plant with Green flower color. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in the Spring and Summer 
+A plant that starts at 8.0 feet tall. 
+andthat has mature height 6.0 feet tall. 
+A plant .
+A plant that has Yellow colored fruit. 
+A plant that has a Erect orientation.
+A plant that grows at a Moderate rate. 
+A plant with Dark Green foliage color. 
+A plant that needs between 35.0 and 70.0 precipitation .
+A plant that survives at -23.0 degrees, minimum (°F).
+A plant with Porous foliage texture. 
+A plant that grows at a Moderate rate. 

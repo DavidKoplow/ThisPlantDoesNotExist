@@ -1,0 +1,9 @@
+A plant that has Brown colored fruit. 
+A plant with Green flower color. 
+A plant that grows in the Summer and Fall 
+A plant with Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that needs between 30.0 and 50.0 precipitation .

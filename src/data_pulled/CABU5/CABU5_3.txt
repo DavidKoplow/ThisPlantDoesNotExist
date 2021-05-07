@@ -1,0 +1,4 @@
+A plant with Green flower color. 
+A plant with Green foliage color. 
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that has a Erect orientation.

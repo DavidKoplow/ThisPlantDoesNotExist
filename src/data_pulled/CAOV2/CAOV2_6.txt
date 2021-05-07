@@ -1,0 +1,2 @@
+A plant that needs between 29.0 and 80.0 precipitation .
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

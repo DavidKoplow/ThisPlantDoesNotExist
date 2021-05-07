@@ -1,0 +1,8 @@
+A plant with Dense foliage texture. 
+A plant that grows as Tree, Shrub 
+A plant that has a Long lifespan.
+A plant that grows in Single Stem form.
+A plant that grows in the Spring and Summer 
+A plant that has Blue colored fruit. 
+A plant that does retaining leaves.
+A plant with Green foliage color. 

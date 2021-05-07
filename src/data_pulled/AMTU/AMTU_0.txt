@@ -1,0 +1,12 @@
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that needs between 15.0 and 60.0 precipitation .
+A plant .
+A plant that has Black colored fruit. 
+A plant that has a Erect orientation.
+A plant that not tolerant of fire.
+A plant with Green flower color. 
+A plant that grows at a Rapid rate. 
+A plant that grows in Single Stem form.
+A plant with Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant that not tolerant of drought.

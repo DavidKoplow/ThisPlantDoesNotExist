@@ -1,0 +1,8 @@
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant with White flower color. 
+A plant with fruit that is, isn't conspicuous. 
+A plant with flower that is, isn't conspicuous.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Multiple Stem form.

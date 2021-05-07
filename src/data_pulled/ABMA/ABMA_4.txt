@@ -1,0 +1,4 @@
+A plant that needs between 33.0 and 64.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant that has a Erect orientation.
+A plant that does retaining leaves.

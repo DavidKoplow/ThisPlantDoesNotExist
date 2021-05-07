@@ -1,0 +1,9 @@
+A plant that grows in the Summer 
+A plant that grows as Forb/herb 
+A plant that grows in Multiple Stem form.
+A plant that has a Prostrate orientation.
+A plant that lives in NA (L48, GU, PB), HI, PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Green foliage color. 
+A plant that grows Perennially 
+A plant that is, isn't edible.
+A plant that needs between 17.0 and 70.0 precipitation .

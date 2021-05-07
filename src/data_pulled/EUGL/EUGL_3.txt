@@ -1,0 +1,6 @@
+A plant that grows Perennially 
+A plant with White flower color. 
+A plant with Gray-Green foliage color. 
+A plant that has a Erect orientation.
+A plant that grows in the Fall, Winter and Spring 
+A plant that lives in NA (L48, GU, PB), HI categorized as Dicot in the Plantae kingdom.

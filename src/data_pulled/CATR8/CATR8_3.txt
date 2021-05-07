@@ -1,0 +1,4 @@
+A plant that has a Long lifespan.
+A plant that grows in Bunch form.
+A plant that grows in the Spring and Summer 
+A plant that survives at -33.0 degrees, minimum (°F).

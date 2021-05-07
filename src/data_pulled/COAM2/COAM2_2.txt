@@ -1,0 +1,9 @@
+A plant with Dense foliage texture. 
+A plant that grows as Shrub 
+A plant with Green foliage color. 
+A plant that grows in Stoloniferous form.
+A plant that starts at 7.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant with fruit that is, isn't conspicuous. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows at a Moderate rate. 

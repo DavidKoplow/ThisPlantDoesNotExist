@@ -1,0 +1,4 @@
+A plant that survives at -8.0 degrees, minimum (°F).
+A plant that not tolerant of fire.
+A plant that has Black colored fruit. 
+A plant that grows at a Moderate rate. 

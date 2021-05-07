@@ -1,0 +1,16 @@
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Single Stem form.
+A plant with Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows at a Rapid rate. 
+A plant with flower that is, isn't conspicuous.
+A plant that starts at 25.0 feet tall. 
+andthat has mature height 68.0 feet tall. 
+A plant that grows in Single Stem form.
+A plant that grows as Tree 
+A plant that has a Erect orientation.
+A plant that grows in the Spring and Summer 
+A plant with Dense foliage texture. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that survives at -33.0 degrees, minimum (°F).

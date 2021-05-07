@@ -1,0 +1,2 @@
+A plant that grows at a Slow rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

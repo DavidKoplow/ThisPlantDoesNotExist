@@ -1,0 +1,6 @@
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that does retaining leaves.
+A plant that needs between 60.0 and 100.0 precipitation .
+A plant that grows Perennially 
+A plant that has a Long lifespan.

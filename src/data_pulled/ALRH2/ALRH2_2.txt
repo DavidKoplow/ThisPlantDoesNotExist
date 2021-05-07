@@ -1,0 +1,6 @@
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.

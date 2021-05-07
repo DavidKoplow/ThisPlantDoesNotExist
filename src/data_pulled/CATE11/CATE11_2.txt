@@ -1,0 +1,7 @@
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant with Green foliage color. 
+A plant that grows in Single Crown form.
+A plant with Dense foliage texture. 
+A plant that grows in Single Crown form.
+A plant with White flower color. 
+A plant that grows Perennially 

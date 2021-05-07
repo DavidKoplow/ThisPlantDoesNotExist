@@ -1,0 +1,5 @@
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that starts at 35.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant that grows Perennially 
+A plant with Green flower color. 

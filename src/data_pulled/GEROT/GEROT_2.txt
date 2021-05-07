@@ -1,0 +1,7 @@
+A plant with Green foliage color. 
+A plant that has a Short lifespan.
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant with flower that is, isn't conspicuous.
+A plant that survives at 26.0 degrees, minimum (°F).
+A plant with Porous foliage texture. 

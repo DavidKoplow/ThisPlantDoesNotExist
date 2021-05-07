@@ -1,0 +1,10 @@
+A plant that needs between 24.0 and 220.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that grows Perennially 
+A plant that survives at -22.0 degrees, minimum (°F).
+A plant that grows at a Rapid rate. 
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 90.0 feet tall. 
+A plant that has a Erect orientation.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 

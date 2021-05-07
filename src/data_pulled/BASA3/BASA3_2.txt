@@ -1,0 +1,6 @@
+A plant that has a Long lifespan.
+A plant with Yellow flower color. 
+A plant with Moderate foliage texture. 
+A plant that grows as Forb/herb 
+A plant with Green foliage color. 
+A plant that has Brown colored fruit. 

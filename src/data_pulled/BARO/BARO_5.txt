@@ -1,0 +1,2 @@
+A plant that needs between 24.0 and 65.0 precipitation .
+A plant that grows Perennially 

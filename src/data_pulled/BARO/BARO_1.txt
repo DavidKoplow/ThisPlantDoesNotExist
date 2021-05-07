@@ -1,0 +1,10 @@
+A plant that grows as Forb/herb 
+A plant that grows in the Spring, Summer, Fall 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with White flower color. 
+A plant that needs between 24.0 and 65.0 precipitation .
+A plant with Dense foliage texture. 
+A plant that has a Moderate lifespan.
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows Perennially 
+A plant that not tolerant of fire.

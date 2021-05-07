@@ -1,0 +1,3 @@
+A plant that grows in Stoloniferous form.
+A plant that has a Moderate lifespan.
+A plant that survives at 17.0 degrees, minimum (°F).

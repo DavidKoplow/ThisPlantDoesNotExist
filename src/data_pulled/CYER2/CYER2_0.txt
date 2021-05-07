@@ -1,0 +1,12 @@
+A plant that grows in the Summer and Fall 
+A plant that has White colored fruit. 
+A plant that survives at 37.0 degrees, minimum (°F).
+A plant with Dark Green foliage color. 
+A plant that grows in Bunch form.
+A plant that grows as Graminoid 
+A plant with Green flower color. 
+A plant that grows at a Rapid rate. 
+A plant that has a Erect orientation.
+A plant with Moderate foliage texture. 
+A plant that has a Short lifespan.
+A plant that grows Annual, Perennially 

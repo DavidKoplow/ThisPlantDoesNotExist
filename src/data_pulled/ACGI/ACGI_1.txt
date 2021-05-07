@@ -1,0 +1,12 @@
+A plant with Dense foliage texture. 
+A plant with Green foliage color. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that grows in Multiple Stem form.
+A plant that has a Moderate lifespan.
+A plant that grows in Multiple Stem form.
+A plant that has Brown colored fruit. 
+A plant that grows Perennially 
+A plant that grows at a Rapid rate. 
+A plant with White flower color. 
+A plant that grows in the Spring and Summer 

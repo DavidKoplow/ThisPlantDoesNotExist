@@ -1,0 +1,9 @@
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that lives in NA (L48, AK, CAN, SPM), HI categorized as Monocot in the Plantae kingdom.
+A plant that grows Annually 
+A plant that has a Semi-Erect orientation.
+A plant that grows as Graminoid 
+A plant that needs between 10.0 and 55.0 precipitation .
+A plant with Porous foliage texture. 

@@ -1,0 +1,15 @@
+A plant with flower that is, isn't conspicuous.
+A plant that grows at a Moderate rate. 
+A plant that has a Erect orientation.
+A plant with Porous foliage texture. 
+A plant that grows in the Spring 
+A plant with Green foliage color. 
+A plant with Blue flower color. 
+A plant that grows Perennially 
+A plant that grows at a Moderate rate. 
+A plant that needs between 45.0 and 65.0 precipitation .
+A plant thathasbulbs.
+A plant that grows in Rhizomatous form.
+A plant that survives at 12.0 degrees, minimum (°F).
+A plant that not tolerant of fire.
+A plant that has Black colored fruit. 

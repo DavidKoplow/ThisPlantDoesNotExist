@@ -1,0 +1,13 @@
+A plant that has Brown colored fruit. 
+A plant with Yellow flower color. 
+A plant that survives at 47.0 degrees, minimum (°F).
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Green foliage color. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that has a Erect orientation.
+A plant with Moderate foliage texture. 
+A plant that grows as Forb/herb 
+A plant that grows at a Rapid rate. 
+A plant that needs between 24.0 and 60.0 precipitation .
+A plant that not tolerant of fire.
+A plant that grows Annually 

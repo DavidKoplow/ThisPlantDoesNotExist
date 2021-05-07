@@ -1,0 +1,7 @@
+A plant that grows in Rhizomatous form.
+A plant that grows at a Moderate rate. 
+A plant that has a Erect orientation.
+A plant that grows as Graminoid 
+A plant that has Black colored fruit. 
+A plant with Green flower color. 
+A plant with Green foliage color. 

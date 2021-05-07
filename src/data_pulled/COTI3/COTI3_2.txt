@@ -1,0 +1,6 @@
+A plant with Yellow flower color. 
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that survives at 52.0 degrees, minimum (°F).
+A plant with Green foliage color. 

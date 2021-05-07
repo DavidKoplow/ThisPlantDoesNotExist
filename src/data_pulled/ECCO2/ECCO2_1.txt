@@ -1,0 +1,9 @@
+A plant that grows Annually 
+A plant with Green flower color. 
+A plant that has Yellow colored fruit. 
+A plant that survives at 37.0 degrees, minimum (°F).
+A plant that needs between 12.0 and 60.0 precipitation .
+A plant with Porous foliage texture. 
+A plant that grows as Graminoid 
+A plant that lives in NA (L48, GU, PB), HI, PR, VI categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.

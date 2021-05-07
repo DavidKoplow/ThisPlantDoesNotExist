@@ -1,0 +1,9 @@
+A plant that needs between 10.0 and 45.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant that grows in Single Crown form.
+A plant that has a Erect orientation.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant that grows as Forb/herb 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Crown form.

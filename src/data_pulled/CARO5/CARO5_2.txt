@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that grows as Graminoid 
+A plant that grows at a Moderate rate. 
+A plant that grows in the Spring, Summer, Fall 
+A plant with Green flower color. 
+A plant that needs between 14.0 and 60.0 precipitation .

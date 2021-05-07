@@ -1,0 +1,3 @@
+A plant that has a Prostrate orientation.
+A plant that is, isn't low growing grass. 
+A plant that grows in Stoloniferous form.

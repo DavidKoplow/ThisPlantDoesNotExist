@@ -1,0 +1,6 @@
+A plant that needs between 12.0 and 40.0 precipitation .
+A plant that has a Prostrate orientation.
+A plant that grows at a Slow rate. 
+A plant that grows in Stoloniferous form.
+A plant that has Brown colored fruit. 
+A plant with Moderate foliage texture. 

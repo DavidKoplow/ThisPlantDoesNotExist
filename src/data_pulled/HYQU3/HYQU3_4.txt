@@ -1,0 +1,4 @@
+A plant that needs between 32.0 and 60.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant with White flower color. 
+A plant that grows in Multiple Stem form.

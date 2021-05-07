@@ -1,0 +1,13 @@
+A plant that needs between 20.0 and 55.0 precipitation .
+A plant with Moderate foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that grows in Bunch form.
+A plant that grows at a Moderate rate. 
+A plant that lives in NA (L48, CAN, SPM) categorized as Monocot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant that has a Long lifespan.
+A plant with Green foliage color. 
+A plant that grows in Bunch form.
+A plant that has Brown colored fruit. 
+A plant with Green flower color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

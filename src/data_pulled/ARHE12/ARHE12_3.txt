@@ -1,0 +1,4 @@
+A plant that grows at a Rapid rate. 
+A plant that needs between 34.0 and 157.0 precipitation .
+A plant that survives at 35.0 degrees, minimum (°F).
+A plant that grows in Single Crown form.

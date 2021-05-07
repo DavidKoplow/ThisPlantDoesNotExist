@@ -1,0 +1,8 @@
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant with Dense foliage texture. 
+A plant with flower that is, isn't conspicuous.
+A plant that grows in Rhizomatous form.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with White flower color. 
+A plant that has a Erect orientation.
+A plant that needs between 24.0 and 60.0 precipitation .

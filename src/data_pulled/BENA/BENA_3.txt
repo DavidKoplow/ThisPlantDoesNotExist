@@ -1,0 +1,4 @@
+A plant that has a Decumbent orientation.
+A plant with Green flower color. 
+A plant that grows in the Summer 
+A plant that grows at a Moderate rate. 

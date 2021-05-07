@@ -1,0 +1,12 @@
+A plant that grows Annually 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Semi-Erect orientation.
+A plant that lives in NA (L48, AK, CAN, SPM), HI categorized as Monocot in the Plantae kingdom.
+A plant that survives at 47.0 degrees, minimum (°F).
+A plant that grows as Graminoid 
+A plant that not tolerant of fire.
+A plant that grows in Bunch form.
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows at a Rapid rate. 
+A plant with Porous foliage texture. 
+A plant that needs between 10.0 and 55.0 precipitation .

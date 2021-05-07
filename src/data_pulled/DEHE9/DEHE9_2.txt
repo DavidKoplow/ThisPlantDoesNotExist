@@ -1,0 +1,8 @@
+A plant that needs between 16.0 and 59.0 precipitation .
+A plant with Red foliage color. 
+A plant that has Brown colored fruit. 
+A plant that not tolerant of fire.
+A plant that grows at a Rapid rate. 
+A plant that grows as Forb/herb, Vine 
+A plant that grows in Stoloniferous form.
+A plant that has a Prostrate orientation.

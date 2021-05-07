@@ -1,0 +1,9 @@
+A plant that not tolerant of fire.
+A plant that needs between 20.0 and 80.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant that grows in the Year Round 
+A plant that grows Perennially 
+A plant with fruit that is, isn't conspicuous. 
+A plant with Green foliage color. 
+A plant with Porous foliage texture. 
+A plant that grows at a Moderate rate. 

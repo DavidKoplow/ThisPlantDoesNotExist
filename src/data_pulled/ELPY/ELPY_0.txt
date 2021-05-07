@@ -1,0 +1,11 @@
+A plant that starts at 4.0 feet tall. 
+andthat has mature height 5.0 feet tall. 
+A plant that survives at -22.0 degrees, minimum (°F).
+A plant that grows in the Spring and Summer 
+A plant that grows as Shrub 
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Thicket Forming form.
+A plant that grows in Thicket Forming form.
+A plant that grows Perennially 
+A plant with Red flower color. 
+A plant that has a Erect orientation.

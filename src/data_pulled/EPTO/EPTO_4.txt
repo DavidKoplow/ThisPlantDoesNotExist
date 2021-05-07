@@ -1,0 +1,4 @@
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Erect orientation.
+A plant with Porous foliage texture. 

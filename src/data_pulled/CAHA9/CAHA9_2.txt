@@ -1,0 +1,5 @@
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 33.0 feet tall. 
+A plant that grows Perennially 
+A plant that has a Short lifespan.
+A plant that lives in PR, VI categorized as Dicot in the Plantae kingdom.

@@ -1,0 +1,3 @@
+A plant that grows as Graminoid 
+A plant that needs between 12.0 and 60.0 precipitation .
+A plant that survives at 37.0 degrees, minimum (°F).

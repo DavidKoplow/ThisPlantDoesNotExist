@@ -1,0 +1,2 @@
+A plant that grows at a Moderate rate. 
+A plant that needs between 60.0 and 90.0 precipitation .

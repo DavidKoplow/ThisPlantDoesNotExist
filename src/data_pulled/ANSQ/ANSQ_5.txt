@@ -1,0 +1,3 @@
+A plant with Green foliage color. 
+A plant with Yellow flower color. 
+A plant that survives at 27.0 degrees, minimum (°F).

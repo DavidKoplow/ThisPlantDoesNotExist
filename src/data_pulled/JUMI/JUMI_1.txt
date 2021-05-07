@@ -1,0 +1,13 @@
+A plant that grows at a Slow rate. 
+A plant with Dense foliage texture. 
+A plant that has Black colored fruit. 
+A plant that grows Perennially 
+A plant that grows in the Spring and Summer 
+A plant that has a Erect orientation.
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant with Green flower color. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that is, isn't edible.
+A plant that has a Long lifespan.
+A plant that grows in Single Stem form.

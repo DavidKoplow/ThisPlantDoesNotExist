@@ -1,0 +1,4 @@
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Slow rate. 
+A plant with Yellow flower color. 

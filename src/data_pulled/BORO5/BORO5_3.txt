@@ -1,0 +1,4 @@
+A plant that needs between 16.0 and 35.0 precipitation .
+A plant that grows in the Summer 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 

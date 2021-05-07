@@ -1,0 +1,4 @@
+A plant that has a Rounded orientation.
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant that needs between 41.0 and 92.0 precipitation .
+A plant with Dense foliage texture. 

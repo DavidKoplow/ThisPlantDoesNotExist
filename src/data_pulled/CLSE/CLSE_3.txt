@@ -1,0 +1,4 @@
+A plant that needs between 13.0 and 55.0 precipitation .
+A plant with Green foliage color. 
+A plant that survives at 52.0 degrees, minimum (°F).
+A plant that grows as Forb/herb 

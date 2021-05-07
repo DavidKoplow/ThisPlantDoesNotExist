@@ -1,0 +1,6 @@
+A plant that grows in Multiple Stem form.
+A plant that not tolerant of fire.
+A plant that survives at -13.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows as Subshrub, Shrub 
+A plant with Green foliage color. 

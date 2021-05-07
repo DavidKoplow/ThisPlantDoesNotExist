@@ -1,0 +1,4 @@
+A plant that has Brown colored fruit. 
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 

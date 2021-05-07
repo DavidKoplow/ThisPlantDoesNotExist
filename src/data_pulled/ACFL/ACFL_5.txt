@@ -1,0 +1,4 @@
+A plant that needs between 40.0 and 65.0 precipitation .
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant with Green foliage color. 

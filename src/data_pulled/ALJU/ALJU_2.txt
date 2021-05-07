@@ -1,0 +1,9 @@
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant that grows in Single Stem form.
+A plant that survives at 2.0 degrees, minimum (°F).
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that has Brown colored fruit. 
+A plant that grows as Tree, Shrub 
+A plant that starts at 20.0 feet tall. 
+andthat has mature height 20.0 feet tall. 

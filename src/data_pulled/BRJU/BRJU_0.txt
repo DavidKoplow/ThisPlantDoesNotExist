@@ -1,0 +1,15 @@
+A plant that grows in Single Crown form.
+A plant that has a Erect orientation.
+A plant that grows as Forb/herb 
+A plant that grows at a Rapid rate. 
+A plant that grows Annual, Perennially 
+A plant that grows in Single Crown form.
+A plant that is is, isn't conspicuous during the fall 
+A plant with Dark Green foliage color. 
+A plant that survives at 17.0 degrees, minimum (°F).
+A plant that needs between 30.0 and 80.0 precipitation .
+A plant that has Black colored fruit. 
+A plant that is, isn't edible.
+A plant that lives in NA (L48, AK, CAN), HI, PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Short lifespan.

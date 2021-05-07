@@ -1,0 +1,10 @@
+A plant that grows as Subshrub, Forb/herb 
+A plant that needs between 19.0 and 69.0 precipitation .
+A plant that grows at a Rapid rate. 
+A plant with Porous foliage texture. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows in Single Crown form.
+A plant that grows in the Spring and Summer 
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that grows in Single Crown form.

@@ -1,0 +1,12 @@
+A plant that grows in Bunch form.
+A plant that grows in the Spring and Summer 
+A plant that has Brown colored fruit. 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 
+A plant that needs between 36.0 and 55.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant that grows Perennially 
+A plant with Green flower color. 
+A plant with Moderate foliage texture. 
+A plant that grows in Bunch form.
+A plant with Green foliage color. 

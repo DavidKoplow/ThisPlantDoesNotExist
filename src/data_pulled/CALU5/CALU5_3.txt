@@ -1,0 +1,4 @@
+A plant that grows in Bunch form.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has Yellow colored fruit. 
+A plant that has a Long lifespan.

@@ -1,0 +1,4 @@
+A plant that needs between 11.0 and 45.0 precipitation .
+A plant with Dense foliage texture. 
+A plant that grows as Tree, Shrub 
+A plant that has a Long lifespan.

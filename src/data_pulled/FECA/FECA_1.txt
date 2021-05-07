@@ -1,0 +1,9 @@
+A plant with Green foliage color. 
+A plant that has a Erect orientation.
+A plant that needs between 12.0 and 20.0 precipitation .
+A plant that has a Moderate lifespan.
+A plant with Moderate foliage texture. 
+A plant that has Brown colored fruit. 
+A plant that is, isn't low growing grass. 
+A plant that grows in Bunch form.
+A plant that survives at 7.0 degrees, minimum (°F).

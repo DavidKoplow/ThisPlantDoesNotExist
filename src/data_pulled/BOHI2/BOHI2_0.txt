@@ -1,0 +1,12 @@
+A plant with Porous foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that grows in the Summer 
+A plant that lives in NA (L48) categorized as Monocot in the Plantae kingdom.
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that has a Decumbent orientation.
+A plant that has a Long lifespan.
+A plant that has Brown colored fruit. 
+A plant that is, isn't low growing grass. 
+A plant that grows at a Moderate rate. 
+A plant that grows in Colonizing form.

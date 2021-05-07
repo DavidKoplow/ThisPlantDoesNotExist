@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that has a Short lifespan.
+A plant that survives at 40.0 degrees, minimum (°F).
+A plant that needs between 43.0 and 134.0 precipitation .
+A plant with Moderate foliage texture. 
+A plant that grows in Rhizomatous form.

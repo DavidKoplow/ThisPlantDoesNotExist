@@ -1,0 +1,6 @@
+A plant that has a Moderate lifespan.
+A plant with Porous foliage texture. 
+A plant that grows in Rhizomatous form.
+A plant that grows Perennially 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

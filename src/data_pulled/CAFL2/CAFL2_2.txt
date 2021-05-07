@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that lives in NA (L48), PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows Perennially 
+A plant that grows in Single Stem form.
+A plant that does retaining leaves.

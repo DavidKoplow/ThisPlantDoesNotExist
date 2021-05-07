@@ -1,0 +1,6 @@
+A plant that grows in the Year Round 
+A plant that has a Long lifespan.
+A plant that grows at a Rapid rate. 
+A plant with Red flower color. 
+A plant that starts at 45.0 feet tall. 
+andthat has mature height 50.0 feet tall. 

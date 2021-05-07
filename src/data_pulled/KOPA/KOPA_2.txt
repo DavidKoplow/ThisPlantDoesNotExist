@@ -1,0 +1,8 @@
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows as Tree 
+A plant that grows in the Spring 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Moderate foliage texture. 
+A plant with Green foliage color. 
+A plant that grows in Single Stem form.

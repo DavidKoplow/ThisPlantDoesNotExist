@@ -1,0 +1,6 @@
+A plant with Green foliage color. 
+A plant that grows as Tree, Shrub 
+A plant that grows in the Spring and Summer 
+A plant with Dense foliage texture. 
+A plant that has Blue colored fruit. 
+A plant that does retaining leaves.

@@ -1,0 +1,20 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in the Spring and Summer 
+A plant that is is, isn't conspicuous during the fall 
+A plant with Yellow flower color. 
+A plant with Dark Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that starts at 30.0 feet tall. 
+andthat has mature height 45.0 feet tall. 
+A plant that has a Moderate lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 24.0 and 48.0 precipitation .
+A plant that survives at -18.0 degrees, minimum (°F).

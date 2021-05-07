@@ -1,0 +1,4 @@
+A plant that has Red colored fruit. 
+A plant that survives at -3.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 
+A plant that has a Erect orientation.

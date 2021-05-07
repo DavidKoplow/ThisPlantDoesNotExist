@@ -1,0 +1,4 @@
+A plant that has a Erect orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with White flower color. 
+A plant that grows at a Rapid rate. 

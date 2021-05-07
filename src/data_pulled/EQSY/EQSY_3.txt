@@ -1,0 +1,4 @@
+A plant that grows as Forb/herb 
+A plant that needs between 20.0 and 100.0 precipitation .
+A plant that has a Short lifespan.
+A plant that grows Perennially 

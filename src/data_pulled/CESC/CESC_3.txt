@@ -1,0 +1,4 @@
+A plant with White flower color. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows as Vine 
+A plant that needs between 30.0 and 60.0 precipitation .

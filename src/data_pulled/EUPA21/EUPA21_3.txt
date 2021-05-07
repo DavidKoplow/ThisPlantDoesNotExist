@@ -1,0 +1,7 @@
+A plant that starts at 10.0 feet tall. 
+andthat has mature height 10.0 feet tall. 
+A plant that has a Moderate lifespan.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant that grows in the Spring and Summer 

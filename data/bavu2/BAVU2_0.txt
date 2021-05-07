@@ -1,0 +1,15 @@
+A plant that lives in NA (L48, GU, PB), HI, PR, VI categorized as Monocot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree, Subshrub, Graminoid 
+A plant that grows in the Year Round 
+A plant with Brown flower color. 
+A plant with Green foliage color. 
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Bunch form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 60.0 and 100.0 precipitation .
+A plant that survives at 17.0 degrees, minimum (°F).

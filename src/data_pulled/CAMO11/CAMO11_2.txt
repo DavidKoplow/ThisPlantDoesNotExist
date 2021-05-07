@@ -1,0 +1,6 @@
+A plant that grows in Bunch form.
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant that has Brown colored fruit. 
+A plant with Green flower color. 
+A plant that has a Long lifespan.

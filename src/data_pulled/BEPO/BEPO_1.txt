@@ -1,0 +1,10 @@
+A plant that survives at -35.0 degrees, minimum (°F).
+A plant that grows in Thicket Forming form.
+A plant that grows as Tree 
+A plant that has a Erect orientation.
+A plant that grows at a Rapid rate. 
+A plant with Brown flower color. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that is is, isn't conspicuous during the fall 
+A plant that grows in the Spring and Summer 
+A plant that has a Short lifespan.

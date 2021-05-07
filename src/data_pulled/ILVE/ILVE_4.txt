@@ -1,0 +1,5 @@
+A plant that grows in the Spring and Summer 
+A plant that needs between 35.0 and 60.0 precipitation .
+A plant that is is, isn't conspicuous during the fall 
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 10.0 feet tall. 

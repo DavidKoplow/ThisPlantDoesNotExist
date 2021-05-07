@@ -1,0 +1,4 @@
+A plant with White flower color. 
+A plant that grows in the Spring, Summer, Fall 
+A plant that grows as Subshrub, Shrub 
+A plant that grows in Stoloniferous form.

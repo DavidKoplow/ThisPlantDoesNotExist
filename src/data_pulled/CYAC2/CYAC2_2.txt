@@ -1,0 +1,6 @@
+A plant that grows in Bunch form.
+A plant that grows Annual, Perennially 
+A plant that grows as Graminoid 
+A plant with Green flower color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that not tolerant of drought.

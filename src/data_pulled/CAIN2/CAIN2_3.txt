@@ -1,0 +1,5 @@
+A plant that grows at a Moderate rate. 
+A plant that has a Decumbent orientation.
+A plant that grows Perennially 
+A plant that has a Moderate lifespan.
+A plant with Porous foliage texture. 

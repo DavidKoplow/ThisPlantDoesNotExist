@@ -1,0 +1,8 @@
+A plant that grows in the Summer 
+A plant that grows as Shrub 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Slow rate. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant with Yellow flower color. 
+A plant that has a Semi-Erect orientation.

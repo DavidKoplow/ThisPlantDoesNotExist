@@ -1,0 +1,13 @@
+A plant that grows as Graminoid 
+A plant that grows at a Moderate rate. 
+A plant that grows in Bunch form.
+A plant that is, isn't low growing grass. 
+A plant with Yellow flower color. 
+A plant that has a Erect orientation.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that grows in the Spring and Summer 
+A plant that needs between 10.0 and 24.0 precipitation .
+A plant that has Brown colored fruit. 
+A plant with Porous foliage texture. 
+A plant that lives in NA (L48, AK, CAN) categorized as Monocot in the Plantae kingdom.
+A plant that grows in Bunch form.

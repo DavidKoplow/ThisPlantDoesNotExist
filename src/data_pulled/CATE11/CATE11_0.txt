@@ -1,0 +1,14 @@
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has a Prostrate orientation.
+A plant with White flower color. 
+A plant that grows in Single Crown form.
+A plant with Dense foliage texture. 
+A plant that has Brown colored fruit. 
+A plant that grows Perennially 
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Dicot in the Plantae kingdom.
+A plant that has a Long lifespan.
+A plant that needs between 20.0 and 60.0 precipitation .
+A plant that grows as Subshrub, Shrub 
+A plant that does retaining leaves.
+A plant that grows in Single Crown form.
+A plant with Green foliage color. 

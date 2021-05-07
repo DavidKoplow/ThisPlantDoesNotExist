@@ -1,0 +1,20 @@
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Subshrub, Shrub, Forb/herb 
+A plant that grows in the Spring and Summer 
+A plant with Purple flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that has a Short lifespan.
+A plant that has a Erect orientation.
+A plant that not tolerant of drought.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 9.0 and 69.0 precipitation .
+A plant that survives at -18.0 degrees, minimum (°F).

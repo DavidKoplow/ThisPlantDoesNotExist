@@ -1,0 +1,9 @@
+A plant that needs between 12.0 and 20.0 precipitation .
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that starts at 1.0 feet tall. 
+andthat has mature height 1.0 feet tall. 
+A plant that grows Perennially 
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Multiple Stem form.
+A plant that grows in Multiple Stem form.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 

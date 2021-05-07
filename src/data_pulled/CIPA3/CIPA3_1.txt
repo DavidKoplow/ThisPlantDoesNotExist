@@ -1,0 +1,12 @@
+A plant with Dense foliage texture. 
+A plant that not tolerant of fire.
+A plant that is is, isn't conspicuous during the fall 
+A plant that has a Columnar orientation.
+A plant that grows at a Moderate rate. 
+A plant that grows Perennially 
+A plant that grows in the Year Round 
+A plant that lives in NA (L48), PR categorized as Dicot in the Plantae kingdom.
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that does retaining leaves.
+A plant that survives at 31.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 

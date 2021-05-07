@@ -1,0 +1,6 @@
+A plant that grows as Subshrub, Shrub, Forb/herb 
+A plant that does retaining leaves.
+A plant that grows in the Spring 
+A plant that survives at -62.0 degrees, minimum (°F).
+A plant that lives in NA (L48, AK, CAN, GL) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Single Stem form.

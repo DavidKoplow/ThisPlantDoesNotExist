@@ -1,0 +1,4 @@
+A plant that grows as Tree, Shrub 
+A plant that grows at a Slow rate. 
+A plant that grows in Multiple Stem form.
+A plant with Dense foliage texture. 

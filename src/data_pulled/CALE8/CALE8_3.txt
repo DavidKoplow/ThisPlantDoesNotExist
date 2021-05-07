@@ -1,0 +1,4 @@
+A plant that has a Erect orientation.
+A plant that has a Long lifespan.
+A plant that grows in Bunch form.
+A plant that lives in NA (L48, AK, CAN, SPM) categorized as Monocot in the Plantae kingdom.

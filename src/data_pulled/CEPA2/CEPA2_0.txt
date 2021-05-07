@@ -1,0 +1,14 @@
+A plant that has a Irregular orientation.
+A plant with Porous foliage texture. 
+A plant that has Brown colored fruit. 
+A plant with Green foliage color. 
+A plant that survives at 24.0 degrees, minimum (°F).
+A plant that grows as Shrub 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Moderate rate. 
+A plant that grows in Multiple Stem form.
+A plant that has a Moderate lifespan.
+A plant that grows in Multiple Stem form.
+A plant that grows in the Spring and Summer 
+A plant that grows Perennially 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

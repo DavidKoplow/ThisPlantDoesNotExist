@@ -1,0 +1,19 @@
+A plant that lives in NA (L48), HI, PR categorized as Dicot in the Plantae kingdom.
+A plant that grows Annual, Perennially 
+A plant that grows as Vine, Forb/herb 
+A plant that grows in the Year Round 
+A plant with Purple flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that has a Decumbent orientation.
+A plant that grows in Single Stem form.
+A plant that grows at a Moderate rate. 
+A plant that needs between 21.0 and 159.0 precipitation .
+A plant that survives at 32.0 degrees, minimum (°F).

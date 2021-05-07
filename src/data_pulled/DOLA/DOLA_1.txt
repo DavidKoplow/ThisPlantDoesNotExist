@@ -1,0 +1,9 @@
+A plant that has a Prostrate orientation.
+A plant with Purple flower color. 
+A plant that grows as Subshrub, Forb/herb 
+A plant with flower that is, isn't conspicuous.
+A plant that grows at a Moderate rate. 
+A plant that lives in NA (L48, AK, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows in Bunch form.
+A plant that has a Moderate lifespan.
+A plant that survives at -13.0 degrees, minimum (°F).

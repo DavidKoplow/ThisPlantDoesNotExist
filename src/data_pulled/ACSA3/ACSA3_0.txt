@@ -1,0 +1,15 @@
+A plant with Green foliage color. 
+A plant that grows as Tree, Shrub 
+A plant that grows in Single Stem form.
+A plant that has a Long lifespan.
+A plant that survives at -47.0 degrees, minimum (°F).
+A plant that grows at a Slow rate. 
+A plant that has Brown colored fruit. 
+A plant that is is, isn't conspicuous during the fall 
+A plant that is, isn't edible.
+A plant that needs between 22.0 and 80.0 precipitation .
+A plant that grows at a Slow rate. 
+A plant with Dense foliage texture. 
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that has a Erect orientation.
+A plant with Green flower color. 

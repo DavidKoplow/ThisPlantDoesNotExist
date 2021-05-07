@@ -1,0 +1,10 @@
+A plant that grows at a Rapid rate. 
+A plant that grows Annually 
+A plant that survives at 40.0 degrees, minimum (°F).
+A plant that needs between 15.0 and 50.0 precipitation .
+A plant with Green foliage color. 
+A plant with White flower color. 
+A plant that grows at a Rapid rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that grows as Forb/herb 
+

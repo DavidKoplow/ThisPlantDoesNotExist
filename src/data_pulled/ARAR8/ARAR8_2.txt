@@ -1,0 +1,7 @@
+A plant that grows at a Slow rate. 
+A plant that has Brown colored fruit. 
+A plant that has a Oval orientation.
+A plant that needs between 7.0 and 20.0 precipitation .
+A plant that has a Long lifespan.
+A plant that grows Perennially 
+A plant that grows at a Slow rate. 

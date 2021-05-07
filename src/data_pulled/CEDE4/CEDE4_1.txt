@@ -1,0 +1,9 @@
+A plant that grows in Multiple Stem form.
+A plant that not tolerant of drought.
+A plant with Porous foliage texture. 
+A plant that needs between 10.0 and 55.0 precipitation .
+A plant that has White colored fruit. 
+A plant that grows in the Summer 
+A plant that lives in NA (L48, AK, CAN), HI, PR, VI categorized as Dicot in the Plantae kingdom.
+A plant with Blue flower color. 
+A plant that grows at a Rapid rate. 

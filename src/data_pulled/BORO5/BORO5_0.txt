@@ -1,0 +1,11 @@
+A plant that has a Long lifespan.
+A plant that grows in the Summer 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Rhizomatous form.
+A plant that survives at 7.0 degrees, minimum (°F).
+A plant that needs between 16.0 and 35.0 precipitation .
+A plant with Green foliage color. 
+A plant with Red flower color. 
+A plant with Moderate foliage texture. 
+A plant that grows at a Rapid rate. 
+A plant that has Brown colored fruit. 

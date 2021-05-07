@@ -1,0 +1,7 @@
+A plant that needs between 14.0 and 24.0 precipitation .
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that has Red colored fruit. 
+A plant that not tolerant of fire.
+A plant that survives at -3.0 degrees, minimum (°F).
+A plant that grows in Multiple Stem form.
+A plant with Green foliage color. 

@@ -1,0 +1,21 @@
+A plant that lives in NA (L48, CAN) categorized as Dicot in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in the Spring 
+A plant with White flower color. 
+A plant with flower that is, isn't conspicuous.
+A plant with Green foliage color. 
+A plant with Moderate foliage texture. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Black colored fruit. 
+A plant with fruit that is, isn't conspicuous. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that starts at 40.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that has a Short lifespan.
+A plant that has a Erect orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 16.0 and 65.0 precipitation .
+A plant that survives at -37.0 degrees, minimum (°F).

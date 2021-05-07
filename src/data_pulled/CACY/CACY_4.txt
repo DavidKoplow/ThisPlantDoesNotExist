@@ -1,0 +1,4 @@
+A plant that starts at 33.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that grows in the Spring 
+A plant that does retaining leaves.

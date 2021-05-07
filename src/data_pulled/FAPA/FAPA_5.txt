@@ -1,0 +1,3 @@
+A plant that has a Moderate lifespan.
+A plant that has a Irregular orientation.
+A plant with Purple flower color. 

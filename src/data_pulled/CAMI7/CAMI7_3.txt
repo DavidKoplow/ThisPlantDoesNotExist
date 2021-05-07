@@ -1,0 +1,4 @@
+A plant that grows in Bunch form.
+A plant with Porous foliage texture. 
+A plant that has a Long lifespan.
+A plant that grows at a Slow rate. 

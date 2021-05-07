@@ -1,0 +1,6 @@
+A plant that grows as Forb/herb 
+A plant that grows at a Slow rate. 
+A plant that has White colored fruit. 
+A plant that is, isn't edible.
+A plant that needs between 12.0 and 20.0 precipitation .
+A plant with Porous foliage texture. 

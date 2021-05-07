@@ -1,0 +1,12 @@
+A plant with Green foliage color. 
+A plant that lives in NA (L48), HI, PR, VI categorized as Monocot in the Plantae kingdom.
+A plant that grows as Graminoid 
+A plant that has Brown colored fruit. 
+A plant that needs between 5.0 and 14.0 precipitation .
+A plant that has a Moderate lifespan.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Yellow flower color. 
+A plant that grows at a Moderate rate. 
+A plant that grows in Bunch form.
+A plant that grows in Bunch form.
+A plant that grows in the Spring and Summer 

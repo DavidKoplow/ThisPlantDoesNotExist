@@ -1,0 +1,4 @@
+A plant that grows Perennially 
+A plant with Dense foliage texture. 
+A plant that has a Rounded orientation.
+A plant that does retaining leaves.

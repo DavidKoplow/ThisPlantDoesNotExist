@@ -1,0 +1,3 @@
+A plant that has a Erect orientation.
+A plant that not tolerant of drought.
+A plant with Green flower color. 

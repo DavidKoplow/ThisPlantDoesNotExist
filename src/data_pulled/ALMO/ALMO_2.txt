@@ -1,0 +1,9 @@
+A plant that does retaining leaves.
+A plant that has a Long lifespan.
+A plant that grows in the Year Round 
+A plant that grows in Single Stem form.
+A plant with Gray-Green foliage color. 
+A plant that is, isn't edible.
+A plant that starts at 50.0 feet tall. 
+andthat has mature height 50.0 feet tall. 
+A plant with White flower color. 

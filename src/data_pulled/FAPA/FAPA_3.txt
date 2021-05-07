@@ -1,0 +1,6 @@
+A plant with Purple flower color. 
+A plant with Moderate foliage texture. 
+A plant that has a Irregular orientation.
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant with Yellow-Green foliage color. 
+A plant that has a Moderate lifespan.

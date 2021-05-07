@@ -1,0 +1,14 @@
+A plant with Purple flower color. 
+A plant that has a Short lifespan.
+A plant that grows Perennially 
+A plant that starts at 33.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant with fruit that is, isn't conspicuous. 
+A plant with flower that is, isn't conspicuous.
+A plant that grows as Tree, Shrub 
+A plant that has a Irregular orientation.
+A plant with Dense foliage texture. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that does retaining leaves.
+A plant that grows in the Spring 

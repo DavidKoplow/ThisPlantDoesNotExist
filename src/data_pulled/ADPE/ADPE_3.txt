@@ -1,0 +1,4 @@
+A plant that grows as Forb/herb 
+A plant that needs between 36.0 and 60.0 precipitation .
+A plant that has a Semi-Erect orientation.
+A plant that has Brown colored fruit. 

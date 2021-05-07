@@ -1,0 +1,10 @@
+A plant that needs between 32.0 and 200.0 precipitation .
+A plant that has Orange colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Slow rate. 
+A plant that starts at 15.0 feet tall. 
+andthat has mature height 20.0 feet tall. 
+A plant that grows Perennially 
+A plant that grows in the Year Round 
+A plant that grows in Multiple Stem form.
+A plant that has a Short lifespan.

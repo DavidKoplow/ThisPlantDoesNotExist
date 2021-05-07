@@ -1,0 +1,4 @@
+A plant with Porous foliage texture. 
+A plant that has Brown colored fruit. 
+A plant that needs between 16.0 and 32.0 precipitation .
+A plant that grows at a Moderate rate. 

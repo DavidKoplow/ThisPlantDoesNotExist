@@ -1,0 +1,14 @@
+A plant that has a Erect orientation.
+A plant that grows as Forb/herb 
+A plant that has a Long lifespan.
+A plant that grows Perennially 
+A plant that grows in the Spring and Summer 
+A plant with White flower color. 
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 
+A plant that needs between 6.0 and 18.0 precipitation .
+A plant that grows at a Moderate rate. 
+A plant that has Brown colored fruit. 
+A plant that grows in Rhizomatous form.
+A plant with Porous foliage texture. 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that not tolerant of drought.

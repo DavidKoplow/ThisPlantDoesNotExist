@@ -1,0 +1,14 @@
+A plant that grows Perennially 
+A plant that grows in the Year Round 
+A plant that grows at a Moderate rate. 
+A plant that needs between 50.0 and 200.0 precipitation .
+A plant with Green foliage color. 
+A plant that grows in Single Stem form.
+A plant with Moderate foliage texture. 
+A plant that lives in HI categorized as Dicot in the Plantae kingdom.
+A plant that grows in Single Stem form.
+A plant that does retaining leaves.
+A plant that has a Erect orientation.
+A plant that grows at a Moderate rate. 
+A plant with Yellow flower color. 
+A plant that survives at 31.0 degrees, minimum (°F).

@@ -1,0 +1,4 @@
+A plant that survives at -38.0 degrees, minimum (°F).
+A plant that grows at a Moderate rate. 
+A plant that grows in Bunch form.
+A plant with Green flower color. 

@@ -1,0 +1,6 @@
+A plant with Yellow flower color. 
+A plant that survives at -28.0 degrees, minimum (°F).
+A plant that needs between 26.0 and 60.0 precipitation .
+A plant that grows at a Moderate rate. 
+A plant with Green foliage color. 
+A plant that has a Erect orientation.

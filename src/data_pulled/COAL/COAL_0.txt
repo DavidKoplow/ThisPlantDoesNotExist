@@ -1,0 +1,15 @@
+A plant that has a Short lifespan.
+A plant with flower that is, isn't conspicuous.
+A plant with White flower color. 
+A plant that is, isn't edible.
+A plant that needs between 30.0 and 200.0 precipitation .
+A plant that grows in the Spring, Summer, Fall 
+A plant with Green foliage color. 
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Single Stem form.
+A plant that does retaining leaves.
+A plant that grows Perennially 
+A plant that grows as Tree 
+A plant that grows in Single Stem form.
+A plant that grows at a Rapid rate. 

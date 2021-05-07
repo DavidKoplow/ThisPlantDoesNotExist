@@ -1,0 +1,4 @@
+A plant that grows at a Moderate rate. 
+A plant that needs between 28.0 and 55.0 precipitation .
+A plant with Green foliage color. 
+A plant that survives at -3.0 degrees, minimum (°F).

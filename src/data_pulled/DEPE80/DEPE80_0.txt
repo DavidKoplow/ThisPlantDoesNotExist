@@ -1,0 +1,12 @@
+A plant that has a Erect orientation.
+A plant that has Brown colored fruit. 
+A plant that grows at a Rapid rate. 
+A plant with Moderate foliage texture. 
+A plant that grows as Forb/herb 
+A plant with Green foliage color. 
+A plant that grows in Colonizing form.
+A plant that grows in the Summer 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.
+A plant that grows at a Rapid rate. 
+A plant that has a Short lifespan.
+A plant that needs between 20.0 and 60.0 precipitation .

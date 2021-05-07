@@ -1,0 +1,19 @@
+A plant categorized as Gymnosperm in the Plantae kingdom.
+A plant that grows Perennially 
+A plant that grows as Tree, Shrub 
+A plant that grows in the Spring and Summer 
+A plant with White flower color. 
+A plant with Green foliage color. 
+A plant with Dense foliage texture. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that has Brown colored fruit. 
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that starts at 12.0 feet tall. 
+andthat has mature height 60.0 feet tall. 
+A plant that has a Moderate lifespan.
+A plant that has a Decumbent orientation.
+A plant that grows in Multiple Stem form.
+A plant that grows at a Rapid rate. 
+A plant that needs between 30.0 and 60.0 precipitation .
+A plant that survives at -33.0 degrees, minimum (°F).

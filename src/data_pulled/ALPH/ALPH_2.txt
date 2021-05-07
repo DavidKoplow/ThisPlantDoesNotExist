@@ -1,0 +1,6 @@
+A plant that has a Short lifespan.
+A plant that has a Prostrate orientation.
+A plant that needs between 40.0 and 60.0 precipitation .
+A plant that grows as Forb/herb 
+A plant that grows in Stoloniferous form.
+A plant with Porous foliage porosity over the summer and Porous foliage porosity over the winter. 

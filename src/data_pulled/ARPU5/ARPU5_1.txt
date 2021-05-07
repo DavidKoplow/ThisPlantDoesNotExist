@@ -1,0 +1,11 @@
+A plant that grows at a Slow rate. 
+A plant with Dense foliage porosity over the summer and Dense foliage porosity over the winter. 
+A plant that does retaining leaves.
+A plant that starts at 6.0 feet tall. 
+andthat has mature height 12.0 feet tall. 
+A plant that has a Erect orientation.
+A plant that has Red colored fruit. 
+A plant that survives at 22.0 degrees, minimum (°F).
+A plant with Dark Green foliage color. 
+A plant that grows in the Spring 
+A plant that lives in NA (L48) categorized as Dicot in the Plantae kingdom.

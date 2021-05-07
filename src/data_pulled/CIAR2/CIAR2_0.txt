@@ -1,0 +1,12 @@
+A plant with Moderate foliage porosity over the summer and Moderate foliage porosity over the winter. 
+A plant that grows in Bunch form.
+A plant with Green flower color. 
+A plant with Moderate foliage texture. 
+A plant that grows at a Moderate rate. 
+A plant that grows as Graminoid 
+A plant that grows in Bunch form.
+A plant that grows at a Moderate rate. 
+A plant that has Yellow colored fruit. 
+A plant that grows Perennially 
+A plant that survives at -33.0 degrees, minimum (°F).
+A plant that grows in the Spring 
