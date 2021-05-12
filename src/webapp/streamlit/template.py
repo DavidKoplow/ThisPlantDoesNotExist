@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import torch
-from dalle_pytorch import DiscreteVAE, DALLE
+# import torch
+# from dalle_pytorch import DiscreteVAE, DALLE
 
 import os
 
@@ -10,7 +10,7 @@ st.markdown('### App by David, Dylan, Karen')
 
 description = st.text_input(label='Description')
 
-dalle = torch.load("dalle.pt",map_location=torch.device('cpu'))
+#dalle = torch.load("dalle.pt",map_location=torch.device('cpu'))
 
 if st.button('Submit'):
     #send_request(color + ' ' + song)
